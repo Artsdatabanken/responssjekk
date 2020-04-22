@@ -8,7 +8,7 @@ Object.keys(kartlag).forEach(key =>
         if (response.status == 200) {
             console.log("Requested OK")
         } else {
-            console.log("Requested not OK!")
+            console.log("Requested not OK!",kartlag[key].tittel ,kartlag[key].wmsurl)
         }
     }
     request()
