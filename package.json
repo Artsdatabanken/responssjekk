@@ -1,0 +1,10 @@
+{
+    "name": "hygieia",
+    "version": "1.0.0",
+    "description": "Monitors the health of external datasources and reports if any should fail.",
+    "author": "Even Juberg <even.juberg@gmail.com (https://github.com/myrdrahl)",
+    "license": "MIT",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
+}
