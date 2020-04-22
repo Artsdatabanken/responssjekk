@@ -19,7 +19,7 @@ console.log(kartlag)
 console.log(Object.keys(kartlag))
 
 Object.keys(kartlag).forEach(key => 
-    {wmsreq.open('GET', kartlag[key].wmsurl, true)
+    {wmsreq.open('GET', kartlag[key].wmsurl, false)
     wmsreq.send()
     wmsreq.addEventListener("readystatechange", processRequest, false)
     wmsreq.onreadystatechange = processRequest
