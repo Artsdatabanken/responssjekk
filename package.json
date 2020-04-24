@@ -5,7 +5,6 @@
     "author": "Even Juberg <even.juberg@gmail.com (https://github.com/myrdrahl)",
     "license": "MIT",
     "dependencies": {
-        "node-fetch": "^2.6.0",
-        "xmlhttprequest": "^1.8.0"
+        "node-fetch": "^2.6.0"
     }
 }
