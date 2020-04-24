@@ -8,7 +8,7 @@ Object.keys(kartlag).forEach(key =>
     {const request = async () => {
         const response = await fetch(kartlag[key].wmsurl)
         const data = {
-            "text": "Hello"
+            "text": "Jeg virker ikke: " + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
         }
         if (response.status == 200) {
             console.log("Requested OK")
