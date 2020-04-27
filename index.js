@@ -6,8 +6,9 @@ const config = require('./config/config.json')
 Object.keys(kartlag).forEach(key => {
   const request = async () => {
     const response = await fetch(kartlag[key].wmsurl)
+      .catch(err => console.error(err))
     const data = {
-      'text': 'Jeg virker ikke: ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
+      'text': 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
     }
     if (response.status === 200) {
       console.log('Requested OK')
@@ -17,6 +18,7 @@ Object.keys(kartlag).forEach(key => {
         method: 'POST',
         body: JSON.stringify(data)
       })
+        .catch(err => console.error(err))
     }
   }
   request()
