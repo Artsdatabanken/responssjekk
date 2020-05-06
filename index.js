@@ -2,10 +2,11 @@ const fs = require('fs')
 const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
+let message = ''
 
-function postMessageToSlack (key) {
+function postMessageToSlack (message) {
   const data = {
-    'text': 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
+    'text': message
   }
   fetch(config.addressAndToken, {
     method: 'POST',
@@ -22,21 +23,17 @@ Object.keys(kartlag).forEach(key => {
       if (response.status === 200) {
         console.log('Requested OK')
       } else {
-        console.log('Requested not OK!', kartlag[key].tittel, kartlag[key].wmsurl)
-        postMessageToSlack(key)
+        message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
+     //   postMessageToSlack(message)
+     console.log(message)
       }
     }
     request()
   }
   else {
-    const test = {
-      'text': 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
-    }
-    fetch(config.addressAndToken, {
-      method: 'POST',
-      body: JSON.stringify(test)
-    })
-      .catch(err => console.error(err))
+    message = 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
+   // postMessageToSlack(message)
+   console.log(message)
   }
 }
 )
