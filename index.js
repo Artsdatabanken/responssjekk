@@ -2,8 +2,8 @@ const fs = require('fs')
 const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
-//let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
-let output = ''
+let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
+let output = []
 let message = ''
 let timeStamp
 
@@ -36,9 +36,8 @@ Object.keys(kartlag).forEach(key => {
         kartlag[key].status = 'UP'
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
-        output = JSON.stringify(kartlag[key], null, 2)
-        fs.appendFileSync('./output/output.json', output)
-      // console.log(kartlag[key])
+        output.push(kartlag[key])
+       // console.log(kartlag[key])
        
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
@@ -47,8 +46,7 @@ Object.keys(kartlag).forEach(key => {
      kartlag[key].status = 'DOWN'
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
-     output = JSON.stringify(kartlag[key], null, 2)
-     fs.appendFileSync('./output/output.json', output)
+     output.push(kartlag[key])
      // console.log(kartlag[key])
    
       }
@@ -59,6 +57,10 @@ Object.keys(kartlag).forEach(key => {
     message = 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
    // postMessageToSlack(message)
    console.log(message)
+   kartlag[key].status = 'DOWN'
+   timeStamp = calculateTimeStamp ()
+   kartlag[key].timeStamp = timeStamp
+   output.push(kartlag[key])
   }
 }
 )
