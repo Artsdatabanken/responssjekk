@@ -2,9 +2,10 @@ const fs = require('fs')
 const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
+//let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
+let output = ''
 let message = ''
 let timeStamp
-let outPut = []
 
 function postMessageToSlack (message) {
   const data = {
@@ -35,8 +36,10 @@ Object.keys(kartlag).forEach(key => {
         kartlag[key].status = 'UP'
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
+        output = JSON.stringify(kartlag[key], null, 2)
+        fs.appendFileSync('./output/output.json', output)
       // console.log(kartlag[key])
-        outPut.push(kartlag[key])
+       
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
@@ -44,8 +47,10 @@ Object.keys(kartlag).forEach(key => {
      kartlag[key].status = 'DOWN'
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
+     output = JSON.stringify(kartlag[key], null, 2)
+     fs.appendFileSync('./output/output.json', output)
      // console.log(kartlag[key])
-     outPut.push(kartlag[key])
+   
       }
     }
     request()
