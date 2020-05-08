@@ -7,6 +7,7 @@ let alle = {}
 let message = ''
 let timeStamp
 let feilkode
+let teller = 0
 
 function postMessageToSlack (message) {
   const data = {
@@ -39,6 +40,8 @@ Object.keys(kartlag).forEach(key => {
         kartlag[key].timeStamp = timeStamp
         kartlag[key].feilkode = 'funker fint'
         alle[key] = kartlag[key]
+        writeToFile(kartlag, alle)
+       // console.log(alle)
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
@@ -48,6 +51,7 @@ Object.keys(kartlag).forEach(key => {
      kartlag[key].timeStamp = timeStamp
      kartlag[key].feilkode = 'fikk ikke svar'
      alle[key] = kartlag[key]
+     writeToFile(kartlag, alle)
       }
     }
     request()
@@ -61,10 +65,21 @@ Object.keys(kartlag).forEach(key => {
    kartlag[key].timeStamp = timeStamp
    kartlag[key].feilkode = 'mangler wmsurl'
    alle[key] = kartlag[key]
+   writeToFile(kartlag, alle)
    //fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
   }
   
 }
 )
 //console.log(alle)
+function writeToFile () {
+faktiskeKartlag = Object.keys(kartlag)
+console.log(faktiskeKartlag.length)
+kartArr = Object.keys(kartlag)
+alleArr = Object.keys(alle)
+if (kartArr.length === alleArr.length) {
 fs.writeFileSync('./output/output.json', JSON.stringify(alle, null, 2))
+} else {
+  console.log('not yet')
+}
+}
