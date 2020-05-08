@@ -2,10 +2,11 @@ const fs = require('fs')
 const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
-let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
+//let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
 let output = []
 let message = ''
 let timeStamp
+let feilkode
 
 function postMessageToSlack (message) {
   const data = {
@@ -32,23 +33,24 @@ Object.keys(kartlag).forEach(key => {
       const response = await fetch(kartlag[key].wmsurl)
         .catch(err => console.error(err))
       if (response.status === 200) {
-        console.log('Requested OK')
+        // console.log('Requested OK')
         kartlag[key].status = 'UP'
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
-        output.push(kartlag[key])
-       // console.log(kartlag[key])
+        kartlag[key].feilkode = 'funker fint'
+        
+        fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
        
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
-     console.log(message)
+     // console.log(message)
      kartlag[key].status = 'DOWN'
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
-     output.push(kartlag[key])
-     // console.log(kartlag[key])
-   
+     kartlag[key].feilkode = 'fikk ikke svar'
+     fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
+  
       }
     }
     request()
@@ -56,11 +58,13 @@ Object.keys(kartlag).forEach(key => {
   else {
     message = 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
    // postMessageToSlack(message)
-   console.log(message)
+   // console.log(message)
    kartlag[key].status = 'DOWN'
    timeStamp = calculateTimeStamp ()
    kartlag[key].timeStamp = timeStamp
-   output.push(kartlag[key])
+   kartlag[key].feilkode = 'mangler wmsurl'
+   fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
   }
 }
 )
+
