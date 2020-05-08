@@ -3,7 +3,7 @@ const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
 //let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
-let output = []
+let alle = {}
 let message = ''
 let timeStamp
 let feilkode
@@ -38,9 +38,7 @@ Object.keys(kartlag).forEach(key => {
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
         kartlag[key].feilkode = 'funker fint'
-        
-        fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
-       
+        alle[key] = kartlag[key]
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
@@ -49,8 +47,7 @@ Object.keys(kartlag).forEach(key => {
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
      kartlag[key].feilkode = 'fikk ikke svar'
-     fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
-  
+     alle[key] = kartlag[key]
       }
     }
     request()
@@ -63,8 +60,11 @@ Object.keys(kartlag).forEach(key => {
    timeStamp = calculateTimeStamp ()
    kartlag[key].timeStamp = timeStamp
    kartlag[key].feilkode = 'mangler wmsurl'
-   fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
+   alle[key] = kartlag[key]
+   //fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
   }
+  
 }
 )
-
+//console.log(alle)
+fs.writeFileSync('./output/output.json', JSON.stringify(alle, null, 2))
