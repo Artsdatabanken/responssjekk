@@ -114,7 +114,7 @@
     },
     "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:6",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "2": {
@@ -155,7 +155,7 @@
     },
     "wmsurl": "https://wms.nibio.no/cgi-bin/ar5?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:6",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "3": {
@@ -190,7 +190,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "4": {
@@ -253,7 +253,7 @@
     },
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&",
     "status": "DOWN",
-    "timeStamp": "2020-5-8 16:9:6",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "fikk ikke svar"
   },
   "18": {
@@ -308,7 +308,7 @@
     },
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "19": {
@@ -333,7 +333,7 @@
     },
     "wmsurl": "https://gis3.NVE.no/map/services/VerneplanforVassdrag/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:6",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "20": {
@@ -358,7 +358,7 @@
     },
     "wmsurl": "http://kart.artsdatabanken.no/WMS/lkm.aspx?https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "21": {
@@ -382,7 +382,7 @@
     },
     "wmsurl": "https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "22": {
@@ -399,14 +399,15 @@
     "tittel": "Kalkinnhold",
     "type": "kalk",
     "status": "DOWN",
-    "timeStamp": "2020-5-8 16:9:6",
+    "timeStamp": "2020-5-11 10:7:25",
     "feilkode": "mangler wmsurl"
   },
   "23": {
     "dataeier": "Fiskeridirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/fiskeridirektoratets-wms/e247c30c-4099-42ce-b080-2e8690f2861b",
     "kildeurl": "https://www.fiskeridir.no/",
-    "klikktekst": "{fjord} ({fylke})",
-    "klikkurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&version=1.1.1&srs=EPSG:4326&layers=layer_388&query_layers=layer_388&info_format=application/vnd.ogc.gml&height=255&width=255&x=128&y=128&request=GetFeatureInfo&service=WMS&bbox={bbox}",
+    "klikktekst": "{ }",
+    "klikkurl": "https://ogc.fiskeridir.no/wms.ashx?version=1.1.1&service=WMS&request=GetFeatureInfoUrl&layer=group_13&format=html&STYLE=default&bbox={bbox }",
     "tags": [
       "Administrative støttekart"
     ],
@@ -447,7 +448,7 @@
       "77": {
         "erSynlig": true,
         "legendeurl": "https://ogc.fiskeridir.no/wms.ashx?version=1.1.1&service=WMS&request=GetLegendGraphic&layer=layer_610&format=image/png&STYLE=default",
-        "tittel": "Tare - Høstefelt",
+        "tittel": "Tare - Høstefelt (Nord-Trøndelag)",
         "wmslayer": "layer_610"
       },
       "78": {
@@ -465,7 +466,7 @@
     },
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "24": {
@@ -492,7 +493,7 @@
     },
     "wmsurl": "http://geo.ngu.no/mapserver/LosmasserWMS?language=nor&srs=EPSG:900913&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "25": {
@@ -514,7 +515,7 @@
     },
     "wmsurl": "https://forvaltningsportalapi.test.artsdatabanken.no/rpc/vtile?datasett=FYL&z={z}&x={x}&y={y}",
     "status": "DOWN",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "fikk ikke svar"
   },
   "26": {
@@ -541,7 +542,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "27": {
@@ -570,7 +571,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "28": {
@@ -596,7 +597,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "29": {
@@ -624,7 +625,7 @@
     },
     "wmsurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS2?language=nor&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "30": {
@@ -679,7 +680,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal/MapServer/WmsServer?",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "31": {
@@ -736,7 +737,7 @@
     },
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskart.aspx?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   },
   "32": {
@@ -760,7 +761,48 @@
     },
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "status": "UP",
-    "timeStamp": "2020-5-8 16:9:7",
+    "timeStamp": "2020-5-11 10:7:26",
+    "feilkode": "funker fint"
+  },
+  "33": {
+    "dataeier": "Kartverket",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kartverket/hoydedata-laser/f297e948-8a34-4e6c-9740-54b3a657f8d5",
+    "klikktekst": "{0.elevasjon} moh",
+    "klikkurl": "https://forvaltningsportalapi.test.artsdatabanken.no/rpc/elevasjon?lat=63&lng=10",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_DTM%2050_v3_dtm-50_.pdf",
+    "tags": [],
+    "tittel": "Høydedata",
+    "status": "DOWN",
+    "timeStamp": "2020-5-11 10:7:26",
+    "feilkode": "mangler wmsurl"
+  },
+  "34": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/elvenett-elvis-wms/d847521e-cca5-4934-a2cf-0cf134757f09",
+    "kildeurl": "https://www.nve.no/",
+    "klikktekst": "{features.0.attributes.elvenavn}",
+    "klikkurl": "https://gis3.NVE.no/map/services/Elvenett1/MapServer/WmsServer?QUERY_LAYERS=hovedelv,elvenett&styles=&format=image%2Fpng&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG%3A4326&request=GetFeatureInfo&service=WMS&bbox={bbox}",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_Elvenett%20-%20ELVIS_v5_produktark-elvis-20180524_.pdf",
+    "tags": [],
+    "tema": "Vann",
+    "tittel": "Elvenett Elvis",
+    "underlag": {
+      "80": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Elvenett1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=hovedelv",
+        "tittel": "Hovedelv",
+        "wmslayer": "hovedelv"
+      },
+      "81": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Elvenett1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=elvenett",
+        "tittel": "Elvenett",
+        "wmslayer": "elvenett"
+      }
+    },
+    "wmsurl": "https://gis3.nve.no/map/services/Elvenett1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-11 10:7:26",
     "feilkode": "funker fint"
   }
 }

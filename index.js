@@ -77,6 +77,8 @@ faktiskeKartlag = Object.keys(kartlag)
 console.log(faktiskeKartlag.length)
 kartArr = Object.keys(kartlag)
 alleArr = Object.keys(alle)
+console.log(kartArr)
+console.log(alleArr)
 if (kartArr.length === alleArr.length) {
 fs.writeFileSync('./output/output.json', JSON.stringify(alle, null, 2))
 } else {
