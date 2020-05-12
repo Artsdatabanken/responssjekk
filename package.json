@@ -5,9 +5,10 @@
     "author": "Even Juberg <even.juberg@gmail.com (https://github.com/myrdrahl)",
     "license": "MIT",
     "dependencies": {
+        "fs": "0.0.1-security",
         "node-fetch": "^2.6.0"
     },
-    "scripts":{
+    "scripts": {
         "preprocess": "node download.js",
         "process": "node index.js"
     }
