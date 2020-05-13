@@ -1,19 +1,29 @@
 body {
-    background-color: lightcoral;
   }
-  .wrapper {
-      display: flex;
-      flex-direction: column;
-  }
-#hovedlag {
-  display: inline;
-  flex: 1;
-  background-color:gray;
-  padding-left: 10px;
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    border:1px solid grey;
 }
-#underlag {
-  display: inline;
+
+.underlag,
+.hovedlag {
+  display: flex;
   flex: 1;
-  background-color: lightblue;
   padding-left: 10px;
+  border-bottom:1px solid grey;
+}
+
+.underlag span,
+.hovedlag span{
+  flex:1;
+  text-align: left;
+  padding:5px;
+  display:inline-block;
+}
+
+.underlag{
+  background: #ececec;
+  padding-left:10px;
 }

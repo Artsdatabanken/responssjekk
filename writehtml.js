@@ -1,15 +1,39 @@
-document.addEventListener("DOMContentLoaded", function(event) { 
-  let local_data = data
-  //console.log(local_data)      
+
+console.log("running")
+
+document.addEventListener("DOMContentLoaded", function(event) {
+
+  console.log("JEG KJØRER")
+  let local_data = data;
   Object.keys(local_data).forEach(hovedlag => {
-    document.getElementById('wrapper').innerHTML += '<div class="hovedlag" id="hovedlag"> ' + '<div id="hovedlag"> ' + hovedlag + '</div>' + '<div id=hovedlag>' + local_data[hovedlag].tittel + '</div>'  + '<div id="hovedlag"> ' + local_data[hovedlag].wmsurl + '</div> ' + '<div id="hovedlag">' + local_data[hovedlag].status + '</div>' + '<div id="hovedlag">' + local_data[hovedlag].timeStamp + '</div>' + '</div>'
-    if (local_data[hovedlag].underlag) {
-      Object.keys(local_data[hovedlag].underlag).forEach(underlagKey => {
-      document.getElementById('hovedlag').innerHTML += '<div class="underlag"> ' + '<div id="underlag"> ' + hovedlag + '-' + underlagKey + '</div>' + '<div id="underlag">' + local_data[hovedlag].underlag[underlagKey]["tittel"] + '</div>' + '<div id="underlag">' + local_data[hovedlag].underlag[underlagKey]["legendeurl"] + '</div>' + '</div>'
+    let lag = local_data[hovedlag];
+    let string = '<div class="hovedlag"> ';
+    string += '<span> ' + hovedlag + '</span>';
+    string += '<span>' + lag.tittel + '</span>';
+    string += '<span>' + lag.wmsurl + '</span> ';
+    string += '<span>' + lag.status + '</span>';
+    string += '<span>' + lag.timeStamp + '</span>'
+    string += '</div>';
+
+    document.getElementById('wrapper').innerHTML +=  string;
+
+
+    if (lag.underlag) {
+      Object.keys(lag.underlag).forEach(underlagKey => {
+
+      let string = "";
+      string += '<div class="underlag"> ';
+      string += '<span> ' + hovedlag + '-' + underlagKey + '</span>';
+      string += '<span>' + local_data[hovedlag].underlag[underlagKey]["tittel"] + '</span>' ;
+      string += '<span>' + local_data[hovedlag].underlag[underlagKey]["legendeurl"] + '</span>';
+      string += '</div>';
+
+      document.getElementById('wrapper').innerHTML +=  string;
       })
-       
+
     }
+
   }
   )
 }
-) 
+)
