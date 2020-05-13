@@ -1,10 +1,10 @@
-{
+var data = {
   "1": {
     "dataeier": "NIBIO",
     "faktaark": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=text/html&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=256&width=256&request=GetFeatureInfo&service=WMS&bbox={bbox}&info_format=text/html",
     "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/skogbruksplan-miljoeregistreringer-i-skog---mis-figurer---wms/9ae66d3b-8ea0-4e0c-8e25-01511a98e683",
     "kildeurl": "https://www.nibio.no/",
-    "klikktekst": "{vegtype_beskr}",
+    "klikktekst": "{livsm_beskr}",
     "klikkurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=application/vnd.ogc.gml&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=255&width=255&request=GetFeatureInfo&service=WMS&bbox={bbox}",
     "produktark": "https://register.geonorge.no/data/documents/Milj%C3%B8registreringer%20i%20skog_Produktark_S-L_Miljoregistreringer%20i%20skog.pdf",
     "tags": [
@@ -14,9 +14,107 @@
     "tema": "Skog",
     "tittel": "Livsmiljøer",
     "type": "livsmiljø",
+    "underlag": {
+      "1": {
+        "erSynlig": true,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Livsmiljoer&format=image/png&STYLE=default&",
+        "tittel": "Livsmiljøer",
+        "wmslayer": "Livsmiljoer"
+      },
+      "57": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Dekningskart_oversikt&format=image/png&STYLE=default",
+        "tittel": "Dekningskart - oversikt",
+        "wmslayer": "Dekningskart_oversikt"
+      },
+      "58": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Dekningskart_detalj&format=image/png&STYLE=default",
+        "tittel": "Dekningskart - detalj",
+        "wmslayer": "Dekningskart_detalj"
+      },
+      "59": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bekkeklofter_all&format=image/png&STYLE=default",
+        "tittel": "Bekkekløfter",
+        "wmslayer": "Bekkeklofter_all"
+      },
+      "60": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergvegger_flate_all&format=image/png&STYLE=default",
+        "tittel": "Bergvegger - Flate",
+        "wmslayer": "Bergvegger_flate_all"
+      },
+      "61": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergvegger_linje_all&format=image/png&STYLE=default",
+        "tittel": "Bergvegger - Linje",
+        "wmslayer": "Bergvegger_linje_all"
+      },
+      "62": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Brannflater_all&format=image/png&STYLE=default",
+        "tittel": "Brannflater",
+        "wmslayer": "Brannflater_all"
+      },
+      "63": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Eldre_lauvsuksesjon_all&format=image/png&STYLE=default",
+        "tittel": "Eldre lauvsuksesjon",
+        "wmslayer": "Eldre_lauvsuksesjon"
+      },
+      "64": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Gamle_trar_all&format=image/png&STYLE=default",
+        "tittel": "Gamle trær",
+        "wmslayer": "Gamle_trar_all"
+      },
+      "65": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Hule_lauvtrar_all&format=image/png&STYLE=default",
+        "tittel": "Hule lauvtrær",
+        "wmslayer": "Hule_lauvtrar"
+      },
+      "66": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Leirraviner_all&format=image/png&STYLE=default",
+        "tittel": "Leirraviner",
+        "wmslayer": "Leirraviner_all"
+      },
+      "67": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Liggende_dod_ved_all&format=image/png&STYLE=default",
+        "tittel": "Liggende død ved",
+        "wmslayer": "Liggende_dod_ved_all&"
+      },
+      "68": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Rik_bakkeveg_all&format=image/png&STYLE=default",
+        "tittel": "Rik bakkevegetasjon",
+        "wmslayer": "Rik_bakkeveg_all"
+      },
+      "69": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Rikbarkstrar_all&format=image/png&STYLE=default",
+        "tittel": "Rikbarkstrær",
+        "wmslayer": "Rikbarkstrar"
+      },
+      "70": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Staende_dod_ved_all&format=image/png&STYLE=default",
+        "tittel": "Stående død ved",
+        "wmslayer": "Staende_dod_ved"
+      },
+      "71": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Trar_m_hengelav_all&format=image/png&STYLE=default",
+        "tittel": "Trær med hengelav",
+        "wmslayer": "Trar_m_hengelav"
+      }
+    },
     "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 10:30:51",
     "feilkode": "funker fint"
   }
 }
