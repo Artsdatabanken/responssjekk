@@ -1,10 +1,10 @@
-{
+var data ={
   "1": {
     "dataeier": "NIBIO",
     "faktaark": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=text/html&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=256&width=256&request=GetFeatureInfo&service=WMS&bbox={bbox}&info_format=text/html",
     "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/skogbruksplan-miljoeregistreringer-i-skog---mis-figurer---wms/9ae66d3b-8ea0-4e0c-8e25-01511a98e683",
     "kildeurl": "https://www.nibio.no/",
-    "klikktekst": "{vegtype_beskr}",
+    "klikktekst": "{livsm_beskr}",
     "klikkurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=application/vnd.ogc.gml&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=255&width=255&request=GetFeatureInfo&service=WMS&bbox={bbox}",
     "produktark": "https://register.geonorge.no/data/documents/Milj%C3%B8registreringer%20i%20skog_Produktark_S-L_Miljoregistreringer%20i%20skog.pdf",
     "tags": [
@@ -114,7 +114,7 @@
     },
     "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "2": {
@@ -131,7 +131,7 @@
       "DOK-data"
     ],
     "tema": "Arealressurs",
-    "tittel": "Arealressurs: AR5 Arealtype",
+    "tittel": "Arealressurs: AR5",
     "type": "arealtype",
     "underlag": {
       "2": {
@@ -155,7 +155,7 @@
     },
     "wmsurl": "https://wms.nibio.no/cgi-bin/ar5?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "3": {
@@ -172,7 +172,7 @@
       "DOK-data"
     ],
     "tema": "Naturtyper",
-    "tittel": "Naturtyper Mdir",
+    "tittel": "Naturtyper - NiN Mdir",
     "type": "naturtype",
     "underlag": {
       "3": {
@@ -186,11 +186,41 @@
         "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=dekningskart_nin",
         "tittel": "Dekningskart",
         "wmslayer": "dekningskart_nin"
+      },
+      "115": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=naturtype_nin_svart_hoy_lokalitetskvalitet",
+        "tittel": "Naturtype NiN -  Svært høy lokalitetskvalitet",
+        "wmslayer": "naturtype_nin_svart_hoy_lokalitetskvalitet"
+      },
+      "116": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=naturtype_nin_hoy_lokalitetskvalitet",
+        "tittel": "Naturtype NiN - høy lokalitetskvalitet",
+        "wmslayer": "naturtype_nin_hoy_lokalitetskvalitet"
+      },
+      "117": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=naturtype_nin_moderat_lokalitetskvalitet",
+        "tittel": "Naturtype NiN - moderat lokalitetskvalitet",
+        "wmslayer": "naturtype_nin_moderat_lokalitetskvalitet"
+      },
+      "118": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=naturtype_nin_lav_lokalitetskvalitet",
+        "tittel": "Naturtype NiN -  lav lokalitetskvalitet",
+        "wmslayer": "naturtype_nin_lav_lokalitetskvalitet"
+      },
+      "119": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=naturtype_nin_ikke_fullst_kvalitetsvurdert",
+        "tittel": "Naturtype NiN - ikke fullstendig kvalitetsvurdert",
+        "wmslayer": "naturtype_nin_ikke_fullst_kvalitetsvurdert"
       }
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "4": {
@@ -253,7 +283,7 @@
     },
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&",
     "status": "DOWN",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "fikk ikke svar"
   },
   "18": {
@@ -308,7 +338,7 @@
     },
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "19": {
@@ -333,7 +363,7 @@
     },
     "wmsurl": "https://gis3.NVE.no/map/services/VerneplanforVassdrag/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "20": {
@@ -358,7 +388,7 @@
     },
     "wmsurl": "http://kart.artsdatabanken.no/WMS/lkm.aspx?https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "21": {
@@ -382,7 +412,7 @@
     },
     "wmsurl": "https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "22": {
@@ -399,7 +429,7 @@
     "tittel": "Kalkinnhold",
     "type": "kalk",
     "status": "DOWN",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:20",
     "feilkode": "mangler wmsurl"
   },
   "23": {
@@ -409,7 +439,8 @@
     "klikktekst": "{ }",
     "klikkurl": "https://ogc.fiskeridir.no/wms.ashx?version=1.1.1&service=WMS&request=GetFeatureInfoUrl&layer=group_13&format=html&STYLE=default&bbox={bbox }",
     "tags": [
-      "Administrative støttekart"
+      "Administrative støttekart",
+      "Marint"
     ],
     "tema": "Vann",
     "tittel": "Fiskerireguleringer og vern",
@@ -466,7 +497,7 @@
     },
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:15",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "24": {
@@ -493,7 +524,7 @@
     },
     "wmsurl": "http://geo.ngu.no/mapserver/LosmasserWMS?language=nor&srs=EPSG:900913&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "25": {
@@ -515,7 +546,7 @@
     },
     "wmsurl": "https://forvaltningsportalapi.test.artsdatabanken.no/rpc/vtile?datasett=FYL&z={z}&x={x}&y={y}",
     "status": "DOWN",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "fikk ikke svar"
   },
   "26": {
@@ -542,7 +573,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "27": {
@@ -571,7 +602,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "28": {
@@ -598,7 +629,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:22",
     "feilkode": "funker fint"
   },
   "29": {
@@ -626,7 +657,7 @@
     },
     "wmsurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS2?language=nor&request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "30": {
@@ -681,7 +712,7 @@
     },
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal/MapServer/WmsServer?",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "31": {
@@ -739,7 +770,7 @@
     },
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskart.aspx?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "32": {
@@ -750,9 +781,12 @@
     "klikkurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&version=1.1.1&srs=EPSG:4326&layers=layer_351&query_layers=layer_351&info_format=application/vnd.ogc.gml&height=255&width=255&x=128&y=128&request=GetFeatureInfo&service=WMS&bbox={bbox}",
     "produktark": "https://register.geonorge.no/data/documents/Produktark_gyteomrader_v2_gyteomrader_.pdf",
     "tags": [
-      "Arter"
+      "Arter",
+      "Marint"
     ],
+    "tema": "Arter",
     "tittel": "Gyteområder",
+    "type": "Arter",
     "underlag": {
       "72": {
         "erSynlig": true,
@@ -763,7 +797,7 @@
     },
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:15",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "33": {
@@ -775,7 +809,7 @@
     "tags": [],
     "tittel": "Høydedata",
     "status": "DOWN",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:20",
     "feilkode": "mangler wmsurl"
   },
   "34": {
@@ -785,8 +819,11 @@
     "klikktekst": "{features.0.attributes.elvenavn}",
     "klikkurl": "https://gis3.NVE.no/map/services/Elvenett1/MapServer/WmsServer?QUERY_LAYERS=hovedelv,elvenett&styles=&format=image%2Fpng&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG%3A4326&request=GetFeatureInfo&service=WMS&bbox={bbox}",
     "produktark": "https://register.geonorge.no/data/documents/Produktark_Elvenett%20-%20ELVIS_v5_produktark-elvis-20180524_.pdf",
-    "tags": [],
-    "tema": "Vann",
+    "tags": [
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
     "tittel": "Elvenett Elvis",
     "underlag": {
       "80": {
@@ -804,26 +841,654 @@
     },
     "wmsurl": "https://gis3.nve.no/map/services/Elvenett1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   },
   "35": {
     "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/dybdekart/9285f93e-d6d7-498c-a289-35700d795fc1",
     "kildeurl": "https://www.nve.no/",
-    "tags": [],
+    "klikkurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?",
+    "tags": [
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Ferskvann"
+    ],
     "tema": "Vann",
     "tittel": "Innsjødatabase",
+    "type": "Administrative støttekart",
     "underlag": {
       "82": {
-        "erSynlig": false,
+        "erSynlig": true,
         "legendeurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Innsjodatabase",
         "tittel": "Innsjødatabase",
         "wmslayer": "Innsjodatabase"
+      },
+      "110": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Dybdekart",
+        "tittel": "Dybdekart",
+        "wmslayer": "Dybdekart"
+      },
+      "111": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Innsjo_ved_dybdemaling",
+        "tittel": "Innsjo ved dybdemaling",
+        "wmslayer": "Innsjo_ved_dybdemaling"
+      },
+      "112": {
+        "erSynlig": false,
+        "legendeurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=DybdeKurve",
+        "tittel": "DybdeKurve",
+        "wmslayer": "DybdeKurve"
+      },
+      "113": {
+        "erSynlig": false,
+        "legendeurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=DybdePunkt",
+        "tittel": "Dybde punkt",
+        "wmslayer": "DybdePunkt"
       }
     },
     "wmsurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "status": "UP",
-    "timeStamp": "2020-5-11 13:42:14",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "36": {
+    "dataeier": "Artsdatabanken",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/artskart-fremmede-arter-wms/010e6d6b-5ba7-4d1c-9b2e-e5dc6133fc79",
+    "kildeurl": "https://www.artsdatabanken.no/",
+    "tags": [
+      "Arter"
+    ],
+    "tema": "Arter",
+    "tittel": "Artskart - fremmede arter 2018",
+    "type": "Arter",
+    "underlag": {
+      "83": {
+        "erSynlig": true,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=artskart&format=image/png&STYLE=default",
+        "tittel": "Alle kategorier",
+        "wmslayer": "Artskart"
+      },
+      "84": {
+        "erSynlig": false,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SE&format=image/png&STYLE=default",
+        "tittel": "SE - Svært høy risiko",
+        "wmslayer": "SE"
+      },
+      "85": {
+        "erSynlig": false,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HI&format=image/png&STYLE=default",
+        "tittel": "HI - Høy risiko",
+        "wmslayer": "HI"
+      },
+      "86": {
+        "erSynlig": false,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=PH&format=image/png&STYLE=default",
+        "tittel": "PH - Potensielt høyu risiko",
+        "wmslayer": "PH"
+      },
+      "87": {
+        "erSynlig": false,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=LO&format=image/png&STYLE=default",
+        "tittel": "LO - Lav Risiko",
+        "wmslayer": "LO"
+      },
+      "88": {
+        "erSynlig": false,
+        "legendeurl": "http://kart.artsdatabanken.no/WMS/artskartfa.aspx?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=NK&format=image/png&STYLE=default",
+        "tittel": "NK - Ingen kjent risiko",
+        "wmslayer": "NK"
+      }
+    },
+    "wmsurl": "https://kart.artsdatabanken.no/WMS/artskartfa.aspx?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "37": {
+    "dataeier": "Kartverket",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/dybdedata-skyggerelieff-graa-wms/010c3fc4-3551-47aa-b10a-e01735bd1c0f",
+    "klikkurl": "https://wms.geonorge.no/skwms1/wms.havbunnraster3?",
+    "tags": [
+      "Modellerte data",
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Marint"
+    ],
+    "tittel": "Dybdedata terrengmodeller",
+    "underlag": {
+      "89": {
+        "erSynlig": true,
+        "legendeurl": "https://wms.geonorge.no/skwms1/wms.havbunnraster3?language=eng&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=sjo_skyggerelieff&format=image/png&STYLE=default",
+        "tittel": "havbunnraster med grå dybde og 50% skygge",
+        "wmslayer": "graa_havbunnraster_dybde_skygge"
+      }
+    },
+    "wmsurl": "https://wms.geonorge.no/skwms1/wms.havbunnraster3?service=WMS&request=GetCapabilities",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "38": {
+    "dataeier": "NGU",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/berggrunn-n50/a5c76d05-33bd-4a1d-b28b-81575092e468",
+    "kildeurl": "https://www.ngu.no/",
+    "klikktekst": "{features.0.attributes.Bergartsbeskrivelse}",
+    "klikkurl": "http://geo.ngu.no/mapserver/BerggrunnN50WMS?language=nor&",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_Berggrunn%20N50_v2_produktark-berggrunnn50-ngu_.pdf",
+    "tags": [
+      "Feltkartlagte data",
+      "Miljøvariabler og økologiske grunnlagsdata"
+    ],
+    "tema": "Geologi",
+    "tittel": "Berggrunn N50",
+    "underlag": {
+      "92": {
+        "erSynlig": false,
+        "legendeurl": "http://geo.ngu.no/mapserver/BerggrunnN50WMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergart_N50_dekning&format=image/png&STYLE=default",
+        "tittel": "Dekninsgskart N50",
+        "wmslayer": "Bergart_N50_dekning"
+      },
+      "93": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/BerggrunnN50WMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergart_flate_N50&format=image/png&STYLE=default",
+        "tittel": "Bergart flate N50",
+        "wmslayer": "Bergart_flate_N50"
+      }
+    },
+    "wmsurl": "http://geo.ngu.no/mapserver/BerggrunnN50WMS?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "39": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/regine-enhet/8721cdac-f959-4adc-9d54-d3b770e5fa1e",
+    "kildeurl": "https://www.nve.no/",
+    "klikkurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?version=1.3.0&request=GetFeatureInfo&crs=EPSG:4326&info_format=text/html&bbox={bbox}&layers=Sidenedborfelt,Vassdragsomrade,Nedborfelt_til_hav,REGINE_enhet&query_layers=Sidenedborfelt,Vassdragsomrade,Nedborfelt_til_hav,REGINE_enhet&x={x}&y={y}&height=1329&width=2005",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_REGINE_v4_regine14012019_.pdf",
+    "tags": [
+      "Modellerte data",
+      "Administrative støttekart",
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
+    "tittel": "Nedbørfelt",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "94": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Nedborfelt_til_hav",
+        "tittel": "Nedbørfelt til hav",
+        "wmslayer": "Nedborfelt_til_hav"
+      },
+      "95": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Sidenedborfelt",
+        "tittel": "Sidenedbørfelt",
+        "wmslayer": "Sidenedborfelt"
+      },
+      "96": {
+        "erSynlig": false,
+        "legendeurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=REGINE_enhet",
+        "tittel": "REGINE enhet",
+        "wmslayer": "REGINE_enhet"
+      },
+      "97": {
+        "erSynlig": false,
+        "legendeurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Vassdragsomrade",
+        "tittel": "Vassdragsområde",
+        "wmslayer": "Vassdragsomrade"
+      }
+    },
+    "wmsurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "40": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/vannkraft-utbygd-og-ikke-utbygd/f587a15a-c72a-4b21-aae9-4132df1bdd27",
+    "kildeurl": "https://www.nve.no/",
+    "klikkurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_Vannkraft,%20utbygd%20og%20ikke%20utbygd_v3_produktarknve-vannkraft-utbygd-og-ikke-utbygd20180524_.pdf",
+    "tags": [
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
+    "tittel": "Vannkraft - utbygd",
+    "underlag": {
+      "98": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Dam",
+        "tittel": "Dam",
+        "wmslayer": "Dam"
+      },
+      "99": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Dam_N250",
+        "tittel": "Dam_N250",
+        "wmslayer": "Dam_N250"
+      },
+      "100": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Magasin",
+        "tittel": "Magasin",
+        "wmslayer": "Magasin"
+      },
+      "101": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Vannvei",
+        "tittel": "Vannvei",
+        "wmslayer": "Vannvei"
+      },
+      "102": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Utlopspunkt",
+        "tittel": "Utløpspunkt",
+        "wmslayer": "Utlopspunkt"
+      },
+      "103": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Inntakspunkt",
+        "tittel": "Inntakspunkt",
+        "wmslayer": "Inntakspunkt"
+      },
+      "104": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Vannkraftverk",
+        "tittel": "Vannkraftverk",
+        "wmslayer": "Vannkraftverk"
+      }
+    },
+    "wmsurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "41": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/vannkraft-utbygd-og-ikke-utbygd/f587a15a-c72a-4b21-aae9-4132df1bdd27",
+    "kildeurl": "https://www.nve.no/",
+    "klikkurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_Vannkraft,%20utbygd%20og%20ikke%20utbygd_v3_produktarknve-vannkraft-utbygd-og-ikke-utbygd20180524_.pdf",
+    "tags": [
+      "Administrative støttekart",
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
+    "tittel": "Vannkraft - ikke utbygd",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "105": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Ikke_utbygd_magasin",
+        "tittel": "Ikke utbygd magasin",
+        "wmslayer": "Ikke_utbygd_magasin"
+      },
+      "106": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Ikke_utbygd_dam",
+        "tittel": "Ikke utbygd dam",
+        "wmslayer": "Ikke_utbygd_dam"
+      },
+      "107": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Ikke_utbygd_inntakspunkt",
+        "tittel": "Ikke utbygd inntakspunkt",
+        "wmslayer": "Ikke_utbygd_inntakspunkt"
+      },
+      "108": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Ikke_utbygd_vannkraftverk",
+        "tittel": "Ikke utbygd vannkraftverk",
+        "wmslayer": "Ikke_utbygd_vannkraftverk"
+      },
+      "109": {
+        "erSynlig": true,
+        "legendeurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Ikke_utbygd_vannvei",
+        "tittel": "Ikke utbygd vannvei",
+        "wmslayer": "Ikke_utbygd_vannvei"
+      }
+    },
+    "wmsurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "42": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/naturvernomraader-foresltte/0e7eb17f-35ef-46d3-a465-3112d8bb2b5e",
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "klikkurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?",
+    "produktark": "https://register.geonorge.no/data/documents/Foresl%C3%A5tte%20naturvernomr%C3%A5der_Produktark_MILJODIR_ForeslatteNaturverneomr%C3%A5der_2014.pdf",
+    "tags": [
+      "Administrative støttekart"
+    ],
+    "tittel": "Naturvernområder - foreslåtte",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "114": {
+        "erSynlig": true,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=foreslatt_naturvern_omrade",
+        "tittel": "Foreslatt naturvernområde",
+        "wmslayer": "foreslatt_naturvern_omrade"
+      }
+    },
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer?service=wms&request=getcapabilities",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "43": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kulturlandskap-utvalgte/7ce68b6a-64a8-4cf3-9ca0-0f773483ba92",
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "klikkurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_utvalgte/MapServer/WmsServer?",
+    "tags": [
+      "Administrative støttekart"
+    ],
+    "tittel": "Kulturlandskap - utvalgte",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "120": {
+        "erSynlig": true,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_utvalgte/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=kulturlandskap_utvalgte",
+        "tittel": "Kulturlandskap -  utvalgte",
+        "wmslayer": "kulturlandskap_utvalgte"
+      }
+    },
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_utvalgte/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "44": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/ramsaromraader/fc28749e-633d-4dcc-b4c3-c073720a0982",
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "klikkurl": "https://kart.miljodirektoratet.no/arcgis/services/ramsar/MapServer/WmsServer?",
+    "tags": [
+      "Administrative støttekart"
+    ],
+    "tittel": "Ramsarområder",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "121": {
+        "erSynlig": true,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/ramsar/MapServer/WmsServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=ramsaromrader&",
+        "tittel": "Ramsaromrader",
+        "wmslayer": "ramsaromrader"
+      }
+    },
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/ramsar/MapServer/WMSServer?service=wms&version=1.1.1&request=getcapabilities",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "45": {
+    "dataeier": "NIBIO",
+    "faktaark": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=text/html&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=256&width=256&request=GetFeatureInfo&service=WMS&bbox={bbox}&info_format=text/html",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/skogbruksplan-miljoeregistreringer-i-skog---mis-figurer---wms/9ae66d3b-8ea0-4e0c-8e25-01511a98e683",
+    "kildeurl": "https://www.nibio.no/",
+    "klikktekst": "{livsm_beskr}",
+    "klikkurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?version=1.1.0&srs=EPSG:4326&feature_count=1&info_format=application/vnd.ogc.gml&layers=Livsmiljoer&query_layers=Livsmiljoer&x=128&y=128&height=255&width=255&request=GetFeatureInfo&service=WMS&bbox={bbox}",
+    "produktark": "https://register.geonorge.no/data/documents/Milj%C3%B8registreringer%20i%20skog_Produktark_S-L_Miljoregistreringer%20i%20skog.pdf",
+    "tags": [
+      "Feltkartlagte data",
+      "Administrative støttekart"
+    ],
+    "tema": "Naturtyper",
+    "tittel": "Nøkkelbiotoper",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "122": {
+        "erSynlig": true,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Nokkelbiotop&format=image/png&STYLE=default",
+        "tittel": "Nøkkelbiotop",
+        "wmslayer": "Nokkelbiotop"
+      },
+      "123": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Nokkelbiotop_m_mis&format=image/png&STYLE=default",
+        "tittel": "Nøkkelbiotop med MiS",
+        "wmslayer": "Nokkelbiotop_m_mis"
+      },
+      "124": {
+        "erSynlig": false,
+        "legendeurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Nokkelbiotop_u_mis&format=image/png&STYLE=default",
+        "tittel": "Nøkkelbiotop uten MiS",
+        "wmslayer": "Nokkelbiotop_u_mis"
+      }
+    },
+    "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "46": {
+    "dataeier": "NGU",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/bunnsedimenter-dannelse-oversikt/79b687ac-7eba-4432-97e2-04dcbc98ccd6",
+    "kildeurl": "https://www.ngu.no/",
+    "klikkurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_bunnsedimenter-dannelse-oversikt_v2_produktark-marin-sedimentdannelse-ov_.pdf",
+    "tags": [
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Marint"
+    ],
+    "tema": "Geologi",
+    "tittel": "Marine bunnsedimenter",
+    "underlag": {
+      "125": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Kornstorrelse_Det&format=image/png&STYLE=default",
+        "tittel": "Bunnsedimenter (kornstørrelse) detaljert",
+        "wmslayer": "Kornstorrelse_Det"
+      },
+      "126": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Kornstorrelse_Reg&format=image/png&STYLE=default",
+        "tittel": "Bunnsedimenter (kornstørrelse) regional",
+        "wmslayer": "Kornstorrelse_Reg"
+      },
+      "127": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Sedimentdannelse_Reg&format=image/png&STYLE=default",
+        "tittel": "Bunnsedimenter (dannelse) regional",
+        "wmslayer": "Sedimentdannelse_Reg"
+      },
+      "128": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Sedimentasjonsmiljo_Det&format=image/png&STYLE=default",
+        "tittel": "Sedimentasjonsmiljø detaljert",
+        "wmslayer": "Sedimentasjonsmiljo_Det"
+      },
+      "129": {
+        "erSynlig": true,
+        "legendeurl": "http://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Sedimentasjonsmiljo_Reg&format=image/png&STYLE=default",
+        "tittel": "Sedimentasjonsmiljø regionalt",
+        "wmslayer": "Sedimentasjonsmiljo_Reg"
+      }
+    },
+    "wmsurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?REQUEST=GetCapabilities&SERVICE=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "47": {
+    "dataeier": "NGU",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/marine-landskap/9db56b4f-474a-4e79-bd87-a2f0e4e4728e",
+    "kildeurl": "https://www.ngu.no/",
+    "klikkurl": "http://geo.ngu.no/mapserver/MarinLandskapWMS?language=nor&",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_marine-landskap_v4_produktark-marin-landskap_.pdf",
+    "tags": [
+      "Modellerte data",
+      "Landskap",
+      "Marint"
+    ],
+    "tema": "Landskap",
+    "tittel": "Marine landskap",
+    "type": "landskap",
+    "underlag": {
+      "130": {
+        "erSynlig": true,
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinLandskapWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=MarineLandskap&format=image/png&STYLE=default",
+        "tittel": "Marine Landskap",
+        "wmslayer": "MarineLandskap"
+      }
+    },
+    "wmsurl": "https://geo.ngu.no/mapserver/MarinLandskapWMS?REQUEST=GetCapabilities&SERVICE=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "48": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/Metadata/naturtyper-marine-dn-handbok-19/e4f40b02-7a32-4163-87af-d4121de48e6d",
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "produktark": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?",
+    "tags": [
+      "Naturtype",
+      "Marint"
+    ],
+    "tema": "Naturtyper",
+    "tittel": "Naturtyper - DN Håndbok 19",
+    "type": "naturtype",
+    "underlag": {
+      "131": {
+        "erSynlig": true,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtyper_marine_hb19_alle",
+        "tittel": "Marine naturtyper - alle",
+        "wmslayer": "naturtyper_marine_hb19_alle"
+      },
+      "132": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_skjellsand",
+        "tittel": "Marine naturtyper - skjellsand",
+        "wmslayer": "naturtype_marin_hb19_skjellsand"
+      },
+      "133": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_alegras",
+        "tittel": "Marine naturtyper - ålegras",
+        "wmslayer": "naturtype_marin_hb19_alegras"
+      },
+      "134": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_blotbunn",
+        "tittel": "Marine naturtyper - bløtbunn",
+        "wmslayer": "naturtype_marin_hb19_blotbunn"
+      },
+      "135": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_litoral",
+        "tittel": "Marine naturtyper - litoral",
+        "wmslayer": "naturtype_marin_hb19_litoral"
+      },
+      "136": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_poller_og_dyp",
+        "tittel": "Marine naturtyper - poller og dyp",
+        "wmslayer": "naturtype_marin_hb19_poller_og_dyp"
+      },
+      "137": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_oksygen",
+        "tittel": "Marine naturtyper - oksygen",
+        "wmslayer": "naturtype_marin_hb19_oksygen"
+      },
+      "138": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_tidevann",
+        "tittel": "Marine naturtyper - tidevann",
+        "wmslayer": "naturtype_marin_hb19_tidevann"
+      },
+      "139": {
+        "erSynlig": false,
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WmsServer?request=GetLegendGraphic%26version=1.1.1%26format=image/png%26layer=naturtype_marin_hb19_tare",
+        "tittel": "Marine naturtyper - tare",
+        "wmslayer": "naturtype_marin_hb19_tare"
+      }
+    },
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WMSServer?service=wms&version=1.1.1&request=getcapabilities",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "49": {
+    "dataeier": "NGU",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/geologisk-arv/52a55a3c-bcd2-44d7-ac21-2f4550161937",
+    "kildeurl": "https://www.ngu.no/",
+    "klikkurl": "http://geo.ngu.no/mapserver/GeologiskarvWMS?language=nor&",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_geologisk-arv_v1_produktark-geologisk-arv_.pdf",
+    "tags": [
+      "Administrative støttekart"
+    ],
+    "tema": "Geologi",
+    "tittel": "Geologisk arv",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "140": {
+        "erSynlig": true,
+        "legendeurl": "https://geo.ngu.no/mapserver/GeologiskarvWMS?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=GeologiskarvWMS&format=image/png&STYLE=defaul",
+        "tittel": "Geologisk arv",
+        "wmslayer": "Geologisk_arv_areal_samlet"
+      }
+    },
+    "wmsurl": "https://geo.ngu.no/mapserver/GeologiskarvWMS?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "funker fint"
+  },
+  "52": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/breer-i-norge/ef3e36ad-6914-432e-a0e0-4ff8e091a423",
+    "kildeurl": "https://www.nve.no/",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_breutstrekning-for-perioden-1999-2006_v2_glacier-area-outline-1999-2006-gao-29042019_.pdf",
+    "tags": [],
+    "tema": "Naturtyper",
+    "tittel": "Breer i Norge",
+    "type": "naturtype",
+    "wmsurl": "https://gis3.nve.no/map/services/Bre1/MapServer/WMS Server?request=GetCapabilities&service=WMS",
+    "status": "DOWN",
+    "timeStamp": "2020-5-13 12:50:21",
+    "feilkode": "fikk ikke svar"
+  },
+  "53": {
+    "dataeier": "Norges vassdrags- og energidirektorat",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/vannforekomster/b203e422-5270-4efc-93a5-2073725c43ef",
+    "kildeurl": "https://www.nve.no/",
+    "klikkurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WmsServer?",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_Vannforekomster%20_v6_produktark-vannforekomster-20180914_.pdf",
+    "tags": [
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Ferskvann"
+    ],
+    "tema": "Vann",
+    "tittel": "Vannforekomster",
+    "underlag": {
+      "150": {
+        "erSynlig": true,
+        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Oekologisk_tilstand_eller_potensial_elv",
+        "tittel": "Økologisk tilstand eller potensial - elv",
+        "wmslayer": "Oekologisk_tilstand_eller_potensial_elv"
+      },
+      "151": {
+        "erSynlig": true,
+        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Oekologisk_tilstand_eller_potensial_innsjoe",
+        "tittel": "Økologisk tilstand eller potensial - innsjø",
+        "wmslayer": "Oekologisk_tilstand_eller_potensial_innsjoe"
+      },
+      "152": {
+        "erSynlig": true,
+        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Oekologisk_tilstand_eller_potensial_kystvann",
+        "tittel": "Økologisk tilstand eller potensial - kystvann",
+        "wmslayer": "Oekologisk_tilstand_eller_potensial_kystvann"
+      }
+    },
+    "wmsurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "status": "UP",
+    "timeStamp": "2020-5-13 12:50:21",
     "feilkode": "funker fint"
   }
 }

@@ -1,0 +1,19 @@
+body {
+    background-color: lightcoral;
+  }
+  .wrapper {
+      display: flex;
+      flex-direction: column;
+  }
+#hovedlag {
+  display: inline;
+  flex: 1;
+  background-color:gray;
+  padding-left: 10px;
+}
+#underlag {
+  display: inline;
+  flex: 1;
+  background-color: lightblue;
+  padding-left: 10px;
+}

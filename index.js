@@ -80,7 +80,8 @@ alleArr = Object.keys(alle)
 console.log("kart", kartArr)
 console.log("alle", alleArr)
 if (kartArr.length === alleArr.length) {
-fs.writeFileSync('./output/output.json', JSON.stringify(alle, null, 2))
+  fs.writeFileSync('./output/output.json', 'var data = ')
+  fs.appendFileSync('./output/output.json', JSON.stringify(alle, null, 2))
 } else {
   console.log('not yet')
 }
