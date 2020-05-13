@@ -1,26 +1,19 @@
 body {
-    background-color:white;
+    background-color: lightcoral;
   }
-  #wrapper {
+  .wrapper {
       display: flex;
       flex-direction: column;
   }
-  #toppmeny {
-    flex-direction: column;  
-    flex: 1;
-  }
-  div {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
 #hovedlag {
+  display: inline;
+  flex: 1;
   background-color:gray;
+  padding-left: 10px;
 }
 #underlag {
+  display: inline;
+  flex: 1;
   background-color: lightblue;
-}
-.toppmeny {
-    display: inline;
+  padding-left: 10px;
 }
