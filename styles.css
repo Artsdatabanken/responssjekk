@@ -23,6 +23,10 @@ body {
   display:inline-block;
 }
 
+.hovedlag span:first-child{
+  width:30px;
+}
+
 .underlag{
   background: #ececec;
   padding-left:10px;
