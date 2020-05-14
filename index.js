@@ -7,7 +7,6 @@ let alle = {}
 let message = ''
 let timeStamp
 let feilkode
-let teller = 0
 
 function postMessageToSlack (message) {
   const data = {

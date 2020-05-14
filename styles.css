@@ -45,6 +45,12 @@
   font-size: 14;
 }
 
+.underlag[data-content="DOWN"],
 .hovedlag[data-content="DOWN"]{
-  background-color: red;
+  background-color:#FFB5B5;
+}
+
+.underlag[data-content="UP"],
+.hovedlag[data-content="UP"]{
+  background-color: lightgreen;
 }
