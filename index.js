@@ -55,6 +55,42 @@ Object.keys(kartlag).forEach(key => {
     }
     request()
   }
+  
+  if (kartlag[key].underlag) {
+    Object.keys(kartlag[key].underlag).forEach(ul => {
+     // console.log(kartlag[key].underlag[ul].legendeurl)
+    //console.log(kartlag[key].underlag)
+      const request = async () => {
+      const response = await fetch(kartlag[key].underlag[ul].legendeurl)
+        .catch(err => console.error(err))
+      if (response.status === 200) {
+        // console.log('Requested OK')
+        kartlag[key].underlag[ul].status = 'UP'
+        timeStamp = calculateTimeStamp ()
+        kartlag[key].underlag[ul].timeStamp = timeStamp
+        kartlag[key].underlag[ul].feilkode = 'funker fint'
+        alle[key].underlag[ul] = kartlag[key].underlag[ul]
+        writeToFile(kartlag, alle)
+       // console.log(alle)
+      } else {
+        message = 'Jeg virker ikke: ID = ' + key + '-' + ul + ' Tittel = ' + kartlag[key].underlag.tittel + ' ' + kartlag[key].underlag.wmsurl
+     //   postMessageToSlack(message)
+     // console.log(message)
+     kartlag[key].underlag[ul].status = 'DOWN'
+     timeStamp = calculateTimeStamp ()
+     kartlag[key].underlag[ul].timeStamp = timeStamp
+     kartlag[key].underlag[ul].feilkode = 'fikk ikke svar'
+     alle[key].underlag[ul] = kartlag[key].underlag[ul]
+     writeToFile(kartlag, alle)
+      }
+    }
+    request()
+  })}
+
+  if (kartlag[key.underlag]) {
+    console.log("Underlag:", key.underlag)
+  }
+
   else {
     message = 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
    // postMessageToSlack(message)
@@ -73,11 +109,10 @@ Object.keys(kartlag).forEach(key => {
 //console.log(alle)
 function writeToFile () {
 faktiskeKartlag = Object.keys(kartlag)
-console.log(faktiskeKartlag.length)
 kartArr = Object.keys(kartlag)
 alleArr = Object.keys(alle)
-console.log("kart", kartArr)
-console.log("alle", alleArr)
+//console.log("kart", kartArr)
+//console.log("alle", alleArr)
 if (kartArr.length === alleArr.length) {
   fs.writeFileSync('./output/output.json', 'var data = ')
   fs.appendFileSync('./output/output.json', JSON.stringify(alle, null, 2))
