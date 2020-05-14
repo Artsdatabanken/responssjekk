@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   let local_data = data
   Object.keys(local_data).forEach(hovedlag => {
     let lag = local_data[hovedlag];
-    let string = '<div class="hovedlag"> '
+    let string = '<div class="hovedlag" data-content="' + lag.status + '">'
     string += '<span>'  + hovedlag + '</span>'
     string += '<span>' + lag.tittel + '</span>'
     string += '<span>' + lag.wmsurl + '</span> '

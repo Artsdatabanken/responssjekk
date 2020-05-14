@@ -1,10 +1,7 @@
-body {
-  }
-
 .wrapper {
     display: flex;
     flex-direction: column;
-    border:1px solid grey;
+    border:1px solid darkslategray;
 }
 
 .underlag,
@@ -12,7 +9,7 @@ body {
   display: flex;
   flex: 1;
   padding-left: 10px;
-  border-bottom:1px solid grey;
+  border-bottom:1px solid darkslategray;
   justify-content:space-between;
   flex-wrap: wrap;
 }
@@ -27,6 +24,7 @@ body {
 .underlag{
   background: #ececec;
   padding-left:10px;
+  font-size: 13;
 }
 
 .underlag span:first-child,
@@ -42,4 +40,11 @@ body {
 .hovedlag span:nth-child(2){
   min-width:150px;
   max-width:20%;
+}
+.hovedlag{
+  font-size: 14;
+}
+
+.hovedlag[data-content="DOWN"]{
+  background-color: red;
 }
