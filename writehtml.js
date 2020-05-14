@@ -20,15 +20,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     if (lag.underlag) {
       Object.keys(lag.underlag).forEach(underlagKey => {
-      let string = ""
       let ulag = local_data[hovedlag].underlag[underlagKey]
+      let string = '<div class="underlag" data-content="' + ulag.status + '">'
       console.log(ulag)
-      string += '<div class="underlag"> '
       string += '<span> ' + hovedlag + '-' + underlagKey + '</span>'
       string += '<span>' + ulag.tittel + '</span>' 
       string += '<span>' + ulag.legendeurl + '</span>'
       string += '<span>' + ulag.status + '</span>'
-      string += '<span>' + ulag.timeStamp + '</span>'
+      string += '<span>' + lag.timeStamp + '</span>'
       string += '</div>'
 
       document.getElementById('wrapper').innerHTML +=  string
