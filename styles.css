@@ -43,6 +43,7 @@
 }
 .hovedlag{
   font-size: 14;
+  font-weight: bolder;  
 }
 
 .underlag[data-content="DOWN"],
