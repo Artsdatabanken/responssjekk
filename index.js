@@ -54,13 +54,19 @@ Object.keys(kartlag).forEach(key => {
       }
     }
     request()
+  } else {
+    kartlag[key].status = 'DOWN'
+    timeStamp = calculateTimeStamp ()
+    kartlag[key].timeStamp = timeStamp
+    kartlag[key].wmsurl = 'WMS-URL mangler'
   }
   
   if (kartlag[key].underlag) {
     Object.keys(kartlag[key].underlag).forEach(ul => {
      // console.log(kartlag[key].underlag[ul].legendeurl)
     //console.log(kartlag[key].underlag)
-      const request = async () => {
+    if (kartlag[key].underlag[ul].legendeurl) {  
+    const request = async () => {
       const response = await fetch(kartlag[key].underlag[ul].legendeurl)
         .catch(err => console.error(err))
       if (response.status === 200) {
@@ -84,7 +90,12 @@ Object.keys(kartlag).forEach(key => {
      writeToFile(kartlag, alle)
       }
     }
-    request()
+    request() }
+    else {
+      kartlag[key].underlag[ul].legendeurl = 'URL mangler'
+      kartlag[key].underlag[ul].status = 'DOWN'
+      kartlag[key].underlag[ul].timeStamp = timeStamp
+    }
   })}
 
   if (kartlag[key.underlag]) {
