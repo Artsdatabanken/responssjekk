@@ -26,12 +26,11 @@ let time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds(
 let dateTime = date+' '+time
 return dateTime
 }
-
 Object.keys(kartlag).forEach(key => {
   if (kartlag[key].wmsurl) {
     const request = async () => {
+      try {
       const response = await fetch(kartlag[key].wmsurl)
-        .catch(err => console.error(err))
       if (response.status === 200) {
         // console.log('Requested OK')
         kartlag[key].status = 'UP'
@@ -51,6 +50,9 @@ Object.keys(kartlag).forEach(key => {
      kartlag[key].feilkode = 'fikk ikke svar'
      alle[key] = kartlag[key]
      writeToFile(kartlag, alle)
+      }
+      } catch(err) {
+        console.log('Rejected')
       }
     }
     request()
