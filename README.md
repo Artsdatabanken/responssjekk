@@ -7,3 +7,9 @@ Fet skrift = hovedlag
 Innrykk = underlag
 Grønn = Good stuff
 Rød = Bad stuff
+
+Hvordan kjører du den lokalt for å fikse ting? 
+1. Last ned repo.
+2. npm install
+3. npm run process
+4. Cake!
