@@ -69,6 +69,7 @@ Object.keys(kartlag).forEach(key => {
     //console.log(kartlag[key].underlag)
     if (kartlag[key].underlag[ul].legendeurl) {  
     const request = async () => {
+      try {
       const response = await fetch(kartlag[key].underlag[ul].legendeurl)
         .catch(err => console.error(err))
       if (response.status === 200) {
@@ -82,7 +83,7 @@ Object.keys(kartlag).forEach(key => {
        // console.log(alle)
       } else {
         message = 'Jeg virker ikke: ID = ' + key + '-' + ul + ' Tittel = ' + kartlag[key].underlag.tittel + ' ' + kartlag[key].underlag.wmsurl
-     //   postMessageToSlack(message)
+     // postMessageToSlack(message)
      // console.log(message)
      kartlag[key].underlag[ul].status = 'DOWN'
      timeStamp = calculateTimeStamp ()
@@ -91,6 +92,9 @@ Object.keys(kartlag).forEach(key => {
      alle[key].underlag[ul] = kartlag[key].underlag[ul]
      writeToFile(kartlag, alle)
       }
+    } catch(err) {
+      console.log('Rejected')
+    }
     }
     request() }
     else {
@@ -114,7 +118,6 @@ Object.keys(kartlag).forEach(key => {
    kartlag[key].feilkode = 'mangler wmsurl'
    alle[key] = kartlag[key]
    writeToFile(kartlag, alle)
-   //fs.appendFileSync('./output/output.json', JSON.stringify(kartlag[key], null, 2))
   }
   
 }
