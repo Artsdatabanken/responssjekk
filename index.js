@@ -75,7 +75,7 @@ Object.keys(kartlag).forEach(key => {
       const response = await fetch(kartlag[key].underlag[ul].legendeurl)
         // .catch(err => console.error(err))
         let cont = response.headers.get('content-type')
-        cont !='image/png' ? console.log(cont, kartlag[key].underlag[ul]) : false
+        //cont !='image/png' ? console.log(cont, kartlag[key].underlag[ul]) : false
         timeStamp = calculateTimeStamp ()
       if (response.status === 200 && cont === 'image/png') {
         kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText

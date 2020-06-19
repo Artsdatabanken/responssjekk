@@ -53,18 +53,8 @@
 
 }
 
-.underlag[data-content="DOWN"],
-.hovedlag[data-content="DOWN"]{
-  background-color:#FFB5B5;
-}
-
-.underlag[data-content="500 Internal Server Error"],
-.hovedlag[data-content="500 Internal Server Error"]{
-  background-color:#FFB5B5;
-}
-
-.underlag[data-content="400 Bad Request"],
-.hovedlag[data-content="400 Bad Request"]{
+.underlag,
+.hovedlag{
   background-color:#FFB5B5;
 }
 
