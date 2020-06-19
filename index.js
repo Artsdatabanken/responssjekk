@@ -21,7 +21,7 @@ function postMessageToSlack (message) {
 
 function calculateTimeStamp () {
 let today = new Date()
-let date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate()
+let date = today.getFullYear() + '-' + (today.getMonth()+1) + '-' + today.getDate()
 let time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds()
 let dateTime = date+' '+time
 return dateTime
@@ -74,22 +74,32 @@ Object.keys(kartlag).forEach(key => {
       try {
       const response = await fetch(kartlag[key].underlag[ul].legendeurl)
         // .catch(err => console.error(err))
-      if (response.status === 200) {
-        // console.log('Requested OK')
-        kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
+        let cont = response.headers.get('content-type')
+        cont !='image/png' ? console.log(cont, kartlag[key].underlag[ul]) : false
         timeStamp = calculateTimeStamp ()
+      if (response.status === 200 && cont === 'image/png') {
+        kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
+        //timeStamp = calculateTimeStamp ()
         kartlag[key].underlag[ul].timeStamp = timeStamp
         kartlag[key].underlag[ul].feilkode = 'funker fint'
         alle[key].underlag[ul] = kartlag[key].underlag[ul]
         writeToFile(kartlag, alle)
        // console.log(alle)
-      } else {
+      } else if (response.status === 200 && cont !== 'image/png') {
+        kartlag[key].underlag[ul].status = cont
+        //timeStamp = calculateTimeStamp ()
+        kartlag[key].underlag[ul].timeStamp = timeStamp
+        kartlag[key].underlag[ul].feilkode = 'funker fint'
+        alle[key].underlag[ul] = kartlag[key].underlag[ul]
+        writeToFile(kartlag, alle)
+      } 
+      else {
         message = 'Jeg virker ikke: ID = ' + key + '-' + ul + ' Tittel = ' + kartlag[key].underlag.tittel + ' ' + kartlag[key].underlag.wmsurl
      // postMessageToSlack(message)
      // console.log(message)
      //console.log(kartlag[key].underlag[ul], response.status)
      kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
-     timeStamp = calculateTimeStamp ()
+     //timeStamp = calculateTimeStamp ()
      kartlag[key].underlag[ul].timeStamp = timeStamp
      kartlag[key].underlag[ul].feilkode = 'fikk ikke svar'
      alle[key].underlag[ul] = kartlag[key].underlag[ul]
