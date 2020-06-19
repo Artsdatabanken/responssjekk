@@ -33,7 +33,7 @@ Object.keys(kartlag).forEach(key => {
       const response = await fetch(kartlag[key].wmsurl)
       if (response.status === 200) {
         // console.log('Requested OK')
-        kartlag[key].status = 'UP'
+        kartlag[key].status = response.status + ' ' + response.statusText
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
         kartlag[key].feilkode = 'funker fint'
@@ -44,7 +44,8 @@ Object.keys(kartlag).forEach(key => {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
      // console.log(message)
-     kartlag[key].status = 'DOWN'
+     console.log(response)
+     kartlag[key].status = response.status + ' ' + response.statusText
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
      kartlag[key].feilkode = 'fikk ikke svar'
@@ -57,6 +58,7 @@ Object.keys(kartlag).forEach(key => {
     }
     request()
   } else {
+    console.log('WMS-mangler: Nøkkel', kartlag[key], 'URL:  ', kartlag[key].wmsurl)
     kartlag[key].status = 'DOWN'
     timeStamp = calculateTimeStamp ()
     kartlag[key].timeStamp = timeStamp
@@ -71,10 +73,10 @@ Object.keys(kartlag).forEach(key => {
     const request = async () => {
       try {
       const response = await fetch(kartlag[key].underlag[ul].legendeurl)
-        .catch(err => console.error(err))
+        // .catch(err => console.error(err))
       if (response.status === 200) {
         // console.log('Requested OK')
-        kartlag[key].underlag[ul].status = 'UP'
+        kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
         timeStamp = calculateTimeStamp ()
         kartlag[key].underlag[ul].timeStamp = timeStamp
         kartlag[key].underlag[ul].feilkode = 'funker fint'
@@ -85,7 +87,8 @@ Object.keys(kartlag).forEach(key => {
         message = 'Jeg virker ikke: ID = ' + key + '-' + ul + ' Tittel = ' + kartlag[key].underlag.tittel + ' ' + kartlag[key].underlag.wmsurl
      // postMessageToSlack(message)
      // console.log(message)
-     kartlag[key].underlag[ul].status = 'DOWN'
+     //console.log(kartlag[key].underlag[ul], response.status)
+     kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
      timeStamp = calculateTimeStamp ()
      kartlag[key].underlag[ul].timeStamp = timeStamp
      kartlag[key].underlag[ul].feilkode = 'fikk ikke svar'
