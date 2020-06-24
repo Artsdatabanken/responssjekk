@@ -2,11 +2,9 @@ const fs = require('fs')
 const kartlag = JSON.parse(fs.readFileSync('kartlag.json'))
 const fetch = require('node-fetch')
 const config = require('./config/config.json')
-//let outputFile = JSON.parse(fs.readFileSync('./output/output.json'))
 let alle = {}
 let message = ''
 let timeStamp
-let feilkode
 
 function postMessageToSlack (message) {
   const data = {
@@ -32,14 +30,11 @@ Object.keys(kartlag).forEach(key => {
       try {
       const response = await fetch(kartlag[key].wmsurl)
       if (response.status === 200) {
-        // console.log('Requested OK')
         kartlag[key].status = response.status + ' ' + response.statusText
         timeStamp = calculateTimeStamp ()
         kartlag[key].timeStamp = timeStamp
-        kartlag[key].feilkode = 'funker fint'
         alle[key] = kartlag[key]
         writeToFile(kartlag, alle)
-       // console.log(alle)
       } else {
         message = 'Jeg virker ikke: ID = ' + key + ' Tittel = ' + kartlag[key].tittel + ' ' + kartlag[key].wmsurl
      //   postMessageToSlack(message)
@@ -48,12 +43,15 @@ Object.keys(kartlag).forEach(key => {
      kartlag[key].status = response.status + ' ' + response.statusText
      timeStamp = calculateTimeStamp ()
      kartlag[key].timeStamp = timeStamp
-     kartlag[key].feilkode = 'fikk ikke svar'
      alle[key] = kartlag[key]
      writeToFile(kartlag, alle)
       }
       } catch(err) {
-        console.log('Rejected')
+        //console.log(typeof(err))
+        //console.log(err.errno)
+        if (err.errno == 'UNABLE_TO_VERIFY_LEAF_SIGNATURE') {
+          kartlag[key].status = 'Feil på SSL-sertifikat'
+        }
       }
     }
     request()
@@ -79,17 +77,13 @@ Object.keys(kartlag).forEach(key => {
         timeStamp = calculateTimeStamp ()
       if (response.status === 200 && cont === 'image/png') {
         kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
-        //timeStamp = calculateTimeStamp ()
         kartlag[key].underlag[ul].timeStamp = timeStamp
-        kartlag[key].underlag[ul].feilkode = 'funker fint'
         alle[key].underlag[ul] = kartlag[key].underlag[ul]
         writeToFile(kartlag, alle)
        // console.log(alle)
       } else if (response.status === 200 && cont !== 'image/png') {
         kartlag[key].underlag[ul].status = cont
-        //timeStamp = calculateTimeStamp ()
         kartlag[key].underlag[ul].timeStamp = timeStamp
-        kartlag[key].underlag[ul].feilkode = 'funker fint'
         alle[key].underlag[ul] = kartlag[key].underlag[ul]
         writeToFile(kartlag, alle)
       } 
@@ -99,14 +93,12 @@ Object.keys(kartlag).forEach(key => {
      // console.log(message)
      //console.log(kartlag[key].underlag[ul], response.status)
      kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
-     //timeStamp = calculateTimeStamp ()
      kartlag[key].underlag[ul].timeStamp = timeStamp
-     kartlag[key].underlag[ul].feilkode = 'fikk ikke svar'
      alle[key].underlag[ul] = kartlag[key].underlag[ul]
      writeToFile(kartlag, alle)
       }
     } catch(err) {
-      console.log('Rejected')
+      console.log('Rejected' + err)
     }
     }
     request() }
