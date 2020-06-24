@@ -1,6 +1,6 @@
 FROM artsdatabanken/httpd
 RUN apk update
-RUN apk add --update nodejs npm
+RUN apk add --update nodejs nodejs-npm
 WORKDIR /usr/local/apache2/htdocs
 COPY . .
 RUN npm run process
