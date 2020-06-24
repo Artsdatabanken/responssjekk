@@ -1,7 +1,7 @@
 FROM artsdatabanken/httpd
-RUN apt-get update
-RUN apt-get -y install npm
-RUN apt-get -y install node
+RUN apk update
+RUN apk -y install npm
+RUN apk -y install node
 WORKDIR /usr/local/apache2/htdocs
 COPY . .
 RUN npm run process
