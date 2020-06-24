@@ -27,8 +27,7 @@ var data = {
         "tittel": "Livsmiljøer",
         "wmslayer": "Livsmiljoer",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "57": {
         "erSynlig": false,
@@ -40,8 +39,7 @@ var data = {
         "tittel": "Dekningskart - oversikt",
         "wmslayer": "Dekningskart_oversikt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "58": {
         "erSynlig": false,
@@ -53,8 +51,7 @@ var data = {
         "tittel": "Dekningskart - detalj",
         "wmslayer": "Dekningskart_detalj",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "59": {
         "erSynlig": false,
@@ -66,8 +63,7 @@ var data = {
         "tittel": "Bekkekløfter",
         "wmslayer": "Bekkeklofter_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "60": {
         "erSynlig": false,
@@ -79,8 +75,7 @@ var data = {
         "tittel": "Bergvegger - Flate",
         "wmslayer": "Bergvegger_flate_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "61": {
         "erSynlig": false,
@@ -92,8 +87,7 @@ var data = {
         "tittel": "Bergvegger - Linje",
         "wmslayer": "Bergvegger_linje_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "62": {
         "erSynlig": false,
@@ -105,8 +99,7 @@ var data = {
         "tittel": "Brannflater",
         "wmslayer": "Brannflater_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "64": {
         "erSynlig": false,
@@ -118,8 +111,7 @@ var data = {
         "tittel": "Gamle trær",
         "wmslayer": "Gamle_trar_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "66": {
         "erSynlig": false,
@@ -131,8 +123,7 @@ var data = {
         "tittel": "Leirraviner",
         "wmslayer": "Leirraviner_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "67": {
         "erSynlig": false,
@@ -144,8 +135,7 @@ var data = {
         "tittel": "Liggende død ved",
         "wmslayer": "Liggende_dod_ved_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "68": {
         "erSynlig": false,
@@ -157,8 +147,7 @@ var data = {
         "tittel": "Rik bakkevegetasjon",
         "wmslayer": "Rik_bakkeveg_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "232": {
         "erSynlig": false,
@@ -170,8 +159,7 @@ var data = {
         "tittel": "Staende død ved",
         "wmslayer": "Staende_dod_ved_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "233": {
         "erSynlig": false,
@@ -183,8 +171,7 @@ var data = {
         "tittel": "Hule lauvtrar",
         "wmslayer": "Hule_lauvtrar_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "234": {
         "erSynlig": false,
@@ -196,8 +183,7 @@ var data = {
         "tittel": "Eldre lauvsuksesjon",
         "wmslayer": "Eldre_lauvsuksesjon_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "235": {
         "erSynlig": false,
@@ -209,8 +195,7 @@ var data = {
         "tittel": "Trær med hengelav",
         "wmslayer": "Trar_m_hengelav_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "236": {
         "erSynlig": false,
@@ -222,16 +207,15 @@ var data = {
         "tittel": "Rikbarkstrær",
         "wmslayer": "Rikbarkstrar_all",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "2": {
     "dataeier": "NIBIO",
@@ -262,8 +246,7 @@ var data = {
         "tittel": "Arealressurs: AR5 Arealtype",
         "wmslayer": "Arealtype",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "36": {
         "erSynlig": false,
@@ -275,8 +258,7 @@ var data = {
         "tittel": "Treslag",
         "wmslayer": "Treslag",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "37": {
         "erSynlig": false,
@@ -288,16 +270,15 @@ var data = {
         "tittel": "Jordbruksareal",
         "wmslayer": "Jordbruksareal",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/ar5?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "3": {
     "dataeier": "Miljødirektoratet",
@@ -329,8 +310,7 @@ var data = {
         "tittel": "Naturtyper Mdir",
         "wmslayer": "naturtyper_nin_alle",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "30": {
         "erSynlig": false,
@@ -342,8 +322,7 @@ var data = {
         "tittel": "Dekningskart",
         "wmslayer": "dekningskart_nin",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "115": {
         "erSynlig": false,
@@ -355,8 +334,7 @@ var data = {
         "tittel": "Naturtype NiN -  Svært høy lokalitetskvalitet",
         "wmslayer": "naturtype_nin_svart_hoy_lokalitetskvalitet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "116": {
         "erSynlig": false,
@@ -368,8 +346,7 @@ var data = {
         "tittel": "Naturtype NiN - høy lokalitetskvalitet",
         "wmslayer": "naturtype_nin_hoy_lokalitetskvalitet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "117": {
         "erSynlig": false,
@@ -381,8 +358,7 @@ var data = {
         "tittel": "Naturtype NiN - moderat lokalitetskvalitet",
         "wmslayer": "naturtype_nin_moderat_lokalitetskvalitet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "118": {
         "erSynlig": false,
@@ -394,8 +370,7 @@ var data = {
         "tittel": "Naturtype NiN -  lav lokalitetskvalitet",
         "wmslayer": "naturtype_nin_lav_lokalitetskvalitet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "119": {
         "erSynlig": false,
@@ -407,23 +382,23 @@ var data = {
         "tittel": "Naturtype NiN - ikke fullstendig kvalitetsvurdert",
         "wmslayer": "naturtype_nin_ikke_fullst_kvalitetsvurdert",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "4": {
     "dataeier": "Artsdatabanken",
     "faktaark": "https://artsdatabanken.no/nin/",
     "kildeurl": "https://www.artsdatabanken.no/",
-    "klikktekst": "{LA-I_layer.LA-I_feature.name} {LA-k_layer.LA-k_feature.name} {LA-m_layer.LA-m_feature.name}",
-    "klikktekst2": "{LA-I-A_layer.LA-I-A_feature.name} {LA-I-S_layer.LA-I-S_feature.name} {LA-I-D_layer.LA-I-D_feature.name} {LA-K-A_layer.LA-K-A_feature.name} {LA-K-S_layer.LA-K-S_feature.name} {LA-K-F_layer.LA-K-F_feature.name}",
+    "klikktekst": "{landskap.tittel.nb}",
+    "klikktekst2": "",
+    "klikkurl": "https://punkt.test.artsdatabanken.no/v1/punkt?lat={lat}&lng={lng}",
     "logourl": "https://www.artsdatabanken.no/Files/7809",
     "projeksjon": "EPSG:3857",
     "tags": [
@@ -446,8 +421,7 @@ var data = {
         "tittel": "Innlandsås- og fjellandskap",
         "wmslayer": "LA-I-A",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "45": {
         "erSynlig": false,
@@ -459,8 +433,7 @@ var data = {
         "tittel": "Innlandsdallandskap",
         "wmslayer": "LA-I-D",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "46": {
         "erSynlig": false,
@@ -472,8 +445,7 @@ var data = {
         "tittel": "Innlandsslettelandskap",
         "wmslayer": "LA-I-S",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "47": {
         "erSynlig": false,
@@ -485,8 +457,7 @@ var data = {
         "tittel": "Fjordlandskap",
         "wmslayer": "LA-K-F",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "48": {
         "erSynlig": false,
@@ -498,8 +469,7 @@ var data = {
         "tittel": "Kystslettelandskap",
         "wmslayer": "LA-K-S",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "50": {
         "erSynlig": false,
@@ -510,17 +480,16 @@ var data = {
         "suggested": true,
         "tittel": "Marine landskap",
         "wmslayer": "LA-M",
-        "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "status": "text/html",
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "18": {
     "dataeier": "Artsdatabanken",
@@ -549,8 +518,7 @@ var data = {
         "tittel": "Arealbruksintenistet",
         "wmslayer": "LA-KLG-AI_k",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "51": {
         "erSynlig": false,
@@ -562,8 +530,7 @@ var data = {
         "tittel": "Brepreg",
         "wmslayer": "LA-KLG-BP_d",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "52": {
         "erSynlig": false,
@@ -574,9 +541,8 @@ var data = {
         "suggested": false,
         "tittel": "Vegetasjon",
         "wmslayer": "LA-KLG-VE_d",
-        "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "status": "text/html",
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "53": {
         "erSynlig": false,
@@ -588,8 +554,7 @@ var data = {
         "tittel": "Våtmarkspreg",
         "wmslayer": "LA-KLG-VP_d",
         "status": "text/html",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "54": {
         "erSynlig": false,
@@ -601,8 +566,7 @@ var data = {
         "tittel": "Innsjøpreg",
         "wmslayer": "LA-KLG-IP_d",
         "status": "500 Internal Server Error",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "fikk ikke svar"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "55": {
         "erSynlig": false,
@@ -613,9 +577,8 @@ var data = {
         "suggested": false,
         "tittel": "Kystavstand",
         "wmslayer": "LA-KLG-KA_k",
-        "status": "text/html",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "status": "500 Internal Server Error",
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "56": {
         "erSynlig": false,
@@ -626,17 +589,16 @@ var data = {
         "suggested": false,
         "tittel": "Indre ytre kyst",
         "wmslayer": "LA-KLG-IYK_d",
-        "status": "text/html",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "status": "500 Internal Server Error",
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "19": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -665,16 +627,15 @@ var data = {
         "tittel": "Verneplan for Vassdrag",
         "wmslayer": "VerneplanforVassdrag",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.NVE.no/map/services/VerneplanforVassdrag/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "20": {
     "dataeier": "Artsdatabanken",
@@ -702,16 +663,15 @@ var data = {
         "tittel": "Bioklimatisk sone",
         "wmslayer": "soner2017",
         "status": "text/xml; charset=UTF-8",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/lkm.aspx?https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "21": {
     "dataeier": "Artsdatabanken",
@@ -729,24 +689,24 @@ var data = {
     "type": "bioklimatisk_seksjon",
     "underlag": {
       "20": {
-        "erSynlig": true,
+        "erSynlig": false,
         "maxscaledenominator": null,
         "minscaledenominator": null,
         "queryable": false,
-        "suggested": false,
+        "suggested": true,
         "tittel": "Bioklimatisk seksjon",
         "wmslayer": "layer_388",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2020-6-19 13:9:40"
+        "timeStamp": "2020-6-24 12:45:28"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "22": {
     "dataeier": "Artsdatabanken",
@@ -765,7 +725,7 @@ var data = {
     "type": "kalk",
     "wmsurl": "?request=GetCapabilities&service=WMS",
     "status": "DOWN",
-    "timeStamp": "2020-6-19 13:9:40",
+    "timeStamp": "2020-6-24 12:45:28",
     "feilkode": "mangler wmsurl"
   },
   "23": {
@@ -796,8 +756,7 @@ var data = {
         "tittel": "Nasjonale laksefjorder",
         "wmslayer": "layer_388",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "73": {
         "erSynlig": false,
@@ -809,8 +768,7 @@ var data = {
         "tittel": "Fjordlinjer - kysttorskregulering",
         "wmslayer": "layer_76",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "74": {
         "erSynlig": false,
@@ -822,8 +780,7 @@ var data = {
         "tittel": "Korallrev - forbudsområder",
         "wmslayer": "layer_383",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "75": {
         "erSynlig": false,
@@ -835,8 +792,7 @@ var data = {
         "tittel": "Tare - Høstefelt (Sør-Trøndelag)",
         "wmslayer": "layer_608",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "76": {
         "erSynlig": false,
@@ -848,8 +804,7 @@ var data = {
         "tittel": "Tare - Høstefelt (Møre og Romsdal)",
         "wmslayer": "layer_609",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "77": {
         "erSynlig": false,
@@ -861,8 +816,7 @@ var data = {
         "tittel": "Tare - Høstefelt (Nord-Trøndelag)",
         "wmslayer": "layer_610",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "78": {
         "erSynlig": false,
@@ -874,8 +828,7 @@ var data = {
         "tittel": "Tare - Høstefelt (Rog, Hord og S&F)",
         "wmslayer": "layer_657",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "79": {
         "erSynlig": false,
@@ -887,16 +840,15 @@ var data = {
         "tittel": "Verneområde - bunnhabitat",
         "wmslayer": "layer_386",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "24": {
     "dataeier": "NGU",
@@ -926,16 +878,15 @@ var data = {
         "tittel": "Løsmasse",
         "wmslayer": "Losmasse_Norge",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/LosmasserWMS?language=nor&srs=EPSG:900913&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "25": {
     "dataeier": "Miljødirektoratet",
@@ -950,23 +901,11 @@ var data = {
     "tema": "Naturtyper",
     "tittel": "Test",
     "type": "naturtype",
-    "underlag": {
-      "23": {
-        "erSynlig": true,
-        "maxscaledenominator": null,
-        "minscaledenominator": null,
-        "queryable": false,
-        "suggested": false,
-        "tittel": "Test",
-        "legendeurl": "URL mangler",
-        "status": "DOWN",
-        "timeStamp": "2020-6-19 13:9:40"
-      }
-    },
+    "underlag": {},
     "wmsurl": "https://forvaltningsportalapi.test.artsdatabanken.no/rpc/vtile?datasett=FYL&z={z}&x={x}&y={y}",
     "status": "400 Bad Request",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "fikk ikke svar"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "26": {
     "dataeier": "Miljødirektoratet",
@@ -997,16 +936,15 @@ var data = {
         "tittel": "Naturtyper - utvalgte",
         "wmslayer": "naturtype_utvalgt_hb13_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "27": {
     "dataeier": "Miljødirektoratet",
@@ -1038,8 +976,7 @@ var data = {
         "tittel": "Naturtyper - DN Håndbok 13",
         "wmslayer": "naturtyper_hb13_alle",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "214": {
         "erSynlig": false,
@@ -1051,8 +988,7 @@ var data = {
         "tittel": "Hovednaturtype - skog",
         "wmslayer": "hovednaturtype_hb13_skog",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "215": {
         "erSynlig": false,
@@ -1064,8 +1000,7 @@ var data = {
         "tittel": "Hovednaturtype - rasmark, berg og kantkratt",
         "wmslayer": "hovednaturtype_hb13_rasmark_berg_kantkratt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "216": {
         "erSynlig": false,
@@ -1077,8 +1012,7 @@ var data = {
         "tittel": "Hovednaturtype - myr og kilde",
         "wmslayer": "hovednaturtype_hb13_myr_og_kilde",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "217": {
         "erSynlig": false,
@@ -1090,8 +1024,7 @@ var data = {
         "tittel": "Hovednaturtype - Kyst og havstrand",
         "wmslayer": "hovednaturtype_hb13_kyst_havstrand",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "218": {
         "erSynlig": false,
@@ -1103,8 +1036,7 @@ var data = {
         "tittel": "Hovednaturtype - kulturlandskap",
         "wmslayer": "hovednaturtype_hb13_kulturlandskap",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "219": {
         "erSynlig": false,
@@ -1116,8 +1048,7 @@ var data = {
         "tittel": "Hovednaturtype - fjell",
         "wmslayer": "hovednaturtype_hb13_fjell",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "220": {
         "erSynlig": false,
@@ -1129,8 +1060,7 @@ var data = {
         "tittel": "Hovednaturtype - ferskvann og vårmark",
         "wmslayer": "hovednaturtype_hb13_ferskvann_vatmark",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "221": {
         "erSynlig": false,
@@ -1142,16 +1072,15 @@ var data = {
         "tittel": "Hovednaturtype - andre viktige",
         "wmslayer": "hovednaturtype_hb13_andre_viktige",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "28": {
     "dataeier": "Miljødirektoratet",
@@ -1181,16 +1110,15 @@ var data = {
         "tittel": "Naturvernområder",
         "wmslayer": "naturvern_klasser_omrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "29": {
     "dataeier": "NGU",
@@ -1221,16 +1149,15 @@ var data = {
         "tittel": "Marin leire - mulig forekomst",
         "wmslayer": "Mulighet_for_marin_leire",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS2?language=nor&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "30": {
     "dataeier": "Miljødirektoratet",
@@ -1256,8 +1183,7 @@ var data = {
         "tittel": "Arter av stor forvaltningsinteresse - områder",
         "wmslayer": "Alle_arter_av_stor_forv_int_NT_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "31": {
         "erSynlig": false,
@@ -1269,8 +1195,7 @@ var data = {
         "tittel": "Arter av stor forvaltningsinteresse - punkt",
         "wmslayer": "Alle_arter_av_stor_forv_int_NT_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "32": {
         "erSynlig": false,
@@ -1282,8 +1207,7 @@ var data = {
         "tittel": "Arter av særlig stor forvaltningsinteresse - områder",
         "wmslayer": "Alle_arter_av_sarlig_stor_forv_int_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "33": {
         "erSynlig": false,
@@ -1295,8 +1219,7 @@ var data = {
         "tittel": "Arter av særlig stor forvaltningsinteresse - punkt",
         "wmslayer": "Alle_arter_av_sarlig_stor_forv_int_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "34": {
         "erSynlig": false,
@@ -1308,8 +1231,7 @@ var data = {
         "tittel": "Fremmede arter - områder",
         "wmslayer": "Alle_fremmede_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "35": {
         "erSynlig": false,
@@ -1321,16 +1243,15 @@ var data = {
         "tittel": "Fremmede arter - punkt",
         "wmslayer": "Alle_fremmede_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:44",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "31": {
     "dataeier": "Artsdatabanken",
@@ -1357,8 +1278,7 @@ var data = {
         "tittel": "Rødlista arter - alle kategorier",
         "wmslayer": "Artskart",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "38": {
         "erSynlig": false,
@@ -1370,8 +1290,7 @@ var data = {
         "tittel": "RE - Regionalt utdødd",
         "wmslayer": "RE",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "39": {
         "erSynlig": false,
@@ -1383,8 +1302,7 @@ var data = {
         "tittel": "CR - Kritisk truet",
         "wmslayer": "CR",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "40": {
         "erSynlig": false,
@@ -1396,8 +1314,7 @@ var data = {
         "tittel": "EN - Sterkt truet",
         "wmslayer": "EN",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "41": {
         "erSynlig": false,
@@ -1409,8 +1326,7 @@ var data = {
         "tittel": "VU - Sårbar",
         "wmslayer": "VU",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "42": {
         "erSynlig": false,
@@ -1422,8 +1338,7 @@ var data = {
         "tittel": "NT - Nær truet",
         "wmslayer": "NT",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "43": {
         "erSynlig": false,
@@ -1435,16 +1350,15 @@ var data = {
         "tittel": "DD - Datamangel",
         "wmslayer": "DD",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskart.aspx?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "32": {
     "dataeier": "Fiskeridirektoratet",
@@ -1475,16 +1389,15 @@ var data = {
         "tittel": "Gyteområder",
         "wmslayer": "layer_351",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://ogc.fiskeridir.no/wms.ashx?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "33": {
     "dataeier": "Kartverket",
@@ -1501,7 +1414,7 @@ var data = {
     "tittel": "Høydedata",
     "wmsurl": "?request=GetCapabilities&service=WMS",
     "status": "DOWN",
-    "timeStamp": "2020-6-19 13:9:40",
+    "timeStamp": "2020-6-24 12:45:28",
     "feilkode": "mangler wmsurl"
   },
   "34": {
@@ -1531,8 +1444,7 @@ var data = {
         "tittel": "Hovedelv",
         "wmslayer": "hovedelv",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "81": {
         "erSynlig": false,
@@ -1544,16 +1456,15 @@ var data = {
         "tittel": "Elvenett",
         "wmslayer": "elvenett",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Elvenett1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "35": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -1580,8 +1491,7 @@ var data = {
         "tittel": "Innsjødatabase",
         "wmslayer": "Innsjodatabase",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "110": {
         "erSynlig": false,
@@ -1593,8 +1503,7 @@ var data = {
         "tittel": "Dybdekart",
         "wmslayer": "Dybdekart",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "111": {
         "erSynlig": false,
@@ -1606,8 +1515,7 @@ var data = {
         "tittel": "Innsjo ved dybdemaling",
         "wmslayer": "Innsjo_ved_dybdemaling",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "112": {
         "erSynlig": false,
@@ -1619,8 +1527,7 @@ var data = {
         "tittel": "DybdeKurve",
         "wmslayer": "DybdeKurve",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "113": {
         "erSynlig": false,
@@ -1632,16 +1539,15 @@ var data = {
         "tittel": "Dybde punkt",
         "wmslayer": "DybdePunkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Innsjodatabase2/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "36": {
     "dataeier": "Artsdatabanken",
@@ -1666,8 +1572,7 @@ var data = {
         "tittel": "Alle kategorier",
         "wmslayer": "Artskart",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "84": {
         "erSynlig": false,
@@ -1679,8 +1584,7 @@ var data = {
         "tittel": "SE - Svært høy risiko",
         "wmslayer": "SE",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "85": {
         "erSynlig": false,
@@ -1692,8 +1596,7 @@ var data = {
         "tittel": "HI - Høy risiko",
         "wmslayer": "HI",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "86": {
         "erSynlig": false,
@@ -1705,8 +1608,7 @@ var data = {
         "tittel": "PH - Potensielt høyu risiko",
         "wmslayer": "PH",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "87": {
         "erSynlig": false,
@@ -1718,8 +1620,7 @@ var data = {
         "tittel": "LO - Lav Risiko",
         "wmslayer": "LO",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "88": {
         "erSynlig": false,
@@ -1731,16 +1632,15 @@ var data = {
         "tittel": "NK - Ingen kjent risiko",
         "wmslayer": "NK",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskartfa.aspx?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "37": {
     "dataeier": "Kartverket",
@@ -1767,16 +1667,15 @@ var data = {
         "tittel": "havbunnraster med grå dybde og 50% skygge",
         "wmslayer": "graa_havbunnraster_dybde_skygge",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.geonorge.no/skwms1/wms.havbunnraster3?service=WMS&request=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "38": {
     "dataeier": "NGU",
@@ -1804,8 +1703,7 @@ var data = {
         "tittel": "Dekninsgskart N50",
         "wmslayer": "Bergart_N50_dekning",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "93": {
         "erSynlig": false,
@@ -1817,16 +1715,15 @@ var data = {
         "tittel": "Bergart flate N50",
         "wmslayer": "Bergart_flate_N50",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnN50WMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "39": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -1855,8 +1752,7 @@ var data = {
         "tittel": "Nedbørfelt til hav",
         "wmslayer": "Nedborfelt_til_hav",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "95": {
         "erSynlig": false,
@@ -1868,8 +1764,7 @@ var data = {
         "tittel": "Sidenedbørfelt",
         "wmslayer": "Sidenedborfelt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "96": {
         "erSynlig": false,
@@ -1881,8 +1776,7 @@ var data = {
         "tittel": "REGINE enhet",
         "wmslayer": "REGINE_enhet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "97": {
         "erSynlig": false,
@@ -1894,16 +1788,15 @@ var data = {
         "tittel": "Vassdragsområde",
         "wmslayer": "Vassdragsomrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Nedborfelt1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "40": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -1931,8 +1824,7 @@ var data = {
         "tittel": "Dam",
         "wmslayer": "Dam",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "99": {
         "erSynlig": false,
@@ -1944,8 +1836,7 @@ var data = {
         "tittel": "Dam_N250",
         "wmslayer": "Dam_N250",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "100": {
         "erSynlig": false,
@@ -1957,8 +1848,7 @@ var data = {
         "tittel": "Magasin",
         "wmslayer": "Magasin",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "101": {
         "erSynlig": false,
@@ -1970,8 +1860,7 @@ var data = {
         "tittel": "Vannvei",
         "wmslayer": "Vannvei",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "102": {
         "erSynlig": false,
@@ -1983,8 +1872,7 @@ var data = {
         "tittel": "Utløpspunkt",
         "wmslayer": "Utlopspunkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "103": {
         "erSynlig": false,
@@ -1996,8 +1884,7 @@ var data = {
         "tittel": "Inntakspunkt",
         "wmslayer": "Inntakspunkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "104": {
         "erSynlig": false,
@@ -2009,16 +1896,15 @@ var data = {
         "tittel": "Vannkraftverk",
         "wmslayer": "Vannkraftverk",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "41": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -2047,8 +1933,7 @@ var data = {
         "tittel": "Ikke utbygd magasin",
         "wmslayer": "Ikke_utbygd_magasin",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "106": {
         "erSynlig": false,
@@ -2060,8 +1945,7 @@ var data = {
         "tittel": "Ikke utbygd dam",
         "wmslayer": "Ikke_utbygd_dam",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "107": {
         "erSynlig": false,
@@ -2073,8 +1957,7 @@ var data = {
         "tittel": "Ikke utbygd inntakspunkt",
         "wmslayer": "Ikke_utbygd_inntakspunkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "108": {
         "erSynlig": false,
@@ -2086,8 +1969,7 @@ var data = {
         "tittel": "Ikke utbygd vannkraftverk",
         "wmslayer": "Ikke_utbygd_vannkraftverk",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "109": {
         "erSynlig": false,
@@ -2099,16 +1981,15 @@ var data = {
         "tittel": "Ikke utbygd vannvei",
         "wmslayer": "Ikke_utbygd_vannvei",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Vannkraft1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "42": {
     "dataeier": "Miljødirektoratet",
@@ -2135,16 +2016,15 @@ var data = {
         "tittel": "Foreslatt naturvernområde",
         "wmslayer": "foreslatt_naturvern_omrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "43": {
     "dataeier": "Miljødirektoratet",
@@ -2172,16 +2052,15 @@ var data = {
         "tittel": "Kulturlandskap -  utvalgte",
         "wmslayer": "kulturlandskap_utvalgte",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_utvalgte/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "44": {
     "dataeier": "Miljødirektoratet",
@@ -2206,16 +2085,15 @@ var data = {
         "tittel": "Ramsaromrader",
         "wmslayer": "ramsaromrader",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/ramsar/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.1.1",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "45": {
     "dataeier": "NIBIO",
@@ -2246,8 +2124,7 @@ var data = {
         "tittel": "Nøkkelbiotop",
         "wmslayer": "Nokkelbiotop",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "123": {
         "erSynlig": false,
@@ -2259,8 +2136,7 @@ var data = {
         "tittel": "Nøkkelbiotop med MiS",
         "wmslayer": "Nokkelbiotop_m_mis",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "124": {
         "erSynlig": false,
@@ -2272,16 +2148,15 @@ var data = {
         "tittel": "Nøkkelbiotop uten MiS",
         "wmslayer": "Nokkelbiotop_u_mis",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/skogbruksplan?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "46": {
     "dataeier": "NGU",
@@ -2307,8 +2182,7 @@ var data = {
         "tittel": "Bunnsedimenter (kornstørrelse) detaljert",
         "wmslayer": "Kornstorrelse_Det",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "126": {
         "erSynlig": false,
@@ -2320,8 +2194,7 @@ var data = {
         "tittel": "Bunnsedimenter (kornstørrelse) regional",
         "wmslayer": "Kornstorrelse_Reg",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "127": {
         "erSynlig": false,
@@ -2333,8 +2206,7 @@ var data = {
         "tittel": "Bunnsedimenter (dannelse) regional",
         "wmslayer": "Sedimentdannelse_Reg",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "128": {
         "erSynlig": false,
@@ -2346,8 +2218,7 @@ var data = {
         "tittel": "Sedimentasjonsmiljø detaljert",
         "wmslayer": "Sedimentasjonsmiljo_Det",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "129": {
         "erSynlig": false,
@@ -2359,16 +2230,15 @@ var data = {
         "tittel": "Sedimentasjonsmiljø regionalt",
         "wmslayer": "Sedimentasjonsmiljo_Reg",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?REQUEST=GetCapabilities&SERVICE=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "47": {
     "dataeier": "NGU",
@@ -2396,16 +2266,15 @@ var data = {
         "tittel": "Marine Landskap",
         "wmslayer": "MarineLandskap",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinLandskapWMS?REQUEST=GetCapabilities&SERVICE=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "48": {
     "dataeier": "Miljødirektoratet",
@@ -2435,8 +2304,7 @@ var data = {
         "tittel": "Marine naturtyper - alle",
         "wmslayer": "naturtyper_marine_hb19_alle",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "132": {
         "erSynlig": false,
@@ -2448,8 +2316,7 @@ var data = {
         "tittel": "Marine naturtyper - skjellsand",
         "wmslayer": "naturtype_marin_hb19_skjellsand",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "133": {
         "erSynlig": false,
@@ -2461,8 +2328,7 @@ var data = {
         "tittel": "Marine naturtyper - ålegras",
         "wmslayer": "naturtype_marin_hb19_alegras",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "134": {
         "erSynlig": false,
@@ -2474,8 +2340,7 @@ var data = {
         "tittel": "Marine naturtyper - bløtbunn",
         "wmslayer": "naturtype_marin_hb19_blotbunn",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "135": {
         "erSynlig": false,
@@ -2487,8 +2352,7 @@ var data = {
         "tittel": "Marine naturtyper - litoral",
         "wmslayer": "naturtype_marin_hb19_litoral",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "136": {
         "erSynlig": false,
@@ -2500,8 +2364,7 @@ var data = {
         "tittel": "Marine naturtyper - poller og dyp",
         "wmslayer": "naturtype_marin_hb19_poller_og_dyp",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "137": {
         "erSynlig": false,
@@ -2513,8 +2376,7 @@ var data = {
         "tittel": "Marine naturtyper - oksygen",
         "wmslayer": "naturtype_marin_hb19_oksygen",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "138": {
         "erSynlig": false,
@@ -2526,8 +2388,7 @@ var data = {
         "tittel": "Marine naturtyper - tidevann",
         "wmslayer": "naturtype_marin_hb19_tidevann",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "139": {
         "erSynlig": false,
@@ -2539,16 +2400,15 @@ var data = {
         "tittel": "Marine naturtyper - tare",
         "wmslayer": "naturtype_marin_hb19_tare",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WMSServer?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "49": {
     "dataeier": "NGU",
@@ -2576,16 +2436,15 @@ var data = {
         "tittel": "Geologisk arv",
         "wmslayer": "Geologisk_arv_areal_samlet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/GeologiskarvWMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:41",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "50": {
     "dataeier": "Havforskningsinstituttet",
@@ -2604,22 +2463,21 @@ var data = {
     "type": "Arter",
     "underlag": {
       "141": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=vulnerable_areas%3Acoralreefs",
         "maxscaledenominator": null,
         "minscaledenominator": null,
         "queryable": false,
-        "suggested": false,
+        "suggested": true,
         "tittel": "Korallrev - Lophelia pertusa",
         "wmslayer": "vulnerable_areas:coralreefs",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       }
     },
     "wmsurl": "https://maps.imr.no/geoserver/ows?request=GetCapabilities&service=WMS",
-    "status": "DOWN",
-    "timeStamp": "2020-6-19 13:9:40",
+    "status": "Feil på SSL-sertifikat",
+    "timeStamp": "2020-6-24 12:45:28",
     "feilkode": "mangler wmsurl"
   },
   "51": {
@@ -2637,7 +2495,7 @@ var data = {
     "tittel": "Sårbare habitat - marint",
     "underlag": {
       "142": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Softbottom_coral_garden",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2646,11 +2504,10 @@ var data = {
         "tittel": "Bløtbunnskorallskog",
         "wmslayer": "VME_Softbottom_coral_garden",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "143": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Seapen_fields",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2659,11 +2516,10 @@ var data = {
         "tittel": "Sjøfjærbunn",
         "wmslayer": "VME_Seapen_fields",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "144": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Nephtheidae_medow",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2672,11 +2528,10 @@ var data = {
         "tittel": "Blomkålkorallskog",
         "wmslayer": "VME_Nephtheidae_medow",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "145": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Hardbottom_sponge_garden",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2685,11 +2540,10 @@ var data = {
         "tittel": "Svampskog",
         "wmslayer": "VME_Hardbottom_sponge_garden",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "146": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Cold_water_sponge",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2698,11 +2552,10 @@ var data = {
         "tittel": "VME_Cold_water_sponge",
         "wmslayer": "VME_Cold_water_sponge",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "147": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Umbellula_fields",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2711,11 +2564,10 @@ var data = {
         "tittel": "Umbellula-bestander",
         "wmslayer": "VME_Umbellula_fields",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "148": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Softbottom_coral_garden",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2724,11 +2576,10 @@ var data = {
         "tittel": "Svampspikelbunn",
         "wmslayer": "VME_Softbottom_sponge_garden",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:28"
       },
       "149": {
-        "erSynlig": true,
+        "erSynlig": false,
         "legendeurl": "http://maps.imr.no:80/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mareano_data%3AVME_Hardbottom_coral_garden",
         "maxscaledenominator": null,
         "minscaledenominator": null,
@@ -2737,13 +2588,12 @@ var data = {
         "tittel": "Hardbunnskorallskog",
         "wmslayer": "VME_Hardbottom_coral_garden",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsurl": "https://maps.imr.no/geoserver/ows?request=GetCapabilities&service=WMS",
-    "status": "DOWN",
-    "timeStamp": "2020-6-19 13:9:40",
+    "status": "Feil på SSL-sertifikat",
+    "timeStamp": "2020-6-24 12:45:28",
     "feilkode": "mangler wmsurl"
   },
   "52": {
@@ -2774,8 +2624,7 @@ var data = {
         "tittel": "Breflate",
         "wmslayer": "Breflate",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "204": {
         "erSynlig": false,
@@ -2787,8 +2636,7 @@ var data = {
         "tittel": "Breflate_1895_1907",
         "wmslayer": "Breflate_1895_1907",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "205": {
         "erSynlig": false,
@@ -2800,8 +2648,7 @@ var data = {
         "tittel": "Breflate 1947 - 1985",
         "wmslayer": "Breflate_1947_1985",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "206": {
         "erSynlig": false,
@@ -2813,8 +2660,7 @@ var data = {
         "tittel": "Breflate 1988 - 1997",
         "wmslayer": "Breflate_1988_1997",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "207": {
         "erSynlig": false,
@@ -2826,8 +2672,7 @@ var data = {
         "tittel": "Breflate 1999 - 2006",
         "wmslayer": "Breflate_1999_2006",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "208": {
         "erSynlig": false,
@@ -2839,8 +2684,7 @@ var data = {
         "tittel": "Bresjo 1988 - 1997",
         "wmslayer": "Bresjo_1988_1997",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "209": {
         "erSynlig": false,
@@ -2852,8 +2696,7 @@ var data = {
         "tittel": "Bresjo 1999 - 2006",
         "wmslayer": "Bresjo_1999_2006",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "210": {
         "erSynlig": false,
@@ -2865,8 +2708,7 @@ var data = {
         "tittel": "Bresjo 2014",
         "wmslayer": "Bresjo_2014",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "211": {
         "erSynlig": false,
@@ -2878,8 +2720,7 @@ var data = {
         "tittel": "Istykkelse",
         "wmslayer": "Istykkelse",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "213": {
         "erSynlig": false,
@@ -2891,8 +2732,7 @@ var data = {
         "tittel": "Isras",
         "wmslayer": "Isras",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "661": {
         "erSynlig": false,
@@ -2904,16 +2744,15 @@ var data = {
         "tittel": "Jokulhlaup",
         "wmslayer": "Jokulhlaup",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Bre1/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "53": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -2940,8 +2779,7 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - elv",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_elv",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "151": {
         "erSynlig": false,
@@ -2953,8 +2791,7 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - innsjø",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_innsjoe",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "152": {
         "erSynlig": false,
@@ -2966,16 +2803,15 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - kystvann",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_kystvann",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "54": {
     "dataeier": "Miljødirektoratet",
@@ -3002,8 +2838,7 @@ var data = {
         "tittel": "Villrein leveområde",
         "wmslayer": "villrein_leveomrade_grense",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "154": {
         "erSynlig": false,
@@ -3015,8 +2850,7 @@ var data = {
         "tittel": "Villrein kalvingsområde",
         "wmslayer": "villrein_kalvingsomrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "155": {
         "erSynlig": false,
@@ -3028,8 +2862,7 @@ var data = {
         "tittel": "Villrein Trekkomrade",
         "wmslayer": "villrein_trekkomrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "156": {
         "erSynlig": false,
@@ -3041,8 +2874,7 @@ var data = {
         "tittel": "Villrein Trekkveg",
         "wmslayer": "villrein_trekkveg",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "157": {
         "erSynlig": false,
@@ -3054,8 +2886,7 @@ var data = {
         "tittel": "Villrein helårsbeite",
         "wmslayer": "villrein_helarsbeite",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "158": {
         "erSynlig": false,
@@ -3067,8 +2898,7 @@ var data = {
         "tittel": "Villrein høstbeite",
         "wmslayer": "villrein_hostbeite",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "159": {
         "erSynlig": false,
@@ -3080,8 +2910,7 @@ var data = {
         "tittel": "Villrein sommerbeite",
         "wmslayer": "villrein_sommerbeite",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "160": {
         "erSynlig": false,
@@ -3093,8 +2922,7 @@ var data = {
         "tittel": "Villrein vinterbeite",
         "wmslayer": "villrein_vinterbeite",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "161": {
         "erSynlig": false,
@@ -3106,16 +2934,15 @@ var data = {
         "tittel": "Villrein barmarksbeite",
         "wmslayer": "villrein_barmarksbeite",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "55": {
     "dataeier": "Miljødirektoratet",
@@ -3144,16 +2971,15 @@ var data = {
         "tittel": "Kulturlandskap - verdifulle",
         "wmslayer": "kulturlandskap_verdifulle",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_verdifulle/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:43",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "56": {
     "dataeier": "NGU",
@@ -3180,8 +3006,7 @@ var data = {
         "tittel": "Marin grense",
         "wmslayer": "MarinGrenseWMS3",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "164": {
         "erSynlig": false,
@@ -3193,8 +3018,7 @@ var data = {
         "tittel": "Marin grense - linje",
         "wmslayer": "Marin_grense_linje",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "165": {
         "erSynlig": false,
@@ -3206,8 +3030,7 @@ var data = {
         "tittel": "Marin grense - areal under",
         "wmslayer": "Marin_grense_flate_under",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "166": {
         "erSynlig": false,
@@ -3219,8 +3042,7 @@ var data = {
         "tittel": "Marin grense - areal over",
         "wmslayer": "Areal_marin_grense",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "167": {
         "erSynlig": false,
@@ -3232,16 +3054,15 @@ var data = {
         "tittel": "Mulig marin leire",
         "wmslayer": "Mulig_marin_leire",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS3?REQUEST=GetCapabilities&SERVICE=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "57": {
     "dataeier": "NGU",
@@ -3268,8 +3089,7 @@ var data = {
         "tittel": "Bergartsflate 1:250000",
         "wmslayer": "Bergart_flate_N250",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "169": {
         "erSynlig": false,
@@ -3281,8 +3101,7 @@ var data = {
         "tittel": "Lineamenter",
         "wmslayer": "Lineamenter_N250",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "170": {
         "erSynlig": false,
@@ -3294,16 +3113,15 @@ var data = {
         "tittel": "Bergartsgrense 1:250000",
         "wmslayer": "Bergart_grense_N250",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnWMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "58": {
     "dataeier": "NIBIO",
@@ -3332,16 +3150,15 @@ var data = {
         "tittel": "Vernskog",
         "wmslayer": "Vernskog",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/vernskog?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "59": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -3369,8 +3186,7 @@ var data = {
         "tittel": "Skredtype",
         "wmslayer": "Skredtype",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "173": {
         "erSynlig": false,
@@ -3382,16 +3198,15 @@ var data = {
         "tittel": "Oversikt - skred",
         "wmslayer": "Oversikt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/SkredHendelser/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "60": {
     "dataeier": "Riksantikvaren",
@@ -3417,16 +3232,15 @@ var data = {
         "tittel": "Kulturminner - lokaliteter",
         "wmslayer": "Lokaliteter",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:41",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.ra.no/arcgis/services/Distribusjon/Kulturminner20180301/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:49",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:35",
+    "feilkode": "mangler wmsurl"
   },
   "61": {
     "dataeier": "NGU",
@@ -3452,8 +3266,7 @@ var data = {
         "tittel": "Glasiale former",
         "wmslayer": "Glasiale_former",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "176": {
         "erSynlig": false,
@@ -3465,8 +3278,7 @@ var data = {
         "tittel": "Skredformer",
         "wmslayer": "Skredformer",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "177": {
         "erSynlig": false,
@@ -3478,8 +3290,7 @@ var data = {
         "tittel": "Grunngass-relaterte former",
         "wmslayer": "Pockmarks_Group",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "178": {
         "erSynlig": false,
@@ -3491,16 +3302,15 @@ var data = {
         "tittel": "Andre former",
         "wmslayer": "Andre_former",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinTerrengWMS2?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "62": {
     "dataeier": "NGU",
@@ -3529,8 +3339,7 @@ var data = {
         "tittel": "Omriss",
         "wmslayer": "Omriss",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "180": {
         "erSynlig": false,
@@ -3542,8 +3351,7 @@ var data = {
         "tittel": "Dekningskart",
         "wmslayer": "Kartlagt_omraade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "181": {
         "erSynlig": false,
@@ -3555,8 +3363,7 @@ var data = {
         "tittel": "Tetthet (antall pr. km2)",
         "wmslayer": "Korall_tetthet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "182": {
         "erSynlig": false,
@@ -3568,16 +3375,15 @@ var data = {
         "tittel": "Pålitelighet",
         "wmslayer": "Palitelighet",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinSannsynligeKorallrevWMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "63": {
     "dataeier": "NGU",
@@ -3605,8 +3411,7 @@ var data = {
         "tittel": "Grus/pukk: område",
         "wmslayer": "Grus_Pukk_omrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "184": {
         "erSynlig": false,
@@ -3618,8 +3423,7 @@ var data = {
         "tittel": "Grus/pukk: uttak",
         "wmslayer": "Grus_Pukk_uttak",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "185": {
         "erSynlig": false,
@@ -3631,16 +3435,15 @@ var data = {
         "tittel": "Steintipp",
         "wmslayer": "Steintipp",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/GrusPukkWMS3?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "64": {
     "dataeier": "NGU",
@@ -3666,8 +3469,7 @@ var data = {
         "tittel": "Biotoper - Midtnorsk sokkel",
         "wmslayer": "Biotoper_MTRL",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "188": {
         "erSynlig": false,
@@ -3679,8 +3481,7 @@ var data = {
         "tittel": "Biotoper - NordlandVI",
         "wmslayer": "Biotoper_NLVI",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "189": {
         "erSynlig": false,
@@ -3692,8 +3493,7 @@ var data = {
         "tittel": "Biotoper - TromsII/NordlandVII",
         "wmslayer": "Biotoper_T2N7",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "190": {
         "erSynlig": false,
@@ -3705,16 +3505,15 @@ var data = {
         "tittel": "Biotoper - Barentshavet (MAREANO)",
         "wmslayer": "Biotoper_Barents",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinNaturtyperWMS2?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:29",
+    "feilkode": "mangler wmsurl"
   },
   "65": {
     "dataeier": "Norges vassdrags- og energidirektorat",
@@ -3742,8 +3541,7 @@ var data = {
         "tittel": "Flomsone - 1000-årsflom",
         "wmslayer": "Flomsone_1000arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "192": {
         "erSynlig": false,
@@ -3755,8 +3553,7 @@ var data = {
         "tittel": "Flomsone - 500-årsflom",
         "wmslayer": "Flomsone_500arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "193": {
         "erSynlig": false,
@@ -3768,8 +3565,7 @@ var data = {
         "tittel": "Flomsone - 200-årsflom",
         "wmslayer": "Flomsone_200arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "194": {
         "erSynlig": false,
@@ -3781,8 +3577,7 @@ var data = {
         "tittel": "Flomsone - 50-årsflom",
         "wmslayer": "Flomsone_100arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "195": {
         "erSynlig": false,
@@ -3794,8 +3589,7 @@ var data = {
         "tittel": "Flomsone - 50-årsflom",
         "wmslayer": "Flomsone_50arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "196": {
         "erSynlig": false,
@@ -3807,8 +3601,7 @@ var data = {
         "tittel": "Flomsone - 20-årsflom",
         "wmslayer": "Flomsone_20arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "197": {
         "erSynlig": false,
@@ -3820,8 +3613,7 @@ var data = {
         "tittel": "Flomsone - 10-årsflom",
         "wmslayer": "Flomsone_10arsflom",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "198": {
         "erSynlig": false,
@@ -3833,16 +3625,15 @@ var data = {
         "tittel": "Dekningskart - Analyseområde",
         "wmslayer": "FlomsoneAnalyseomraade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:42",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis3.nve.no/map/services/Flomsoner1/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:42",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "66": {
     "dataeier": "Miljødirektoratet",
@@ -3869,8 +3660,7 @@ var data = {
         "tittel": "Forurenset område - tilstand (punkt)",
         "wmslayer": "forurenset_omrade",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "200": {
         "erSynlig": false,
@@ -3882,8 +3672,7 @@ var data = {
         "tittel": "Forurenset område  (punkt)",
         "wmslayer": "forurenset_omrade_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "201": {
         "erSynlig": false,
@@ -3895,8 +3684,7 @@ var data = {
         "tittel": "Forurenset område - tilstand",
         "wmslayer": "forurenset_omrade_tilstand",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       },
       "202": {
         "erSynlig": false,
@@ -3908,16 +3696,15 @@ var data = {
         "tittel": "Forurenset område - tilstand (punkt)",
         "wmslayer": "forurenset_omrade_tilstand_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:30"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/grunnforurensning2/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.1.1",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:44",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "67": {
     "dataeier": "Miljødirektoratet",
@@ -3944,8 +3731,7 @@ var data = {
         "tittel": "Fredete arter - områder",
         "wmslayer": "Fredete_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "223": {
         "erSynlig": false,
@@ -3957,16 +3743,15 @@ var data = {
         "tittel": "Fredete arter - punkt",
         "wmslayer": "Fredete_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:45",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:30",
+    "feilkode": "mangler wmsurl"
   },
   "68": {
     "dataeier": "Miljødirektoratet",
@@ -3992,8 +3777,7 @@ var data = {
         "tittel": "Prioriterte arter - områder",
         "wmslayer": "Prioriterte_arter_PA_omr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "225": {
         "erSynlig": false,
@@ -4005,8 +3789,7 @@ var data = {
         "tittel": "Prioriterte arter - punkt",
         "wmslayer": "Prioriterte_arter_PA_pkt",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       },
       "226": {
         "erSynlig": false,
@@ -4018,15 +3801,14 @@ var data = {
         "tittel": "Prioriterte arter - økologiske funksjonsområder",
         "wmslayer": "PA_Okologiske_funksjonsomr",
         "status": "200 OK",
-        "timeStamp": "2020-6-19 13:9:43",
-        "feilkode": "funker fint"
+        "timeStamp": "2020-6-24 12:45:29"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2020-6-19 13:9:45",
-    "feilkode": "funker fint"
+    "timeStamp": "2020-6-24 12:45:32",
+    "feilkode": "mangler wmsurl"
   }
 }
