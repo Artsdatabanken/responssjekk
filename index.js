@@ -86,16 +86,15 @@ Object.keys(kartlag).forEach(key => {
         kartlag[key].underlag[ul].timeStamp = timeStamp
         alle[key].underlag[ul] = kartlag[key].underlag[ul]
         writeToFile(kartlag, alle)
-      } 
-      else {
+      } else {
         message = 'Jeg virker ikke: ID = ' + key + '-' + ul + ' Tittel = ' + kartlag[key].underlag.tittel + ' ' + kartlag[key].underlag.wmsurl
-     // postMessageToSlack(message)
-     // console.log(message)
-     //console.log(kartlag[key].underlag[ul], response.status)
-     kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
-     kartlag[key].underlag[ul].timeStamp = timeStamp
-     alle[key].underlag[ul] = kartlag[key].underlag[ul]
-     writeToFile(kartlag, alle)
+        // postMessageToSlack(message)
+        // console.log(message)
+        //console.log(kartlag[key].underlag[ul], response.status)
+        kartlag[key].underlag[ul].status = response.status + ' ' + response.statusText
+        kartlag[key].underlag[ul].timeStamp = timeStamp
+        alle[key].underlag[ul] = kartlag[key].underlag[ul]
+        writeToFile(kartlag, alle)
       }
     } catch(err) {
       console.log('Rejected' + err)
@@ -111,9 +110,7 @@ Object.keys(kartlag).forEach(key => {
 
   if (kartlag[key.underlag]) {
     console.log("Underlag:", key.underlag)
-  }
-
-  else {
+  } else {
     message = 'Dette laget mangler wmsurl: ID = ' + key + ' Tittel = ' + kartlag[key].tittel
    // postMessageToSlack(message)
    // console.log(message)
@@ -129,7 +126,6 @@ Object.keys(kartlag).forEach(key => {
 )
 //console.log(alle)
 function writeToFile () {
-faktiskeKartlag = Object.keys(kartlag)
 kartArr = Object.keys(kartlag)
 alleArr = Object.keys(alle)
 //console.log("kart", kartArr)
