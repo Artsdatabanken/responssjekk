@@ -5,6 +5,6 @@ WORKDIR /usr/local/apache2/htdocs
 COPY . .
 COPY ./config/yourConfig.json ./config/config.json
 RUN npm run process
-RUN crontab -l | { cat; echo "0 0 0 0 0 some entry"; } | crontab -
+RUN crontab -l | { cat; echo "0 0 0 0 0 /usr/local/apache2/htdocs/oppdater/oppdater.sh"; } | crontab -
 EXPOSE 3001
 CMD ["httpd-foreground"]
