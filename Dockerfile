@@ -8,6 +8,6 @@ RUN npm run process
 RUN crontab -l | { cat; echo "* * * * 0 /usr/local/apache2/htdocs/oppdater/oppdater.sh"; } | crontab -
 RUN crontab -l
 RUN chmod +x /usr/local/apache2/htdocs/oppdater/oppdater.sh
-RUN chown :www-data -R /usr/local/apache2/htdocs
+RUN chown www-data:www-data -R /usr/local/apache2/htdocs
 EXPOSE 3001
 CMD ["httpd-foreground"]
