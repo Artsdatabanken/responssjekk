@@ -1,14 +1,17 @@
 FROM artsdatabanken/httpd
 RUN apk update
 RUN apk add --update nodejs nodejs-npm
-ARG TZ='Europe/Oslo'
-ENV TZ ${TZ}
+ARG TZ='Europe/Berlin'
+
+ENV DEFAULT_TZ ${TZ}
+
 RUN apk upgrade --update \
-    && apk add -U tzdata \
-    && cp /usr/share/zoneinfo/${TZ} /etc/localtime \
-    && apk del tzdata \
-    && rm -rf \
-    /var/cache/apk/*
+  && apk add -U tzdata \
+  && cp /usr/share/zoneinfo/${DEFAULT_TZ} /etc/localtime \
+  && apk del tzdata \
+  && rm -rf \
+  /var/cache/apk/*
+
 WORKDIR /usr/local/apache2/htdocs
 COPY . .
 COPY ./config/yourConfig.json ./config/config.json
