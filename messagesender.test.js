@@ -11,6 +11,6 @@ test('say hepp',() => {
 
 
 test('teams message sent', async () => {
-    const data = await ms.post_to_teams_channel("Hei på deg!");
+    const data = await ms.post_to_teams_channel("Hei på deg2!");
     expect(data).toBe('1');
 });

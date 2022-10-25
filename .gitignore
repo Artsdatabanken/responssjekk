@@ -2,6 +2,6 @@ kartlag.json
 kartlag copy.json
 /config/config.json
 /output/output.json
-node_modules/
+node_modules/*
 .vscode/
 native_download.js
