@@ -1,3 +1,4 @@
 {
-    "addressAndToken": "Your URL and token goes here"
+    "addressAndToken": "Your URL and token goes here",
+    "teams_webhook" : "https://...."
 }
