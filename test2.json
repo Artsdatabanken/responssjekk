@@ -1,0 +1,45 @@
+{    
+    
+    "40": {
+        "dataeier": "Norges vassdrags- og energidirektorat",
+        "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/vannkraft-utbygd-og-ikke-utbygd/f587a15a-c72a-4b21-aae9-4132df1bdd27",
+        "id": 40,
+        "kildeurl": "https://www.nve.no/",
+        "logourl": "https://www.mercell.com/UI/Image/fVfBBa5cMln9VDKJrXvnzoOlv_s_/norges-vassdrags--og-energidirektorat-nve.ashx",
+        "produktark": "https://register.geonorge.no/data/documents/Produktark_Vannkraft,%20utbygd%20og%20ikke%20utbygd_v3_produktarknve-vannkraft-utbygd-og-ikke-utbygd20180524_.pdf",
+        "projeksjon": "EPSG:3857",
+        "tags": [
+            "DOK-data",
+            "Administrative støttekart",
+            "Ferskvann"
+        ],
+        "tema": "Administrative støttekart",
+        "tittel": "Vannkraft - utbygd",
+        "type": "Administrative støttekart",
+        "underlag": {
+            "98": {
+                "faktaark": "",
+                "id": 98,
+                "klikktekst": "{Dam.damNavn}",
+                "klikktekst2": "{Dam.hovedType} {Dam.damFormal} {Dam.dKategori} {Dam.status} {Dam.NedborFelt}",
+                "klikkurl": "",
+                "legendeurl": "https://nve.geodataonline.no:443/arcgis/services/Vannkraft1/MapServer/WmsServer?request=GetLegendGraphic%26version=1.3.0%26format=image/png%26layer=Dam",
+                "maxscaledenominator": 75596,
+                "maxzoom": 20,
+                "minscaledenominator": null,
+                "minzoom": 13,
+                "position": null,
+                "publiserprod": true,
+                "publisertest": true,
+                "queryable": true,
+                "suggested": true,
+                "testkoordinater": "10.757246704857872,59.93075298715726",
+                "tittel": "Dam",
+                "wmslayer": "Dam"
+            }
+        },
+        "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+        "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+        "wmsversion": "1.3.0"
+    }
+}
