@@ -15,3 +15,9 @@ Hvordan kjører du den lokalt for å fikse ting?
 2. npm install
 3. npm run process
 4. Cake!
+
+
+.config/config.json, format:
+```yaml
+ "addressAndToken": "Your URL and token goes here...",
+    "teams_webhook": "..."
