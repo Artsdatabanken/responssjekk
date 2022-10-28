@@ -23,4 +23,5 @@ jobs:
         context: .
         push: true
         tags: artsdatabanken/responssjekk:test
-            
+    - name: Post to slack for bot to publish to test
+      run: .github/workflows/testslack.sh ${{ secrets.POST_SLACK }}
