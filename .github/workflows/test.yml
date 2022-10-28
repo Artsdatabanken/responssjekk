@@ -12,8 +12,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Update packages
-      run: npm install
     - name: Build & push the Docker image
       uses: docker/build-push-action@v2
       with:
