@@ -2,7 +2,7 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ test ]
+    branches: [ master ]
 
 jobs:
 
@@ -22,5 +22,4 @@ jobs:
       with: 
         context: .
         push: true
-        tags: artsdatabanken/responssjekk:test
-            
+        tags: artsdatabanken/responssjekk:latest
