@@ -1,9 +1,11 @@
 # responssjekk
 
-
+Publiseres automatisk til følgende URL, ved innsjekk av kode til test-branch. 
 https://responssjekk.test.artsdatabanken.no/
 Kort og godt en sjekk av at de forskjellige datakilder som benyttes i Forvaltningsportalen er oppegående. Sjekken kjøres én gang
 per time og timestamp er siste kjøring. 
+
+Skal du publisere til produksjon, gå til #crocotta og be botten publisere, etter at du har merget/sjekket inn kode til master og dette bygget er grønt. Fortrinnsvis etter en PR fra test.
 
 Fet skrift = hovedlag
 Innrykk = underlag
