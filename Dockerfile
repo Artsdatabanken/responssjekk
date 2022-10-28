@@ -15,6 +15,7 @@ RUN apk upgrade --update \
 WORKDIR /usr/local/apache2/htdocs
 COPY . .
 COPY ./config/yourConfig.json ./config/config.json
+RUN npm install
 RUN npm run process
 RUN crontab -l | { cat; echo "* * * * 0 /usr/local/apache2/htdocs/oppdater/oppdater.sh"; } | crontab -
 RUN crontab -l
