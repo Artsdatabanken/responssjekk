@@ -38,7 +38,7 @@ var data = {
         "tittel": "Livsmiljø",
         "wmslayer": "Livsmiljo",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "57": {
         "faktaark": "",
@@ -60,7 +60,7 @@ var data = {
         "tittel": "Kartleggingsområde",
         "wmslayer": "Kartleggingsomr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "59": {
         "faktaark": "",
@@ -82,7 +82,7 @@ var data = {
         "tittel": "Bekkekløfter",
         "wmslayer": "Bekkeklofter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "62": {
         "faktaark": "",
@@ -104,7 +104,7 @@ var data = {
         "tittel": "Brannflater",
         "wmslayer": "Brannflater",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "64": {
         "faktaark": "",
@@ -126,7 +126,7 @@ var data = {
         "tittel": "Gamle trær",
         "wmslayer": "Gamle_trar",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "66": {
         "faktaark": "",
@@ -148,7 +148,7 @@ var data = {
         "tittel": "Leirraviner",
         "wmslayer": "Leirraviner",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "67": {
         "faktaark": "",
@@ -170,7 +170,7 @@ var data = {
         "tittel": "Liggende død ved",
         "wmslayer": "Liggende_dod_ved",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "68": {
         "faktaark": "",
@@ -192,7 +192,7 @@ var data = {
         "tittel": "Rik bakkevegetasjon",
         "wmslayer": "Rik_bakkevegetasjon",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "232": {
         "faktaark": "",
@@ -214,7 +214,7 @@ var data = {
         "tittel": "Stående død ved",
         "wmslayer": "Staende_dod_ved",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "233": {
         "faktaark": "",
@@ -236,7 +236,7 @@ var data = {
         "tittel": "Hule lauvtrær",
         "wmslayer": "Hule_lauvtrar_punkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "234": {
         "faktaark": "",
@@ -258,7 +258,7 @@ var data = {
         "tittel": "Eldre lauvsuksesjon",
         "wmslayer": "Eldre_lauvsuksesjon",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "235": {
         "faktaark": "",
@@ -280,7 +280,7 @@ var data = {
         "tittel": "Trær med hengelav",
         "wmslayer": "Trar_m_hengelav",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "236": {
         "faktaark": "",
@@ -302,7 +302,7 @@ var data = {
         "tittel": "Rikbarkstrær",
         "wmslayer": "Rikbarkstrar",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "989": {
         "faktaark": "",
@@ -324,14 +324,14 @@ var data = {
         "tittel": "Livsmiljø ikke utvalgt",
         "wmslayer": "Livsmiljo_ikkeutvalgt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/mis?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:7",
     "feilkode": "mangler wmsurl"
   },
   "2": {
@@ -373,7 +373,7 @@ var data = {
         "tittel": "Arealressurs: AR5 Arealtype",
         "wmslayer": "Arealtype",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "36": {
         "faktaark": "",
@@ -395,7 +395,7 @@ var data = {
         "tittel": "Treslag",
         "wmslayer": "Treslag",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "37": {
         "faktaark": "",
@@ -417,14 +417,14 @@ var data = {
         "tittel": "Jordbruksareal",
         "wmslayer": "Jordbruksareal",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/ar5?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:7",
     "feilkode": "mangler wmsurl"
   },
   "3": {
@@ -465,7 +465,7 @@ var data = {
         "tittel": "Naturtyper Mdir",
         "wmslayer": "naturtyper_nin_alle",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "30": {
         "faktaark": "{dekningskart_naturtyper_nin.Kartleggingsinstruks}",
@@ -487,7 +487,7 @@ var data = {
         "tittel": "Dekningskart",
         "wmslayer": "dekningskart_naturtyper_nin",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "115": {
         "faktaark": "{naturtype_nin_svart_hoy_kvalitet.Faktaark}",
@@ -509,7 +509,7 @@ var data = {
         "tittel": "Naturtype NiN -  Svært høy lokalitetskvalitet",
         "wmslayer": "naturtype_nin_svart_hoy_kvalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "116": {
         "faktaark": "{naturtype_nin_hoy_kvalitet.Faktaark}",
@@ -531,7 +531,7 @@ var data = {
         "tittel": "Naturtype NiN - høy kvalitet",
         "wmslayer": "naturtype_nin_hoy_kvalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "117": {
         "faktaark": "{response.naturtype_nin_moderat_kvalitet.Faktaark}",
@@ -553,7 +553,7 @@ var data = {
         "tittel": "Naturtype NiN - moderat kvalitet",
         "wmslayer": "naturtype_nin_moderat_kvalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "118": {
         "faktaark": "{naturtype_nin_lav_kvalitet.Faktaark}",
@@ -575,7 +575,7 @@ var data = {
         "tittel": "Naturtype NiN -  lav kvalitet",
         "wmslayer": "naturtype_nin_lav_kvalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "119": {
         "faktaark": "{naturtype_nin_ikke_kvalitetsvurdert.Faktaark}",
@@ -597,7 +597,7 @@ var data = {
         "tittel": "Naturtype NiN - ikke kvalitetsvurdert",
         "wmslayer": "naturtype_nin_ikke_kvalitetsvurdert",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "1001": {
         "faktaark": "{naturtype_nin_svart_lav_kvalitet.Faktaark}",
@@ -619,14 +619,14 @@ var data = {
         "tittel": "Naturtype NiN - svært lav kvalitet",
         "wmslayer": "naturtype_nin_svart_lav_kvalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:10",
     "feilkode": "mangler wmsurl"
   },
   "4": {
@@ -665,7 +665,7 @@ var data = {
         "tittel": "Innlandsås- og fjellandskap",
         "wmslayer": "LA-I-A",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "45": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/I/D",
@@ -687,7 +687,7 @@ var data = {
         "tittel": "Innlandsdallandskap",
         "wmslayer": "LA-I-D",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "46": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/I/S",
@@ -709,7 +709,7 @@ var data = {
         "tittel": "Innlandsslettelandskap",
         "wmslayer": "LA-I-S",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "47": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/K/F",
@@ -731,7 +731,7 @@ var data = {
         "tittel": "Fjordlandskap",
         "wmslayer": "LA-K-F",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "48": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/K/S",
@@ -753,7 +753,7 @@ var data = {
         "tittel": "Kystslettelandskap",
         "wmslayer": "LA-K-S",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "50": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/M",
@@ -775,7 +775,7 @@ var data = {
         "tittel": "Marine landskap",
         "wmslayer": "LA-M",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "252": {
         "faktaark": "https://artsdatabanken.no/nin/LA/TI/K/A",
@@ -797,14 +797,14 @@ var data = {
         "tittel": "Kystås- og kystfjellandskap",
         "wmslayer": "LA-K-A",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:11",
     "feilkode": "mangler wmsurl"
   },
   "18": {
@@ -843,7 +843,7 @@ var data = {
         "wmslayer": "LA-KLG-AI_k",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:6"
       },
       "51": {
         "faktaark": "",
@@ -865,7 +865,7 @@ var data = {
         "wmslayer": "LA-KLG-BP_d",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:6"
       },
       "52": {
         "faktaark": "",
@@ -887,7 +887,7 @@ var data = {
         "wmslayer": "LA-KLG-VE_d",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:6"
       },
       "53": {
         "faktaark": "",
@@ -909,7 +909,7 @@ var data = {
         "wmslayer": "LA-KLG-VP_d",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:6"
       },
       "54": {
         "faktaark": "",
@@ -931,14 +931,14 @@ var data = {
         "wmslayer": "LA-KLG-IP_d",
         "legendeurl": "URL mangler",
         "status": "DOWN",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:6"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.artsdatabanken.no/?map=/maps/mapfiles/la.map&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:11",
     "feilkode": "mangler wmsurl"
   },
   "19": {
@@ -976,14 +976,14 @@ var data = {
         "tittel": "Verneplan for Vassdrag",
         "wmslayer": "VerneplanforVassdrag",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/VerneplanforVassdrag/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "20": {
@@ -1002,7 +1002,7 @@ var data = {
     "type": "bioklimatisk_sone",
     "underlag": {
       "19": {
-        "faktaark": "",
+        "faktaark": "https://artsdatabanken.no/Pages/181901/Bioklimatiske_soner",
         "id": 19,
         "klikktekst": "{trinn.tittel.nb}",
         "klikktekst2": "{v}{beskrivelse.nb}",
@@ -1021,10 +1021,10 @@ var data = {
         "tittel": "Bioklimatisk sone",
         "wmslayer": "soner2017",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "283": {
-        "faktaark": "",
+        "faktaark": "https://artsdatabanken.no/Pages/181900/Bioklimatiske_seksjoner",
         "id": 283,
         "klikktekst": "{trinn.tittel.nb}",
         "klikktekst2": "{v}{beskrivelse.nb}",
@@ -1043,14 +1043,14 @@ var data = {
         "tittel": "Bioklimatiske seksjoner 2017",
         "wmslayer": "seksjoner2017",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:10"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/lkm.aspx?https://kart.artsdatabanken.no/wms/lkm.aspx?VERSION=1.3.0&TRANSPARENT=true&LAYERS=seksjoner2017&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:10",
     "feilkode": "mangler wmsurl"
   },
   "23": {
@@ -1089,7 +1089,7 @@ var data = {
         "tittel": "Nasjonale laksefjorder",
         "wmslayer": "nasjonale_laksefjorder",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "73": {
         "faktaark": "{info}",
@@ -1111,7 +1111,7 @@ var data = {
         "tittel": "Kysttorsk - forbudsområde",
         "wmslayer": "kysttorsk_forbudsomraade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "74": {
         "faktaark": "{url_lovtekst}",
@@ -1133,7 +1133,7 @@ var data = {
         "tittel": "Korallrev - forbudsområder",
         "wmslayer": "korallrev_forbudsomraade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "79": {
         "faktaark": "{urlforskrift}",
@@ -1155,14 +1155,14 @@ var data = {
         "tittel": "Verneområder - bunnhabitat",
         "wmslayer": "verneomraader_bunnhabitat",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:43"
+        "timeStamp": "2024-10-18 13:29:13"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:43",
+    "timeStamp": "2024-10-18 13:29:33",
     "feilkode": "mangler wmsurl"
   },
   "24": {
@@ -1189,7 +1189,7 @@ var data = {
         "klikktekst": "{Losmasse_flate_layer.Losmasse_flate_feature.losmassetype_tekst}",
         "klikktekst2": "{Losmasse_flate_layer.Losmasse_flate_feature.objekttype}",
         "klikkurl": "https://geo.ngu.no/mapserver/LosmasserWMS?service=wms&version=1.1.1&srs=EPSG:4326&layers=Losmasse_flate&query_layers=Losmasse_flate&info_format=application/vnd.ogc.gml&x=128&y=128&height=255&width=255&request=GetFeatureInfo&service=WMS&bbox={bbox}",
-        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Losmasse_Norge&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasseflate_N1000&format=image/png&STYLE=default",
         "maxscaledenominator": null,
         "maxzoom": 9,
         "minscaledenominator": 750002,
@@ -1203,7 +1203,7 @@ var data = {
         "tittel": "Løsmasse",
         "wmslayer": "Losmasse_Norge",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "399": {
         "faktaark": "",
@@ -1211,7 +1211,7 @@ var data = {
         "klikktekst": "{Losmasse_flate_layer.Losmasse_flate_feature.losmassetype_tekst}",
         "klikktekst2": "{Losmasse_flate_layer.Losmasse_flate_feature.losmassetype_definisjon}",
         "klikkurl": "",
-        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Losmasse_flate&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasseflate_N1000&format=image/png&STYLE=default",
         "maxscaledenominator": 150000,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1225,7 +1225,7 @@ var data = {
         "tittel": "Løsmasse flate",
         "wmslayer": "Losmasse_flate",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "405": {
         "faktaark": "",
@@ -1246,8 +1246,8 @@ var data = {
         "testkoordinater": "10.245952606201174,63.12193360268491",
         "tittel": "Saltvannsavsetning",
         "wmslayer": "Saltvannsavsetning",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "status": "text/html",
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "409": {
         "faktaark": "",
@@ -1268,8 +1268,8 @@ var data = {
         "testkoordinater": "10.176258087158205,63.141871742286796",
         "tittel": "Mektighet",
         "wmslayer": "Mektighet",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "status": "text/html",
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "411": {
         "faktaark": "",
@@ -1290,8 +1290,8 @@ var data = {
         "testkoordinater": "9.688911437988283,62.592708693465134",
         "tittel": "Grunnvannspotensiale",
         "wmslayer": "Grunnvannspotensiale",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "status": "text/html",
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "415": {
         "faktaark": "",
@@ -1312,15 +1312,15 @@ var data = {
         "testkoordinater": "",
         "tittel": "Skredmateriale",
         "wmslayer": "Skredmateriale",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "status": "text/html",
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/LosmasserWMS?language=nor&srs=EPSG:900913&request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:7",
     "feilkode": "mangler wmsurl"
   },
   "26": {
@@ -1330,7 +1330,7 @@ var data = {
     "id": 26,
     "kildeurl": "https://www.miljodirektoratet.no/",
     "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
-    "projeksjon": "espg:3857",
+    "projeksjon": "ESPG:3857",
     "tags": [
       "Feltkartlagte data",
       "Naturtype",
@@ -1342,33 +1342,33 @@ var data = {
     "type": "naturtype",
     "underlag": {
       "24": {
-        "faktaark": "{Faktaark}",
+        "faktaark": "{naturtype_utvalgt_omr.Faktaark}",
         "id": 24,
-        "klikktekst": "{Naturtype}",
-        "klikktekst2": "{denavn}",
+        "klikktekst": "{naturtype_utvalgt_omr.UtvalgtNaturtype}",
+        "klikktekst2": "{naturtype_utvalgt_omr.Områdenavn}",
         "klikkurl": "",
         "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte2/MapServer/WmsServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=naturtype_utvalgt_omr",
-        "maxscaledenominator": 1209524,
+        "maxscaledenominator": null,
         "maxzoom": 20,
         "minscaledenominator": null,
-        "minzoom": 9,
+        "minzoom": 8,
         "position": null,
         "publiserprod": true,
         "publisertest": true,
         "queryable": true,
         "suggested": true,
-        "testkoordinater": "9.05327177978939,62.50981090196922",
+        "testkoordinater": "12.278938484010606,64.68881461605257",
         "tittel": "Naturtyper - utvalgte",
         "wmslayer": "naturtype_utvalgt_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       }
     },
-    "wmsinfoformat": "application/vnd.ogc.wms_xml",
-    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte2/MapServer/WMSServer?service=wms&version=1.1.1&request=getcapabilities",
-    "wmsversion": "1.1.1",
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_utvalgte2/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:10",
     "feilkode": "mangler wmsurl"
   },
   "27": {
@@ -1409,7 +1409,7 @@ var data = {
         "tittel": "Naturtyper - DN Håndbok 13",
         "wmslayer": "naturtyper_hb13_alle",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:32"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "214": {
         "faktaark": "{hovednaturtype_hb13_skog.Faktaark}",
@@ -1417,7 +1417,7 @@ var data = {
         "klikktekst": "{hovednaturtype_hb13_skog.Naturtype}",
         "klikktekst2": "{hovednaturtype_hb13_skog.Utforming} {hovednaturtype_hb13_skog.Verdi}",
         "klikkurl": "",
-        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/mapserver/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=hovednaturtype_hb13_skog&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=hovednaturtype_hb13_skog",
         "maxscaledenominator": 1209524,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1431,7 +1431,7 @@ var data = {
         "tittel": "Hovednaturtype - skog",
         "wmslayer": "hovednaturtype_hb13_skog",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "215": {
         "faktaark": "{hovednaturtype_hb13_rasmark_berg_kantkratt.Faktaark}",
@@ -1453,7 +1453,7 @@ var data = {
         "tittel": "Hovednaturtype - rasmark, berg og kantkratt",
         "wmslayer": "hovednaturtype_hb13_rasmark_berg_kantkratt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "216": {
         "faktaark": "{hovednaturtype_hb13_myr_og_kilde.Faktaark}",
@@ -1475,7 +1475,7 @@ var data = {
         "tittel": "Hovednaturtype - myr og kilde",
         "wmslayer": "hovednaturtype_hb13_myr_og_kilde",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "217": {
         "faktaark": "{hovednaturtype_hb13_kyst_havstrand.Faktaark}",
@@ -1497,7 +1497,7 @@ var data = {
         "tittel": "Hovednaturtype - Kyst og havstrand",
         "wmslayer": "hovednaturtype_hb13_kyst_havstrand",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:32"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "218": {
         "faktaark": "{hovednaturtype_hb13_kulturlandskap.Faktaark}",
@@ -1519,7 +1519,7 @@ var data = {
         "tittel": "Hovednaturtype - kulturlandskap",
         "wmslayer": "hovednaturtype_hb13_kulturlandskap",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "219": {
         "faktaark": "{hovednaturtype_hb13_fjell.Faktaark}",
@@ -1541,7 +1541,7 @@ var data = {
         "tittel": "Hovednaturtype - fjell",
         "wmslayer": "hovednaturtype_hb13_fjell",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "220": {
         "faktaark": "{hovednaturtype_hb13_ferskvann_vatmark.Faktaark}",
@@ -1563,7 +1563,7 @@ var data = {
         "tittel": "Hovednaturtype - ferskvann og våtmark",
         "wmslayer": "hovednaturtype_hb13_ferskvann_vatmark",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "221": {
         "faktaark": "{hovednaturtype_hb13_andre_viktige.Faktaark}",
@@ -1585,14 +1585,14 @@ var data = {
         "tittel": "Hovednaturtype - andre viktige",
         "wmslayer": "hovednaturtype_hb13_andre_viktige",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_hb13/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:11",
     "feilkode": "mangler wmsurl"
   },
   "28": {
@@ -1632,14 +1632,14 @@ var data = {
         "tittel": "Naturvernområder",
         "wmslayer": "naturvern_klasser_omrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:11",
     "feilkode": "mangler wmsurl"
   },
   "29": {
@@ -1666,7 +1666,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Mulig_marin_leire&format=image/png&STYLE=default",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Mulig_marin_leire&format=image/png&STYLE=default",
         "maxscaledenominator": 150038,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1680,7 +1680,7 @@ var data = {
         "tittel": "Mulig marin leire",
         "wmslayer": "Mulig_marin_leire",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "422": {
         "faktaark": "",
@@ -1688,7 +1688,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Ikke_angitt&format=image/png&STYLE=default",
+        "legendeurl": "https//geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Ikke_angitt&format=image/png&STYLE=default",
         "maxscaledenominator": 150000,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1700,9 +1700,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "Ikke angitt",
-        "wmslayer": "Ikke_angitt",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "Ikke_angitt"
       },
       "423": {
         "faktaark": "",
@@ -1710,7 +1708,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Stort_sett_fravaerende&format=image/png&STYLE=default",
+        "legendeurl": "https//geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Stort_sett_fravaerende&format=image/png&STYLE=default",
         "maxscaledenominator": 150000,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1722,9 +1720,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "Stort sett fraværende",
-        "wmslayer": "Stort_sett_fravaerende",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "Stort_sett_fravaerende"
       },
       "424": {
         "faktaark": "",
@@ -1732,7 +1728,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Lokale_tynne_forekomster&format=image/png&STYLE=default",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Lokale_tynne_forekomster&format=image/png&STYLE=default",
         "maxscaledenominator": 1500000,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1746,7 +1742,7 @@ var data = {
         "tittel": "Lokale tynne forekomster",
         "wmslayer": "Lokale_tynne_forekomster",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:29"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "425": {
         "faktaark": "",
@@ -1754,7 +1750,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Sammenhengende_forekomster&format=image/png&STYLE=default",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS3?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Sammenhengende_forekomster&format=image/png&STYLE=default",
         "maxscaledenominator": 150000,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -1768,14 +1764,14 @@ var data = {
         "tittel": "Sammenhengende forekomster",
         "wmslayer": "Sammenhengende_forekomster",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
-    "wmsurl": "http://geo.ngu.no/mapserver/MarinGrenseWMS4?",
+    "wmsurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS4?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:29",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "30": {
@@ -1814,7 +1810,7 @@ var data = {
         "tittel": "Arter av stor forvaltningsinteresse - områder",
         "wmslayer": "Nar_trua_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "31": {
         "faktaark": "https://artnasjonal-faktaark.miljodirektoratet.no/?id={Alle_arter_av_stor_forv_int_NT_pkt.Id}",
@@ -1836,7 +1832,7 @@ var data = {
         "tittel": "Arter av stor forvaltningsinteresse - punkt",
         "wmslayer": "Nar_trua_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "32": {
         "faktaark": "{Alle_arter_av_sarlig_stor_forv_int_omr.Faktaark}",
@@ -1858,7 +1854,7 @@ var data = {
         "tittel": "Arter av særlig stor forvaltningsinteresse - områder",
         "wmslayer": "Alle_arter_av_sarlig_stor_forv_int_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "33": {
         "faktaark": "https://artnasjonal-faktaark.miljodirektoratet.no/?id={Alle_arter_av_sarlig_stor_forv_int_pkt.Id}",
@@ -1880,7 +1876,7 @@ var data = {
         "tittel": "Arter av særlig stor forvaltningsinteresse - punkt",
         "wmslayer": "Alle_arter_av_sarlig_stor_forv_int_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "34": {
         "faktaark": "https://artnasjonal-faktaark.miljodirektoratet.no/?id={Alle_fremmede_arter_omr.Id}",
@@ -1902,7 +1898,7 @@ var data = {
         "tittel": "Fremmede arter - områder",
         "wmslayer": "Fremmede_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "35": {
         "faktaark": "{Fremmede_arter_pkt.Faktaark}",
@@ -1924,7 +1920,7 @@ var data = {
         "tittel": "Fremmede arter - punkt",
         "wmslayer": "fremmede_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "826": {
         "faktaark": "{Spesielle_okologiske_former_omr.Faktaark}",
@@ -1946,7 +1942,7 @@ var data = {
         "tittel": "Spesielle økologiske former - områder",
         "wmslayer": "Spesielle_okologiske_former_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "828": {
         "faktaark": "{Spesielle_okologiske_former_pkt.Faktaark}",
@@ -1968,7 +1964,7 @@ var data = {
         "tittel": "Spesielle økologiske former - punkt",
         "wmslayer": "Spesielle_okologiske_former_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "829": {
         "faktaark": "{Andre_spes_hensynskr_arter_omr.Faktaark}",
@@ -1990,7 +1986,7 @@ var data = {
         "tittel": "Andre spesielt hensynskrevende arter - områder",
         "wmslayer": "Andre_spes_hensynskr_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "831": {
         "faktaark": "{Andre_spes_hensynskr_arter_pkt.Faktaark}",
@@ -2012,7 +2008,7 @@ var data = {
         "tittel": "Andre spesielt hensynskrevende arter - punkt",
         "wmslayer": "Andre_spes_hensynskr_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "832": {
         "faktaark": "{Trua_arter_omr.Faktaark}",
@@ -2034,7 +2030,7 @@ var data = {
         "tittel": "Trua arter - områder",
         "wmslayer": "Trua_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "834": {
         "faktaark": "{Trua_arter_pkt.Faktaark}",
@@ -2056,7 +2052,7 @@ var data = {
         "tittel": "Trua arter - punkt",
         "wmslayer": "Trua_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "835": {
         "faktaark": "{Ansvarsarter_omr.Faktaark}",
@@ -2078,7 +2074,7 @@ var data = {
         "tittel": "Ansvarsarter - områder",
         "wmslayer": "Ansvarsarter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "837": {
         "faktaark": "{Ansvarsarter_pkt.Faktaark}",
@@ -2100,14 +2096,14 @@ var data = {
         "tittel": "Ansvarsarter - punkt",
         "wmslayer": "Ansvarsarter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal2/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:31",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "31": {
@@ -2144,7 +2140,7 @@ var data = {
         "tittel": "Rødlista arter - alle kategorier",
         "wmslayer": "Artskart",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "38": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{RE_punkt_layer.RE_punkt_feature.ProxyId}",
@@ -2166,7 +2162,7 @@ var data = {
         "tittel": "RE - Regionalt utdødd",
         "wmslayer": "RE",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "39": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{CR_punkt_layer.CR_punkt_feature.ProxyId}",
@@ -2188,7 +2184,7 @@ var data = {
         "tittel": "CR - Kritisk truet",
         "wmslayer": "CR",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "40": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{EN_punkt_layer.EN_punkt_feature.ProxyId}",
@@ -2210,7 +2206,7 @@ var data = {
         "tittel": "EN - Sterkt truet",
         "wmslayer": "EN",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "41": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{VU_punkt_layer.VU_punkt_feature.ProxyId}",
@@ -2232,7 +2228,7 @@ var data = {
         "tittel": "VU - Sårbar",
         "wmslayer": "VU",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "42": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{NT_punkt_layer.NT_punkt_feature.ProxyId}",
@@ -2254,7 +2250,7 @@ var data = {
         "tittel": "NT - Nær truet",
         "wmslayer": "NT",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "43": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{DD_punkt_layer.DD_punkt_feature.ProxyId}",
@@ -2276,17 +2272,18 @@ var data = {
         "tittel": "DD - Datamangel",
         "wmslayer": "DD",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskart.aspx?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:10",
     "feilkode": "mangler wmsurl"
   },
   "32": {
+    "aggregatedwmslayer": "WMS",
     "dataeier": "Fiskeridirektoratet",
     "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/c3d6bba0-e4b0-44e6-93a4-5b379946acb7",
     "id": 32,
@@ -2306,8 +2303,8 @@ var data = {
       "72": {
         "faktaark": "",
         "id": 72,
-        "klikktekst": "{Stedsnavn}",
-        "klikktekst2": "{Fiskeart1} {Fiskeart2} {Fiskeart3} {Fiskeart4} {Fiskeart5}",
+        "klikktekst": "{gyteomraader.stedsnavn}",
+        "klikktekst2": "{gyteomraader.alle arter i område}{gyteomraader.merknad}",
         "klikkurl": "",
         "legendeurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=gyteomraader",
         "maxscaledenominator": null,
@@ -2323,14 +2320,102 @@ var data = {
         "tittel": "Gyteområder",
         "wmslayer": "gyteomraader",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:43"
+        "timeStamp": "2024-10-18 13:29:13"
+      },
+      "443": {
+        "faktaark": "",
+        "id": 443,
+        "klikktekst": "{oppvekst_beiteomraade.Stedsnavn}",
+        "klikktekst2": "{oppvekst_beiteomraade.alle arter} {oppvekst_beiteomraade.merknad}",
+        "klikkurl": "",
+        "legendeurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=oppvekst_beiteomraade",
+        "maxscaledenominator": 50000000,
+        "maxzoom": 20,
+        "minscaledenominator": 1,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "8.860855226360101,63.7185759371416",
+        "tittel": "Oppvekst og beiteområde",
+        "wmslayer": "oppvekst_beiteomraade",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1044": {
+        "faktaark": "",
+        "id": 1044,
+        "klikktekst": "{skjellforekomst.Stedsnavn}",
+        "klikktekst2": "{skjellforekomst.Skjellart} {skjellforekomst.Merknad}",
+        "klikkurl": "",
+        "legendeurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=skjellforekomst",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Skjellforekomst",
+        "wmslayer": "skjellforekomst",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1045": {
+        "faktaark": "",
+        "id": 1045,
+        "klikktekst": "{gytefelt_torsk_mb.stedsnavn}",
+        "klikktekst2": "{gytefelt_torsk_mb.info} {gytefelt_torsk_mb.områdebeskrivelse}",
+        "klikkurl": "",
+        "legendeurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=gytefelt_torsk_mb",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Gytefelt kysttorsk",
+        "wmslayer": "gytefelt_torsk_mb",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1046": {
+        "faktaark": "",
+        "id": 1046,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=gytefelt_torsk_mb_dekningskart",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Gytefelt kysttorsk dekning",
+        "wmslayer": "gytefelt_torsk_mb_dekningskart",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
       }
     },
-    "wmsinfoformat": "application/vnd.ogc.wms_xml",
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://gis.fiskeridir.no/server/services/fiskeridirWMS/MapServer/WMSServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:14",
     "feilkode": "mangler wmsurl"
   },
   "34": {
@@ -2368,7 +2453,7 @@ var data = {
         "tittel": "Hovedelv",
         "wmslayer": "hovedelv",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "81": {
         "faktaark": "",
@@ -2390,14 +2475,14 @@ var data = {
         "tittel": "Elvenett",
         "wmslayer": "elvenett",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Elvenett1/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "35": {
@@ -2435,7 +2520,7 @@ var data = {
         "tittel": "Innsjødatabase",
         "wmslayer": "Innsjodatabase",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "110": {
         "faktaark": "",
@@ -2457,7 +2542,7 @@ var data = {
         "tittel": "Dybdekart",
         "wmslayer": "Dybdekart",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "111": {
         "faktaark": "",
@@ -2479,7 +2564,7 @@ var data = {
         "tittel": "Innsjo ved dybdemaling",
         "wmslayer": "Innsjo_ved_dybdemaling",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:33"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "112": {
         "faktaark": "",
@@ -2501,7 +2586,7 @@ var data = {
         "tittel": "DybdeKurve",
         "wmslayer": "DybdeKurve",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "113": {
         "faktaark": "",
@@ -2523,14 +2608,14 @@ var data = {
         "tittel": "Dybde punkt",
         "wmslayer": "DybdePunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Innsjodatabase2/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "36": {
@@ -2568,7 +2653,7 @@ var data = {
         "tittel": "Alle kategorier",
         "wmslayer": "Artskart",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "84": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{SE_punkt_layer.SE_punkt_feature.ProxyId}",
@@ -2590,7 +2675,7 @@ var data = {
         "tittel": "SE - Svært høy risiko",
         "wmslayer": "SE",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "85": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{HI_punkt_layer.HI_punkt_feature.ProxyId}",
@@ -2612,7 +2697,7 @@ var data = {
         "tittel": "HI - Høy risiko",
         "wmslayer": "HI",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "86": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{PH_punkt_layer.PH_punkt_feature.ProxyId}",
@@ -2634,7 +2719,7 @@ var data = {
         "tittel": "PH - Potensielt høy risiko",
         "wmslayer": "PH",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "87": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{LO_punkt_layer.LO_punkt_feature.ProxyId}",
@@ -2656,7 +2741,7 @@ var data = {
         "tittel": "LO - Lav Risiko",
         "wmslayer": "LO",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       },
       "88": {
         "faktaark": "https://artskart.artsdatabanken.no/app/#featureInfo/{NK_punkt_layer.NK_punkt_feature.ProxyId}",
@@ -2678,14 +2763,14 @@ var data = {
         "tittel": "NK - Ingen kjent risiko",
         "wmslayer": "NK",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:10"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.artsdatabanken.no/WMS/artskartfa.aspx?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:10",
     "feilkode": "mangler wmsurl"
   },
   "37": {
@@ -2724,7 +2809,7 @@ var data = {
         "tittel": "havbunnraster med grå dybde og 50% skygge",
         "wmslayer": "graa_havbunnraster_dybde_skygge",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "571": {
         "faktaark": "",
@@ -2746,14 +2831,14 @@ var data = {
         "tittel": "havbunnraster farget dybdedata med 50% skygge",
         "wmslayer": "farget_havbunnraster_dybde_skygge",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.geonorge.no/skwms1/wms.havbunnraster3?service=WMS&request=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:11",
     "feilkode": "mangler wmsurl"
   },
   "38": {
@@ -2791,7 +2876,7 @@ var data = {
         "tittel": "Dekninsgskart Berggrunnskart 1:50 000",
         "wmslayer": "Bergart_N50_dekningoversikt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "93": {
         "faktaark": "",
@@ -2813,7 +2898,7 @@ var data = {
         "tittel": "Bergartsflate 1:50 000",
         "wmslayer": "Bergart_flate_N50",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "588": {
         "faktaark": "",
@@ -2835,7 +2920,7 @@ var data = {
         "tittel": "Bergartsflate hovedbergart 1:50 000",
         "wmslayer": "Bergart_flate_hovedbergart_N50",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "904": {
         "faktaark": "",
@@ -2857,7 +2942,7 @@ var data = {
         "tittel": "Linjestrukturpunkt",
         "wmslayer": "Linjestrukturpunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "905": {
         "faktaark": "",
@@ -2879,14 +2964,14 @@ var data = {
         "tittel": "Planstrukturpunkt",
         "wmslayer": "Planstrukturpunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnN50WMS2?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "39": {
@@ -2926,7 +3011,7 @@ var data = {
         "tittel": "Nedbørfelt til hav",
         "wmslayer": "Nedborfelt_til_hav",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "95": {
         "faktaark": "",
@@ -2948,7 +3033,7 @@ var data = {
         "tittel": "Sidenedbørfelt",
         "wmslayer": "Sidenedborfelt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "96": {
         "faktaark": "",
@@ -2970,7 +3055,7 @@ var data = {
         "tittel": "REGINE enhet",
         "wmslayer": "REGINE_enhet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "97": {
         "faktaark": "",
@@ -2992,14 +3077,14 @@ var data = {
         "tittel": "Vassdragsområde",
         "wmslayer": "Vassdragsomrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Nedborfelt1/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:13",
     "feilkode": "mangler wmsurl"
   },
   "40": {
@@ -3039,7 +3124,7 @@ var data = {
         "tittel": "Dam",
         "wmslayer": "Dam",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "99": {
         "faktaark": "",
@@ -3061,7 +3146,7 @@ var data = {
         "tittel": "Dam_N250",
         "wmslayer": "Dam_N250",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "100": {
         "faktaark": "",
@@ -3083,7 +3168,7 @@ var data = {
         "tittel": "Magasin",
         "wmslayer": "Magasin",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "101": {
         "faktaark": "",
@@ -3105,7 +3190,7 @@ var data = {
         "tittel": "Vannvei",
         "wmslayer": "Vannvei",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "102": {
         "faktaark": "",
@@ -3127,7 +3212,7 @@ var data = {
         "tittel": "Utløpspunkt",
         "wmslayer": "Utlopspunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "103": {
         "faktaark": "",
@@ -3149,7 +3234,7 @@ var data = {
         "tittel": "Inntakspunkt",
         "wmslayer": "Inntakspunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "104": {
         "faktaark": "",
@@ -3171,14 +3256,14 @@ var data = {
         "tittel": "Vannkraftverk",
         "wmslayer": "Vannkraftverk",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Vannkraft1/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:13",
     "feilkode": "mangler wmsurl"
   },
   "42": {
@@ -3218,14 +3303,14 @@ var data = {
         "tittel": "Foreslatt naturvernområde",
         "wmslayer": "foreslatt_naturvern_omrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "43": {
@@ -3266,14 +3351,14 @@ var data = {
         "tittel": "Kulturlandskap -  utvalgte",
         "wmslayer": "kulturlandskap_utvalgte",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_utvalgte/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "44": {
@@ -3311,14 +3396,14 @@ var data = {
         "tittel": "Ramsarområder",
         "wmslayer": "ramsaromrader",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/ramsar/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "45": {
@@ -3360,14 +3445,14 @@ var data = {
         "tittel": "Nøkkelbiotop",
         "wmslayer": "Nokkelbiotop",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/mis?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:7",
     "feilkode": "mangler wmsurl"
   },
   "46": {
@@ -3406,7 +3491,7 @@ var data = {
         "tittel": "Bunnsedimenter (kornstørrelse) detaljert",
         "wmslayer": "Kornstorrelse_Det",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "126": {
         "faktaark": "",
@@ -3428,7 +3513,7 @@ var data = {
         "tittel": "Bunnsedimenter (kornstørrelse) regional",
         "wmslayer": "Kornstorrelse_Reg",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "127": {
         "faktaark": "",
@@ -3450,7 +3535,7 @@ var data = {
         "tittel": "Bunnsedimenter (dannelse) regional",
         "wmslayer": "Sedimentdannelse_Reg",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "128": {
         "faktaark": "",
@@ -3472,7 +3557,7 @@ var data = {
         "tittel": "Sedimentasjonsmiljø detaljert",
         "wmslayer": "Sedimentasjonsmiljo_Det",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "129": {
         "faktaark": "",
@@ -3494,14 +3579,80 @@ var data = {
         "tittel": "Sedimentasjonsmiljø regionalt",
         "wmslayer": "Sedimentasjonsmiljo_Reg",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "625": {
+        "faktaark": "",
+        "id": 625,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=MarinBunnsedimenterWMS&format=image/png&sld_version=1.1.0",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 9,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Sedimentkornstorrelse",
+        "wmslayer": "Sedimentkornstorrelse",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "633": {
+        "faktaark": "",
+        "id": 633,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Sedimentkornstorrelse&format=image/png&sld_version=1.1.0",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 9,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Sedimentkornstørrelse",
+        "wmslayer": "Sedimentkornstorrelse",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:8"
+      },
+      "636": {
+        "faktaark": "",
+        "id": 636,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Sedimentdannelse&format=image/png&sld_version=1.1.0",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 9,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Sedimentdannelse",
+        "wmslayer": "Sedimentdannelse",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinBunnsedimenterWMS?REQUEST=GetCapabilities&SERVICE=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "48": {
@@ -3542,7 +3693,7 @@ var data = {
         "tittel": "Marine naturtyper - alle",
         "wmslayer": "naturtyper_marine_hb19_alle",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "132": {
         "faktaark": "{naturtype_marin_hb19_skjellsand.Faktaark}",
@@ -3564,7 +3715,7 @@ var data = {
         "tittel": "Marine naturtyper - skjellsand",
         "wmslayer": "naturtype_marin_hb19_skjellsand",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "133": {
         "faktaark": "{naturtype_marin_hb19_alegras.Faktaark}",
@@ -3586,7 +3737,7 @@ var data = {
         "tittel": "Marine naturtyper - ålegras",
         "wmslayer": "naturtype_marin_hb19_alegras",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "134": {
         "faktaark": "{naturtype_marin_hb19_blotbunn.Faktaark}",
@@ -3608,7 +3759,7 @@ var data = {
         "tittel": "Marine naturtyper - bløtbunn",
         "wmslayer": "naturtype_marin_hb19_blotbunn",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "135": {
         "faktaark": "{naturtype_marin_hb19_litoral.Faktaark}",
@@ -3630,7 +3781,7 @@ var data = {
         "tittel": "Marine naturtyper - litoral",
         "wmslayer": "naturtype_marin_hb19_litoral",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "136": {
         "faktaark": "{naturtype_marin_hb19_poller_og_dyp.Faktaark}",
@@ -3652,7 +3803,7 @@ var data = {
         "tittel": "Marine naturtyper - poller og dyp",
         "wmslayer": "naturtype_marin_hb19_poller_og_dyp",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "137": {
         "faktaark": "{naturtype_marin_hb19_oksygen.Faktaark}",
@@ -3674,7 +3825,7 @@ var data = {
         "tittel": "Marine naturtyper - oksygen",
         "wmslayer": "naturtype_marin_hb19_oksygen",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "138": {
         "faktaark": "{naturtype_marin_hb19_tidevann.Faktaark}",
@@ -3696,7 +3847,7 @@ var data = {
         "tittel": "Marine naturtyper - tidevann",
         "wmslayer": "naturtype_marin_hb19_tidevann",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "139": {
         "faktaark": "{naturtype_marin_hb19_tare.Faktaark}",
@@ -3718,7 +3869,7 @@ var data = {
         "tittel": "Marine naturtyper - tare",
         "wmslayer": "naturtype_marin_hb19_tare",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "1002": {
         "faktaark": "{naturtype_marin_hb19_korall.Faktaark}",
@@ -3737,17 +3888,17 @@ var data = {
         "queryable": true,
         "suggested": false,
         "testkoordinater": "",
-        "tittel": "Marin naturtype - korall",
+        "tittel": "Marine naturtyper - korall",
         "wmslayer": "naturtype_marin_hb19_korall",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_marine_hb19/MapServer/WMSServer?service=wms&request=getcapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:14",
     "feilkode": "mangler wmsurl"
   },
   "49": {
@@ -3786,14 +3937,14 @@ var data = {
         "tittel": "Geologiskarv",
         "wmslayer": "GeologiskarvWMS",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/GeologiskarvWMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "50": {
@@ -3817,14 +3968,14 @@ var data = {
       "141": {
         "faktaark": "",
         "id": 141,
-        "klikktekst": "{gml:featureMember.vulnerable_areas:coralreefs.vulnerable_areas:OBJTYPE}",
-        "klikktekst2": "{gml:featureMember.vulnerable_areas:coralreefs.vulnerable_areas:OBS_STED}",
+        "klikktekst": "{korallrev_observert_rev.OBJTYPE} {korallrev_observert_rev.OBS_STED}",
+        "klikktekst2": "{korallrev_observert_rev.BM_KILDENA} {korallrev_observert_rev.OBS_SLUTT} {korallrev_observert_rev.OPPHAV} {korallrev_observert_rev.NOYAKTIGHE}",
         "klikkurl": "",
-        "legendeurl": "https://maps.imr.no/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=vulnerable_areas:coralreefs",
-        "maxscaledenominator": 2183915,
+        "legendeurl": "https://kart.hi.no/mareano/mareano_biologi/korallrev_observert_rev/ows?service=WMS&version=1.3.0&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=korallrev_observert_rev",
+        "maxscaledenominator": null,
         "maxzoom": 20,
         "minscaledenominator": null,
-        "minzoom": 9,
+        "minzoom": 8,
         "position": null,
         "publiserprod": true,
         "publisertest": true,
@@ -3832,16 +3983,16 @@ var data = {
         "suggested": true,
         "testkoordinater": "6.899827179014878,62.952781189881385",
         "tittel": "Korallrev - Lophelia pertusa",
-        "wmslayer": "vulnerable_areas:coralreefs",
+        "wmslayer": "korallrev_observert_rev",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
-    "wmsinfoformat": "application/vnd.ogc.gml",
-    "wmsurl": "https://maps.imr.no/geoserver/ows?request=GetCapabilities&service=WMS",
+    "wmsinfoformat": "application/vnd.ogc.wms_xml",
+    "wmsurl": "https://kart.hi.no/mareano/mareano_biologi/korallrev_observert_rev/ows?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:31",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "51": {
@@ -3877,9 +4028,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "Bløtbunnskorallskog",
-        "wmslayer": "VME_Softbottom_coral_garden",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Softbottom_coral_garden"
       },
       "143": {
         "faktaark": "",
@@ -3899,9 +4048,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "Sjøfjærbunn",
-        "wmslayer": "VME_Seapen_fields",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Seapen_fields"
       },
       "144": {
         "faktaark": "",
@@ -3921,9 +4068,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "5.909113064321448,62.445250315253986",
         "tittel": "Blomkålkorallskog",
-        "wmslayer": "VME_Nephtheidae_medow",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Nephtheidae_medow"
       },
       "145": {
         "faktaark": "",
@@ -3943,9 +4088,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "5.906675465316202,62.44731197089746",
         "tittel": "Svampskog",
-        "wmslayer": "VME_Hardbottom_sponge_garden",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Hardbottom_sponge_garden"
       },
       "146": {
         "faktaark": "",
@@ -3965,9 +4108,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "VME_Cold_water_sponge",
-        "wmslayer": "VME_Cold_water_sponge",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Cold_water_sponge"
       },
       "147": {
         "faktaark": "",
@@ -3987,9 +4128,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "",
         "tittel": "Umbellula-bestander",
-        "wmslayer": "VME_Umbellula_fields",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Umbellula_fields"
       },
       "148": {
         "faktaark": "",
@@ -4009,9 +4148,7 @@ var data = {
         "suggested": false,
         "testkoordinater": "5.907726349610228,62.44801785060648",
         "tittel": "Svampspikelbunn",
-        "wmslayer": "VME_Softbottom_sponge_garden",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Softbottom_sponge_garden"
       },
       "149": {
         "faktaark": "",
@@ -4031,16 +4168,14 @@ var data = {
         "suggested": false,
         "testkoordinater": "5.884359097892081,62.446816441975976",
         "tittel": "Hardbunnskorallskog",
-        "wmslayer": "VME_Hardbottom_coral_garden",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "wmslayer": "VME_Hardbottom_coral_garden"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://maps.imr.no/geoserver/ows?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
-    "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:31",
+    "status": "DOWN",
+    "timeStamp": "2024-10-18 13:29:6",
     "feilkode": "mangler wmsurl"
   },
   "52": {
@@ -4079,7 +4214,7 @@ var data = {
         "tittel": "Breflate",
         "wmslayer": "Breflate",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "205": {
         "faktaark": "",
@@ -4101,7 +4236,7 @@ var data = {
         "tittel": "Breflate 1947 - 1985",
         "wmslayer": "Breflate_1947_1985",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "206": {
         "faktaark": "",
@@ -4123,7 +4258,7 @@ var data = {
         "tittel": "Breflate 1988 - 1997",
         "wmslayer": "Breflate_1988_1997",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:33"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "207": {
         "faktaark": "",
@@ -4145,7 +4280,7 @@ var data = {
         "tittel": "Breflate 1999 - 2006",
         "wmslayer": "Breflate_1999_2006",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:33"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "208": {
         "faktaark": "",
@@ -4167,7 +4302,7 @@ var data = {
         "tittel": "Bresjo 1988 - 1997",
         "wmslayer": "Bresjo_1988_1997",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:33"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "209": {
         "faktaark": "",
@@ -4189,7 +4324,7 @@ var data = {
         "tittel": "Bresjo 1999 - 2006",
         "wmslayer": "Bresjo_1999_2006",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "210": {
         "faktaark": "",
@@ -4211,7 +4346,7 @@ var data = {
         "tittel": "Bresjo 2014",
         "wmslayer": "Bresjo_2014",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "213": {
         "faktaark": "",
@@ -4233,7 +4368,7 @@ var data = {
         "tittel": "Isras",
         "wmslayer": "Isras",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "661": {
         "faktaark": "",
@@ -4255,14 +4390,14 @@ var data = {
         "tittel": "Jokulhlaup",
         "wmslayer": "Jokulhlaup",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Bre1/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:13",
     "feilkode": "mangler wmsurl"
   },
   "53": {
@@ -4286,7 +4421,7 @@ var data = {
         "klikktekst": "{Oekologisk_tilstand_eller_potensial_elv.Vannforekomstnavn}",
         "klikktekst2": "{Oekologisk_tilstand_eller_potensial_elv.Økologisk_tilstand_potensial} {Oekologisk_tilstand_eller_potensial_elv.Risikovurdering}",
         "klikkurl": "",
-        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Oekologisk_tilstand_eller_potensial_elv&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://arcgis001.miljodirektoratet.no:443/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Oekologisk_tilstand_eller_potensial_elv",
         "maxscaledenominator": 472470,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -4300,7 +4435,7 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - elv",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_elv",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "151": {
         "faktaark": "",
@@ -4308,7 +4443,7 @@ var data = {
         "klikktekst": "{Oekologisk_tilstand_eller_potensial_innsjoe.Vannforekomstnavn}",
         "klikktekst2": "{Oekologisk_tilstand_eller_potensial_innsjoe.Økologisk_tilstand_potensial} {Oekologisk_tilstand_eller_potensial_innsjoe.Risikovurdering}",
         "klikkurl": "",
-        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Oekologisk_tilstand_eller_potensial_innsjoe&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://arcgis001.miljodirektoratet.no:443/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Oekologisk_tilstand_eller_potensial_innsjoe",
         "maxscaledenominator": 2834821,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -4322,7 +4457,7 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - innsjø",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_innsjoe",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "152": {
         "faktaark": "",
@@ -4330,7 +4465,7 @@ var data = {
         "klikktekst": "{Oekologisk_tilstand_eller_potensial_kystvann.Vannforekomstnavn}",
         "klikktekst2": "{Oekologisk_tilstand_eller_potensial_kystvann.Økologisk_tilstand_potensial} {Oekologisk_tilstand_eller_potensial_kystvann.Risikovurdering}",
         "klikkurl": "",
-        "legendeurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=Oekologisk_tilstand_eller_potensial_kystvann&format=image/png&sld_version=1.1.0",
+        "legendeurl": "https://arcgis001.miljodirektoratet.no:443/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Oekologisk_tilstand_eller_potensial_kystvann",
         "maxscaledenominator": null,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -4344,14 +4479,14 @@ var data = {
         "tittel": "Økologisk tilstand eller potensial - kystvann",
         "wmslayer": "Oekologisk_tilstand_eller_potensial_kystvann",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
-    "wmsurl": "https://vann-nett.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?",
+    "wmsurl": "https://arcgis001.miljodirektoratet.no/arcgis/services/WMS/Vannforskriften_TilstandPotensialRisiko_OGC/MapServer/WMSServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:14",
     "feilkode": "mangler wmsurl"
   },
   "54": {
@@ -4372,7 +4507,7 @@ var data = {
     "type": "Arter",
     "underlag": {
       "153": {
-        "faktaark": "{villrein_leveomrade_grense.faktaark_villreinomraade}",
+        "faktaark": "{villrein_leveomrade_grense.Faktaark}",
         "id": 153,
         "klikktekst": "{villrein_leveomrade_grense.Områdenavn}",
         "klikktekst2": "{villrein_leveomrade_grense.Funksjon} {villrein_leveomrade_grense.Funksjonsperiode}",
@@ -4388,13 +4523,13 @@ var data = {
         "queryable": true,
         "suggested": true,
         "testkoordinater": "10.184326171875002,62.57247321731388",
-        "tittel": "Villrein leveområde",
+        "tittel": "Villrein Leveområde",
         "wmslayer": "villrein_leveomrade_grense",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "154": {
-        "faktaark": "{villrein_kalvingsomrade.faktaark_villreinomraade}",
+        "faktaark": "{villrein_kalvingsomrade.Faktaark}",
         "id": 154,
         "klikktekst": "{villrein_kalvingsomrade.Områdenavn}",
         "klikktekst2": "{villrein_kalvingsomrade.Funksjon} {villrein_kalvingsomrade.Funksjonsperiode}",
@@ -4410,13 +4545,13 @@ var data = {
         "queryable": true,
         "suggested": true,
         "testkoordinater": "10.546875000000002,62.684228187998514",
-        "tittel": "Villrein kalvingsområde",
+        "tittel": "Villrein Kalvingsområde",
         "wmslayer": "villrein_kalvingsomrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "155": {
-        "faktaark": "{villrein_trekkomrade.faktaark_villreinomraade}",
+        "faktaark": "{villrein_trekkomrade.Faktaark}",
         "id": 155,
         "klikktekst": "{villrein_trekkomrade.Områdenavn}",
         "klikktekst2": "{villrein_trekkomrade.Funksjon} {villrein_trekkomrade.Funksjonsperiode}",
@@ -4435,13 +4570,13 @@ var data = {
         "tittel": "Villrein Trekkomrade",
         "wmslayer": "villrein_trekkomrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "157": {
-        "faktaark": "{villrein_helarsbeite.faktaark_villreinomraade}",
+        "faktaark": "{villrein_helarsbeite.Faktaark}",
         "id": 157,
-        "klikktekst": "{villrein_helarsbeite.Funksjon}",
-        "klikktekst2": "{villrein_helarsbeite.Funksjonsperiode}",
+        "klikktekst": "{villrein_helarsbeite.Områdenavn}",
+        "klikktekst2": "{villrein_helarsbeite.Funksjon} {villrein_helarsbeite.Funksjonsperiode}",
         "klikkurl": "",
         "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=villrein_helarsbeite&format=image/png&sld_version=1.1.0",
         "maxscaledenominator": null,
@@ -4454,57 +4589,13 @@ var data = {
         "queryable": true,
         "suggested": true,
         "testkoordinater": "9.975585937500002,62.380184590390996",
-        "tittel": "Villrein helårsbeite",
+        "tittel": "Villrein Helårsbeite",
         "wmslayer": "villrein_helarsbeite",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
-      },
-      "158": {
-        "faktaark": "{villrein_hostbeite.faktaark_villreinomraade}",
-        "id": 158,
-        "klikktekst": "{villrein_hostbeite.Områdenavn}",
-        "klikktekst2": "{villrein_hostbeite.Funksjon} {villrein_hostbeite.Funksjonsperiode}",
-        "klikkurl": "",
-        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=villrein_hostbeite&format=image/png&sld_version=1.1.0",
-        "maxscaledenominator": null,
-        "maxzoom": 20,
-        "minscaledenominator": null,
-        "minzoom": 8,
-        "position": null,
-        "publiserprod": true,
-        "publisertest": true,
-        "queryable": true,
-        "suggested": true,
-        "testkoordinater": "9.183673937479632,59.95524629982742",
-        "tittel": "Villrein høstbeite",
-        "wmslayer": "villrein_hostbeite",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
-      },
-      "159": {
-        "faktaark": "{villrein_sommerbeite.faktaark_villreinomraade}",
-        "id": 159,
-        "klikktekst": "{villrein_sommerbeite.Områdenavn}",
-        "klikktekst2": "{villrein_sommerbeite.Funksjon} {villrein_sommerbeite.Funksjonsperiode}",
-        "klikkurl": "",
-        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=villrein_sommerbeite&format=image/png&sld_version=1.1.0",
-        "maxscaledenominator": null,
-        "maxzoom": 20,
-        "minscaledenominator": null,
-        "minzoom": 8,
-        "position": null,
-        "publiserprod": true,
-        "publisertest": true,
-        "queryable": true,
-        "suggested": true,
-        "testkoordinater": "10.612792968750002,61.944118091023746",
-        "tittel": "Villrein sommerbeite",
-        "wmslayer": "villrein_sommerbeite",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "160": {
-        "faktaark": "{villrein_vinterbeite.faktaark_villreinomraade}",
+        "faktaark": "{villrein_vinterbeite.Faktaark}",
         "id": 160,
         "klikktekst": "{villrein_vinterbeite.Områdenavn}",
         "klikktekst2": "{villrein_vinterbeite.Funksjonsperiode} {villrein_vinterbeite.Funksjon}",
@@ -4520,13 +4611,13 @@ var data = {
         "queryable": true,
         "suggested": true,
         "testkoordinater": "10.184326171875002,62.02152819100765",
-        "tittel": "Villrein vinterbeite",
+        "tittel": "Villrein Vinterbeite",
         "wmslayer": "villrein_vinterbeite",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "161": {
-        "faktaark": "{villrein_barmarksbeite.faktaark_villreinomraade}",
+        "faktaark": "{villrein_barmarksbeite.Faktaark}",
         "id": 161,
         "klikktekst": "{villrein_barmarksbeite.Områdenavn}",
         "klikktekst2": "{villrein_barmarksbeite.Funksjon} {villrein_barmarksbeite.Funksjonsperiode}",
@@ -4542,17 +4633,39 @@ var data = {
         "queryable": true,
         "suggested": true,
         "testkoordinater": "7.745361328125001,62.28836509824845",
-        "tittel": "Villrein barmarksbeite",
+        "tittel": "Villrein Barmarksbeite",
         "wmslayer": "villrein_barmarksbeite",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
+      },
+      "1014": {
+        "faktaark": "{villrein_sommer_host_beite.Faktaark}",
+        "id": 1014,
+        "klikktekst": "{villrein_sommer_host_beite.Områdenavn}",
+        "klikktekst2": "{villrein_sommer_host_beite.Funksjon} {villrein_sommer_host_beite.Funksjonsperiode}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=villrein_sommer_host_beite&format=image/png&sld_version=1.1.0",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.612792968750002,61.944118091023746",
+        "tittel": "Villrein sommer-/høstbeite",
+        "wmslayer": "villrein_sommer_host_beite",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/villrein/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:15",
     "feilkode": "mangler wmsurl"
   },
   "55": {
@@ -4591,14 +4704,14 @@ var data = {
         "tittel": "Kulturlandskap - verdifulle",
         "wmslayer": "kulturlandskap_verdifulle",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kulturlandskap_verdifulle/mapserver/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:15",
     "feilkode": "mangler wmsurl"
   },
   "56": {
@@ -4633,13 +4746,13 @@ var data = {
         "position": null,
         "publiserprod": true,
         "publisertest": true,
-        "queryable": false,
+        "queryable": true,
         "suggested": true,
         "testkoordinater": "10.58807526685369,63.07731495169123",
         "tittel": "Areal over marin grense",
         "wmslayer": "Marin_grense_flater_areal_over",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "999": {
         "faktaark": "",
@@ -4661,7 +4774,7 @@ var data = {
         "tittel": "Areal under marin grense",
         "wmslayer": "Marin_grense_flater_areal_under",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "1000": {
         "faktaark": "",
@@ -4683,14 +4796,80 @@ var data = {
         "tittel": "Areal under marin grense - lite/ingen marin påvirkning",
         "wmslayer": "Marin_grense_flater_areal_under_lite_ingen_marin_pavirkning",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1041": {
+        "faktaark": "",
+        "id": 1041,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS4?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Marin_grense_linjer&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Marin grense",
+        "wmslayer": "Marin_grense_linjer",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:8"
+      },
+      "1042": {
+        "faktaark": "",
+        "id": 1042,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Marin grense m.o.h. punkter",
+        "wmslayer": "Marin_grense_punktregistreringer",
+        "legendeurl": "URL mangler",
+        "status": "DOWN",
+        "timeStamp": "2024-10-18 13:29:6"
+      },
+      "1043": {
+        "faktaark": "",
+        "id": 1043,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS4?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Marin_grense_linjer&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Marin grense oversikt",
+        "wmslayer": "Marin_grense_oversikt_linjer",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinGrenseWMS4?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "58": {
@@ -4729,14 +4908,14 @@ var data = {
         "tittel": "Vernskog",
         "wmslayer": "Vernskog",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/vernskog?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:7",
     "feilkode": "mangler wmsurl"
   },
   "59": {
@@ -4775,17 +4954,18 @@ var data = {
         "tittel": "Skredtype",
         "wmslayer": "Skredtype",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/SkredHendelser/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:13",
     "feilkode": "mangler wmsurl"
   },
   "62": {
+    "aggregatedwmslayer": "MarinSannsynligeKorallrevWMS",
     "dataeier": "NGU",
     "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/sannsynlige-forekomster-av-korallrev/3267a404-6632-4657-9041-f589eb5fec8c",
     "id": 62,
@@ -4823,7 +5003,7 @@ var data = {
         "tittel": "Dekningskart",
         "wmslayer": "Kartlagt_omraade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "181": {
         "faktaark": "",
@@ -4845,7 +5025,7 @@ var data = {
         "tittel": "Tetthet (antall pr. km2)",
         "wmslayer": "Korall_tetthet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "182": {
         "faktaark": "",
@@ -4867,36 +5047,14 @@ var data = {
         "tittel": "Pålitelighet",
         "wmslayer": "Palitelighet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
-      },
-      "782": {
-        "faktaark": "",
-        "id": 782,
-        "klikktekst": "{Kartlagt_omraade_layer.Kartlagt_omraade_feature.Objekttype} {Korall_omriss_det_layer.Korall_omriss_det_feature.Objekttype}",
-        "klikktekst2": "{Korall_palitelighet_det_layer.Korall_palitelighet_det_feature.Objekttype} {Korall_palitelighet_det_layer.Korall_palitelighet_det_feature.P}  {Korall_tetthet_layer.Korall_tetthet_feature.Objekttype} {Korall_tetthet_layer.Korall_tetthet_feature.Antall_per_km2}",
-        "klikkurl": "",
-        "legendeurl": "https://geo.ngu.no/mapserver/MarinSannsynligeKorallrevWMS?version=1.3.0&service=WMS&request=GetLegendGraphic&layer=MarinSannsynligeKorallrevWMS&format=image/png&sld_version=1.1.0",
-        "maxscaledenominator": null,
-        "maxzoom": 20,
-        "minscaledenominator": null,
-        "minzoom": 8,
-        "position": null,
-        "publiserprod": true,
-        "publisertest": true,
-        "queryable": true,
-        "suggested": false,
-        "testkoordinater": "5.885496218012026,63.55084616704151",
-        "tittel": "MarinSannsynligeKorallrevWMS",
-        "wmslayer": "MarinSannsynligeKorallrevWMS",
-        "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/MarinSannsynligeKorallrevWMS?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "65": {
@@ -4936,7 +5094,7 @@ var data = {
         "tittel": "Flomsone - 1000-årsflom",
         "wmslayer": "Flomsone_1000arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "192": {
         "faktaark": "",
@@ -4958,7 +5116,7 @@ var data = {
         "tittel": "Flomsone - 500-årsflom",
         "wmslayer": "Flomsone_500arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "193": {
         "faktaark": "",
@@ -4980,7 +5138,7 @@ var data = {
         "tittel": "Flomsone - 200-årsflom",
         "wmslayer": "Flomsone_200arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "194": {
         "faktaark": "",
@@ -5002,7 +5160,7 @@ var data = {
         "tittel": "Flomsone - 100-årsflom",
         "wmslayer": "Flomsone_100arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "195": {
         "faktaark": "",
@@ -5024,7 +5182,7 @@ var data = {
         "tittel": "Flomsone - 50-årsflom",
         "wmslayer": "Flomsone_50arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:14"
       },
       "196": {
         "faktaark": "",
@@ -5046,7 +5204,7 @@ var data = {
         "tittel": "Flomsone - 20-årsflom",
         "wmslayer": "Flomsone_20arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "197": {
         "faktaark": "",
@@ -5068,7 +5226,7 @@ var data = {
         "tittel": "Flomsone - 10-årsflom",
         "wmslayer": "Flomsone_10arsflom",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "198": {
         "faktaark": "{FlomsoneAnalyseomraade.flomberegningsURL}",
@@ -5090,14 +5248,14 @@ var data = {
         "tittel": "Dekningskart - Analyseområde",
         "wmslayer": "FlomsoneAnalyseomraade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://nve.geodataonline.no/arcgis/services/Flomsoner1/MapServer/WmsServer?",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:13",
     "feilkode": "mangler wmsurl"
   },
   "67": {
@@ -5113,7 +5271,7 @@ var data = {
       "Administrative støttekart"
     ],
     "tema": "Arter",
-    "tittel": "Arter - fredete",
+    "tittel": "Arter - Fredete",
     "type": "Arter",
     "underlag": {
       "222": {
@@ -5136,7 +5294,7 @@ var data = {
         "tittel": "Fredete arter - områder",
         "wmslayer": "Fredete_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "223": {
         "faktaark": "{Fredete_arter_pkt.Faktaark}",
@@ -5158,14 +5316,14 @@ var data = {
         "tittel": "Fredete arter - punkt",
         "wmslayer": "Fredete_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal2/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:31",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   },
   "68": {
@@ -5203,7 +5361,7 @@ var data = {
         "tittel": "Prioriterte arter - områder",
         "wmslayer": "Prioriterte_arter_omr",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:31"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "225": {
         "faktaark": "{Prioriterte_arter_pkt.Faktaark}",
@@ -5225,14 +5383,14 @@ var data = {
         "tittel": "Prioriterte arter - punkt",
         "wmslayer": "Prioriterte_arter_pkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/artnasjonal2/MapServer/WmsServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:31",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   },
   "69": {
@@ -5268,10 +5426,10 @@ var data = {
         "tittel": "Dekningskart - Natur i verneområder",
         "wmslayer": "Dekningskart_Vern_Naturomr_NiN",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "903": {
-        "faktaark": "{vern_naturomrader_nin.Faktaark}",
+        "faktaark": "{vern_Naturomrader_NiN.Faktaark}",
         "id": 903,
         "klikktekst": "{Vern_Naturomrader_NiN.Hovedtypegruppebeskrivelse} {Vern_Naturomrader_NiN.Hovedtypebeskrivelse} {Vern_Naturomrader_NiN.Kartleggingsenhetkode} {Vern_Naturomrader_NiN.Kartleggingsenhetbeskrivelse}",
         "klikktekst2": "{Vern_Naturomrader_NiN.Programnavn} {Vern_Naturomrader_NiN.NaturvernOmrådenavn}",
@@ -5290,14 +5448,14 @@ var data = {
         "tittel": "Natur i verneområder - NiN",
         "wmslayer": "vern_naturomrader_nin",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern_naturomrader_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   },
   "70": {
@@ -5336,7 +5494,7 @@ var data = {
         "tittel": "Overlapp alle arter",
         "wmslayer": "overlapp_alle_arter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "907": {
         "faktaark": "",
@@ -5358,7 +5516,7 @@ var data = {
         "tittel": "Overlapp truede ansvarsarter",
         "wmslayer": "overlapp_truede_ansvarsarter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "908": {
         "faktaark": "",
@@ -5380,7 +5538,7 @@ var data = {
         "tittel": "Overlapp truede arter",
         "wmslayer": "overlapp_truede_arter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "909": {
         "faktaark": "",
@@ -5388,7 +5546,7 @@ var data = {
         "klikktekst": "",
         "klikktekst2": "",
         "klikkurl": "",
-        "legendeurl": "https://mkart.miljostatus.no/geodataMobile/images/legends/miljoatlas/Miljodir/truede_karplanter_ansvar_no.PNG",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp_truede_10",
         "maxscaledenominator": null,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -5401,7 +5559,8 @@ var data = {
         "testkoordinater": "",
         "tittel": "Insekter og edderkoppdyr - alle arter",
         "wmslayer": "insekter_edderkoppdyr_alle_arter",
-        "status": "408 REQUEST TIMEOUT"
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "910": {
         "faktaark": "",
@@ -5702,7 +5861,7 @@ var data = {
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:32",
+    "timeStamp": "2024-10-18 13:29:17",
     "feilkode": "mangler wmsurl"
   },
   "71": {
@@ -5739,7 +5898,7 @@ var data = {
         "tittel": "Linjestrukturpunkt",
         "wmslayer": "Linjestrukturpunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "925": {
         "faktaark": "",
@@ -5761,13 +5920,13 @@ var data = {
         "tittel": "Planstrukturpunkt",
         "wmslayer": "Planstrukturpunkt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "926": {
         "faktaark": "",
         "id": 926,
-        "klikktekst": "",
-        "klikktekst2": "",
+        "klikktekst": "{response.Bergart_flate_tektoniskhovedinndeling_layer.gml:name}",
+        "klikktekst2": "{Bergart_flate_tektoniskhovedinndeling_layer.Bergart_flate_tektoniskhovedinndeling_feature.tektoniskhovedinndeling}",
         "klikkurl": "",
         "legendeurl": "http://geo.ngu.no/mapserver/BerggrunnWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergart_flate_tektoniskhovedinndeling&format=image/png&STYLE=default",
         "maxscaledenominator": null,
@@ -5779,11 +5938,11 @@ var data = {
         "publisertest": true,
         "queryable": true,
         "suggested": false,
-        "testkoordinater": "",
+        "testkoordinater": "11.908499221525314,62.38975441416486",
         "tittel": "Bergartsflate 1:250 000 - tektonisk hovedinndeling",
         "wmslayer": "Bergart_flate_tektoniskhovedinndeling",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:7"
       },
       "927": {
         "faktaark": "",
@@ -5805,13 +5964,13 @@ var data = {
         "tittel": "Bergartsflate 1:250 000 dannelsesalder",
         "wmslayer": "Bergart_flate_dannelsesalder",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "928": {
         "faktaark": "",
         "id": 928,
-        "klikktekst": "",
-        "klikktekst2": "",
+        "klikktekst": "{Bergart_linje_layer.gml:name}",
+        "klikktekst2": "{Bergart_linje_layer.Bergart_linje_feature.objekttype}",
         "klikkurl": "",
         "legendeurl": "https://geo.ngu.no/mapserver/BerggrunnWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Bergart_linje&format=image/png&STYLE=default",
         "maxscaledenominator": null,
@@ -5823,11 +5982,11 @@ var data = {
         "publisertest": true,
         "queryable": true,
         "suggested": false,
-        "testkoordinater": "",
+        "testkoordinater": "9.7723481598784,60.65200729660399",
         "tittel": "Bergartslinje 1:250 000",
         "wmslayer": "Bergart_linje",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "929": {
         "faktaark": "",
@@ -5849,7 +6008,7 @@ var data = {
         "tittel": "Berggrunn strukturlinje 1:250 000",
         "wmslayer": "Bergart_lineaerstruktur",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "930": {
         "faktaark": "",
@@ -5871,7 +6030,7 @@ var data = {
         "tittel": "Bergartsgrense 1:250 000",
         "wmslayer": "Bergart_grense",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "931": {
         "faktaark": "",
@@ -5893,14 +6052,14 @@ var data = {
         "tittel": "Bergartsflate 1:250 000",
         "wmslayer": "Bergart_flate",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnWMS2?request=GetCapabilities&SERVICE=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:9",
     "feilkode": "mangler wmsurl"
   },
   "72": {
@@ -5938,14 +6097,14 @@ var data = {
         "tittel": "Kalkinnhold i berggrunnen (prognose) 1:250.000",
         "wmslayer": "Kalkinnhold_N250",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnOkologiWMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:9",
     "feilkode": "mangler wmsurl"
   },
   "73": {
@@ -5982,7 +6141,7 @@ var data = {
         "tittel": "Ultramafiske bergarter (utbredelse) 1:250.000",
         "wmslayer": "Ultramafisk_N250",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       },
       "934": {
         "faktaark": "",
@@ -6004,14 +6163,14 @@ var data = {
         "tittel": "Ultramafiske bergarter (utbredelse) 1:250.000 punkt-representasjon",
         "wmslayer": "Ultramafisk_N250_oversikt",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:9"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://geo.ngu.no/mapserver/BerggrunnOkologiWMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:9",
     "feilkode": "mangler wmsurl"
   },
   "74": {
@@ -6048,7 +6207,7 @@ var data = {
         "tittel": "Miljøverdi fisk",
         "wmslayer": "verdi_max_fisk_grid3575_filter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "943": {
         "faktaark": "",
@@ -6070,7 +6229,7 @@ var data = {
         "tittel": "Miljøverdi naturtyper",
         "wmslayer": "verdi_max_naturtyper_grid3575_filter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "944": {
         "faktaark": "",
@@ -6092,7 +6251,7 @@ var data = {
         "tittel": "Miljøverdi sjøfugl",
         "wmslayer": "verdi_max_sjofugl_grid3575_filter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "945": {
         "faktaark": "",
@@ -6114,14 +6273,14 @@ var data = {
         "tittel": "Miljøverdi sjøpattedyr",
         "wmslayer": "verdi_max_sjopattedyr_grid3575_filter",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "text/xml",
     "wmsurl": "https://kart.miljodirektoratet.no/geoserver/miljoverdi_hav/wms?service=wms&version=1.1.1&request=getcapabilities",
     "wmsversion": "1.1.1",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:51",
+    "timeStamp": "2024-10-18 13:29:45",
     "feilkode": "mangler wmsurl"
   },
   "76": {
@@ -6158,7 +6317,7 @@ var data = {
         "tittel": "Dekningskart",
         "wmslayer": "dtw_dekning",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "948": {
         "faktaark": "",
@@ -6180,14 +6339,14 @@ var data = {
         "tittel": "Markfuktighetsklasser",
         "wmslayer": "markfuktighetsklasser",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/markfuktighetskart?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "77": {
@@ -6204,7 +6363,7 @@ var data = {
       "Skog"
     ],
     "tema": "Naturtyper",
-    "tittel": "Kartleggingsenheter NiN - Mdir",
+    "tittel": "Kartleggingsenheter NiN",
     "type": "naturtype",
     "underlag": {
       "957": {
@@ -6227,7 +6386,7 @@ var data = {
         "tittel": "NiN kartleggingsenheter 1:20.000",
         "wmslayer": "Naturomrader_20K",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "958": {
         "faktaark": "{Naturomrader_5K.Faktaark}",
@@ -6249,14 +6408,14 @@ var data = {
         "tittel": "NiN kartleggingsenheter 1:5.000",
         "wmslayer": "Naturomrader_5K",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/kartleggingsenheter_nin/MapServer/WmsServer",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:15",
     "feilkode": "mangler wmsurl"
   },
   "78": {
@@ -6295,7 +6454,7 @@ var data = {
         "tittel": "Hovudtypar",
         "wmslayer": "Hovudtypar",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "960": {
         "faktaark": "",
@@ -6317,7 +6476,7 @@ var data = {
         "tittel": "Vegetasjonstypar",
         "wmslayer": "Vegetasjonstypar",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "961": {
         "faktaark": "",
@@ -6339,7 +6498,7 @@ var data = {
         "tittel": "Naturtypar",
         "wmslayer": "Naturtypar",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       },
       "962": {
         "faktaark": "",
@@ -6361,14 +6520,14 @@ var data = {
         "tittel": "Oversiktskart (dekning)",
         "wmslayer": "Oversiktskart",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.nibio.no/cgi-bin/vegetasjon?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "79": {
@@ -6404,7 +6563,7 @@ var data = {
         "tittel": "Særlig verdifulle og sårbare områder - områder",
         "wmslayer": "svo_omrade",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "964": {
         "faktaark": "",
@@ -6426,23 +6585,24 @@ var data = {
         "tittel": "Særlig verdifulle og sårbare områder - grenser",
         "wmslayer": "svo_grense",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.miljodirektoratet.no/geoserver/svo/wms?service=wms&version=1.1.1&request=getcapabilities",
     "wmsversion": "1.1.1",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   },
   "80": {
     "dataeier": "NINA",
+    "faktaark": "https://seapop.no/",
     "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/seapop-estimerte-hekkebestander-for-sjoefugl-wms/9a0ad485-383f-4903-9212-c425d6e24544",
     "id": 80,
     "kildeurl": "https://www.nina.no/",
     "logourl": "https://www.nina.no/Portals/NINA/Bilder/logoweb.png?ver=n7WXNci_kc18ibZXkJGVhg%3d%3d",
-    "projeksjon": "3857",
+    "projeksjon": "EPSG:4258",
     "tags": [
       "Arter",
       "Marint"
@@ -6452,10 +6612,10 @@ var data = {
     "type": "Arter",
     "underlag": {
       "965": {
-        "faktaark": "",
+        "faktaark": "{alke.NAMESPACE}",
         "id": 965,
-        "klikktekst": "",
-        "klikktekst2": "",
+        "klikktekst": "{alke.SPECIES_NORWEGIAN_NAME} {alke.LOCALITY}",
+        "klikktekst2": "{alke.ESTIMATED_VALUE} {alke.ESTIMATED_YEAR}",
         "klikkurl": "",
         "legendeurl": "https://wms.geonorge.no/skwms1/wms.seabirdbreedingpopulation?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=alke&format=image/png&STYLE=default",
         "maxscaledenominator": null,
@@ -6465,13 +6625,13 @@ var data = {
         "position": null,
         "publiserprod": true,
         "publisertest": true,
-        "queryable": false,
-        "suggested": false,
+        "queryable": true,
+        "suggested": true,
         "testkoordinater": "",
         "tittel": "Alke",
         "wmslayer": "alke",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "966": {
         "faktaark": "",
@@ -6493,7 +6653,7 @@ var data = {
         "tittel": "Fiskemake",
         "wmslayer": "fiskemake",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "967": {
         "faktaark": "",
@@ -6515,7 +6675,7 @@ var data = {
         "tittel": "Gråmåke",
         "wmslayer": "gramake",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:11"
       },
       "968": {
         "faktaark": "",
@@ -6537,7 +6697,7 @@ var data = {
         "tittel": "Havhest",
         "wmslayer": "havhest",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "969": {
         "faktaark": "",
@@ -6559,7 +6719,7 @@ var data = {
         "tittel": "Havsule",
         "wmslayer": "havsule",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "970": {
         "faktaark": "",
@@ -6581,7 +6741,7 @@ var data = {
         "tittel": "Krykkje",
         "wmslayer": "krykkje",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "971": {
         "faktaark": "",
@@ -6603,7 +6763,7 @@ var data = {
         "tittel": "Lomvi",
         "wmslayer": "lomvi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "972": {
         "faktaark": "",
@@ -6625,7 +6785,7 @@ var data = {
         "tittel": "Lunde",
         "wmslayer": "lunde",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "973": {
         "faktaark": "",
@@ -6647,7 +6807,7 @@ var data = {
         "tittel": "Polarlomvi",
         "wmslayer": "polarlomvi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "974": {
         "faktaark": "",
@@ -6669,7 +6829,7 @@ var data = {
         "tittel": "Rødnebbterne",
         "wmslayer": "rodnebbterne",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "975": {
         "faktaark": "",
@@ -6691,7 +6851,7 @@ var data = {
         "tittel": "Sildemåke",
         "wmslayer": "sildemake",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "976": {
         "faktaark": "",
@@ -6713,7 +6873,7 @@ var data = {
         "tittel": "Storskarv",
         "wmslayer": "storskarv",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "977": {
         "faktaark": "",
@@ -6735,7 +6895,7 @@ var data = {
         "tittel": "Svartbak",
         "wmslayer": "svartbak",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "978": {
         "faktaark": "",
@@ -6757,7 +6917,7 @@ var data = {
         "tittel": "Teist",
         "wmslayer": "teist",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "979": {
         "faktaark": "",
@@ -6779,7 +6939,7 @@ var data = {
         "tittel": "Toppskarv",
         "wmslayer": "toppskarv",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
       },
       "980": {
         "faktaark": "",
@@ -6801,7 +6961,7 @@ var data = {
         "tittel": "Tyvjo",
         "wmslayer": "tyvjo",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:13"
       },
       "981": {
         "faktaark": "",
@@ -6823,14 +6983,35 @@ var data = {
         "tittel": "Ærfugl",
         "wmslayer": "erfugl",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:12"
+      },
+      "1069": {
+        "faktaark": "",
+        "id": 1069,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "seabirdbreedingpopulation",
+        "wmslayer": "seabirdbreedingpopulation",
+        "legendeurl": "URL mangler",
+        "status": "DOWN",
+        "timeStamp": "2024-10-18 13:29:6"
       }
     },
-    "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://wms.geonorge.no/skwms1/wms.seabirdbreedingpopulation?service=WMS&request=GetCapabilities",
-    "wmsversion": "1.3.0",
+    "wmsversion": "1.1.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:12",
     "feilkode": "mangler wmsurl"
   },
   "81": {
@@ -6868,14 +7049,14 @@ var data = {
         "tittel": "Ferdselsforbud",
         "wmslayer": "ferdselsforbud",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.wms_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vern_restriksjonsomrader/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   },
   "82": {
@@ -6913,7 +7094,7 @@ var data = {
         "tittel": "Inngrepsfri natur i Norge - 2018",
         "wmslayer": "status",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "986": {
         "faktaark": "",
@@ -6935,7 +7116,7 @@ var data = {
         "tittel": "Inngrepsfri natur i Norge - 2013",
         "wmslayer": "status_2013",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "987": {
         "faktaark": "",
@@ -6957,7 +7138,7 @@ var data = {
         "tittel": "Inngrepsfri natur i Norge - 2008",
         "wmslayer": "status_2008",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "988": {
         "faktaark": "",
@@ -6979,38 +7160,39 @@ var data = {
         "tittel": "Inngrepsfri natur i Norge - 1988",
         "wmslayer": "status_1988",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
     "wmsurl": "https://kart.miljodirektoratet.no/geoserver/inngrepsfrinatur/wms?service=wms&version=1.1.1&request=getcapabilities",
     "wmsversion": "1.1.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:15",
     "feilkode": "mangler wmsurl"
   },
-  "84": {
-    "dataeier": "Havforskningsinstituttet",
-    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kysttorsk-gytefelt-torsk-mb/a27a3860-b3d1-495a-b625-c0f1f7c38dbf",
-    "id": 84,
-    "kildeurl": "https://www.hi.no/hi",
-    "logourl": "https://www.hi.no/hi/resources/layout/HI-logo-farger-norsk.svg/original",
+  "83": {
+    "dataeier": "NIBIO",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/sr16-skogressurskart-16x16-meter-wms/11f141f2-d91b-47e6-9b98-f5e7a6e7aa15",
+    "id": 83,
+    "kildeurl": "https://www.nibio.no/",
+    "logourl": "https://pbs.twimg.com/profile_images/1049942105773215744/dhPec0Pf_400x400.jpg",
+    "produktark": "https://www.nibio.no/tema/skog/kart-over-skogressurser/skogressurskart-sr16/_/attachment/inline/b1351797-d448-4a67-b099-961efaa6bf80:926f35a23e4c184368d545c0766009627f5f2585/SR16_produktark.pdf",
     "projeksjon": "3857",
     "tags": [
-      "Arter",
-      "Marint"
+      "Modellerte data",
+      "Skog"
     ],
-    "tema": "Arter",
-    "tittel": "Torsk - gytefelt kysttorsk",
-    "type": "Arter",
+    "tema": "Skog",
+    "tittel": "Skogressurskart - SR16",
+    "type": "naturtype",
     "underlag": {
-      "990": {
+      "1003": {
         "faktaark": "",
-        "id": 990,
-        "klikktekst": "{gml:featureMember.fisk:kysttorsk_gyte.fisk:species_no} {gml:featureMember.fisk:kysttorsk_gyte.fisk:map_type_n}",
-        "klikktekst2": "{gml:featureMember.fisk:kysttorsk_gyte.fisk:navn} {gml:featureMember.fisk:kysttorsk_gyte.fisk:informasjo} {gml:featureMember.fisk:kysttorsk_gyte.fisk:omradebesk}",
+        "id": 1003,
+        "klikktekst": "{SR16_STATUS_layer.gml:name}",
+        "klikktekst2": "{SR16_STATUS_layer.SR16_STATUS_feature.prod_srfmaar}",
         "klikkurl": "",
-        "legendeurl": "http://maps.imr.no:80/geoserver/fisk/kysttorsk_gyte/ows?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=kysttorsk_gyte",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/sr16?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SR16_STATUS&format=image/png&STYLE=default",
         "maxscaledenominator": null,
         "maxzoom": 20,
         "minscaledenominator": null,
@@ -7020,18 +7202,84 @@ var data = {
         "publisertest": true,
         "queryable": true,
         "suggested": false,
-        "testkoordinater": "8.579643083839429,63.889077563641756",
-        "tittel": "Kysttorsk gytefelt",
-        "wmslayer": "kysttorsk_gyte",
+        "testkoordinater": "10.15138672409934,62.161400336248285",
+        "tittel": "SR16 - Status",
+        "wmslayer": "SR16_STATUS",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:8"
+      },
+      "1004": {
+        "faktaark": "",
+        "id": 1004,
+        "klikktekst": "{SRVTRESLAG_layer.SRVTRESLAG_feature.objtype}",
+        "klikktekst2": "{SRVTRESLAG_layer.SRVTRESLAG_feature.treslag_txt}",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/sr16?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SRVTRESLAG&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "10.343285709155307,62.91334929847286",
+        "tittel": "SR16 - Treslag",
+        "wmslayer": "SRVTRESLAG",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:8"
+      },
+      "1005": {
+        "faktaark": "",
+        "id": 1005,
+        "klikktekst": "{SRVHOYDEM_layer.SRVHOYDEM_feature.objtype}",
+        "klikktekst2": "{SRVHOYDEM_layer.SRVHOYDEM_feature.srhoydem}",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/sr16?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SRVBMO&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "10.338650033157602,62.90960335818103",
+        "tittel": "SR16 - høyde",
+        "wmslayer": "SRVHOYDEM",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:8"
+      },
+      "1015": {
+        "faktaark": "",
+        "id": 1015,
+        "klikktekst": "{SRVBONITET_layer.SRVBONITET_feature.objtype}",
+        "klikktekst2": "{SRVBONITET_layer.SRVBONITET_feature.srbonitet}",
+        "klikkurl": "",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.328307480219122,62.91147975078329",
+        "tittel": "SR16 - bonitet",
+        "wmslayer": "SRVBONITET",
+        "legendeurl": "URL mangler",
+        "status": "DOWN",
+        "timeStamp": "2024-10-18 13:29:6"
       }
     },
     "wmsinfoformat": "application/vnd.ogc.gml",
-    "wmsurl": "https://maps.imr.no/geoserver/fisk/kysttorsk_gyte/ows?request=GetCapabilities&service=WMS",
+    "wmsurl": "https://wms.nibio.no/cgi-bin/sr16?VERSION=1.3.0&SERVICE=WMS&REQUEST=GetCapabilities",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:8",
     "feilkode": "mangler wmsurl"
   },
   "85": {
@@ -7072,7 +7320,7 @@ var data = {
         "tittel": "Naturtyper KU -  alle",
         "wmslayer": "kuverdi_naturtype_alle",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "992": {
         "faktaark": "{kuverdi_svært_stor_verdi.Faktaark}",
@@ -7094,7 +7342,7 @@ var data = {
         "tittel": "Naturtyper KU - svært stor verdi",
         "wmslayer": "kuverdi_svært_stor_verdi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "993": {
         "faktaark": "{kuverdi_stor_verdi.Faktaark}",
@@ -7116,7 +7364,7 @@ var data = {
         "tittel": "Naturtyper KU - stor verdi",
         "wmslayer": "kuverdi_stor_verdi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "994": {
         "faktaark": "{kuverdi_middels_verdi.Faktaark}",
@@ -7138,7 +7386,7 @@ var data = {
         "tittel": "Naturtyper KU - middels verdi",
         "wmslayer": "kuverdi_middels_verdi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "995": {
         "faktaark": "{kuverdi_noe_verdi.Naturtype} {kuverdi_noe_verdi.Faktaark}",
@@ -7160,7 +7408,7 @@ var data = {
         "tittel": "Naturtyper KU - noe verdi",
         "wmslayer": "kuverdi_noe_verdi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "996": {
         "faktaark": "{kuverdi_ikke_gitt_verdi.Faktaark}",
@@ -7182,7 +7430,7 @@ var data = {
         "tittel": "Naturtyper KU - ikke gitt verdi",
         "wmslayer": "kuverdi_ikke_gitt_verdi",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:15"
       },
       "997": {
         "faktaark": "{kuverdi_vurderes_per_lokalitet.Faktaark}",
@@ -7204,7 +7452,7 @@ var data = {
         "tittel": "Naturtyper KU - verdi vurderes per lokalitet",
         "wmslayer": "kuverdi_vurderes_per_lokalitet",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       },
       "998": {
         "faktaark": "{kuverdi_vurderes_per_naturtype.Faktaark}",
@@ -7226,14 +7474,1400 @@ var data = {
         "tittel": "Naturtyper KU - verdi vurderes per naturtype",
         "wmslayer": "kuverdi_vurderes_per_naturtype",
         "status": "200 OK",
-        "timeStamp": "2022-10-28 10:5:30"
+        "timeStamp": "2024-10-18 13:29:16"
       }
     },
     "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
     "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/naturtyper_kuverdi/MapServer/WMSServer?request=GetCapabilities&service=WMS",
     "wmsversion": "1.3.0",
     "status": "200 OK",
-    "timeStamp": "2022-10-28 10:5:30",
+    "timeStamp": "2024-10-18 13:29:16",
+    "feilkode": "mangler wmsurl"
+  },
+  "87": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/skogsmark-nin/bc063468-9454-4ff6-b948-451b68eaade1?search=nin%20skogsmark",
+    "id": 87,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://kartkatalog.miljodirektoratet.no/MapService/Details/nin_skogkartlegging",
+    "projeksjon": "EPSG:4326",
+    "tags": [
+      "Feltkartlagte data",
+      "Naturtype"
+    ],
+    "tema": "Skog",
+    "tittel": "Skogsmark - NiN",
+    "type": "naturtype",
+    "underlag": {
+      "1009": {
+        "faktaark": "",
+        "id": 1009,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no:443/arcgis/services/nin_skogkartlegging/nin_skogkartlegging/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Naturområder",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Naturområder",
+        "wmslayer": "Naturområder",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1010": {
+        "faktaark": "",
+        "id": 1010,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no:443/arcgis/services/nin_skogkartlegging/nin_skogkartlegging/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Prosjekt",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Prosjekt",
+        "wmslayer": "Prosjekt",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      }
+    },
+    "wmsinfoformat": "application/vnd.ogc.wms_xml",
+    "wmsurl": "https://kart2.miljodirektoratet.no/arcgis/services/nin_skogkartlegging/nin_skogkartlegging/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:14",
+    "feilkode": "mangler wmsurl"
+  },
+  "88": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/hovedoekosystemer-i-norge-versjon-1/ce4261f9-486d-4f28-8687-d6d0f277f667",
+    "id": 88,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://register.geonorge.no/produktark/hoved%C3%B8kosystemer-i-norge-versjon-1",
+    "projeksjon": "espg:3857",
+    "tags": [
+      "Naturtype",
+      "Modellerte data"
+    ],
+    "tema": "Arealressurs",
+    "tittel": "Hovedøkosystemer i Norge",
+    "type": "naturtype",
+    "underlag": {
+      "1011": {
+        "faktaark": "",
+        "id": 1011,
+        "klikktekst": "{Hovedokosystem_oversikt.'Raster.ecotype'}",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/hovedokosystem/hovedokosystem/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Hovedokosystem_oversikt",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Hovedøkosystem - oversikt",
+        "wmslayer": "Hovedokosystem_oversikt",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1012": {
+        "faktaark": "",
+        "id": 1012,
+        "klikktekst": "{Hovedokosystem_detalj.ecotype}",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/hovedokosystem/hovedokosystem/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=Hovedokosystem_detalj",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Hovedøkosystem - detalj",
+        "wmslayer": "Hovedokosystem_detalj",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart2.miljodirektoratet.no/arcgis/services/hovedokosystem/hovedokosystem/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:14",
+    "feilkode": "mangler wmsurl"
+  },
+  "89": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/naturtyper-elvedelta/86a6a0d7-62e3-4967-9db8-40d903d72afe",
+    "id": 89,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://register.geonorge.no/produktark/naturtyper-elvedelta",
+    "projeksjon": "EPSG:3857",
+    "tags": [
+      "Naturtype",
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
+    "tittel": "Elvedelta",
+    "type": "naturtype",
+    "underlag": {
+      "1013": {
+        "faktaark": "",
+        "id": 1013,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no:443/arcgis/services/elvedelta/MapServer/WMSServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=elvedelta&",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Elvedelta",
+        "wmslayer": "elvedelta",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart2.miljodirektoratet.no/arcgis/services/elvedelta/mapserver/WMSServer?service=wms&request=getcapabilities",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:14",
+    "feilkode": "mangler wmsurl"
+  },
+  "90": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/miljodirektoratet/b75924b4-5370-4297-8731-2239628cded9",
+    "id": 90,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://dokument.geonorge.no/produktark/landformer-milj%C3%B8direktoratets-instruks//landformer-milj%C3%B8direktoratets-instruks.pdf",
+    "projeksjon": "EPSG:4326",
+    "tags": [
+      "Modellerte data",
+      "Landskap",
+      "Geologi"
+    ],
+    "tema": "Geologi",
+    "tittel": "Landformer - Miljødirektoratets instruks",
+    "type": "landskap",
+    "underlag": {
+      "1016": {
+        "faktaark": "",
+        "id": 1016,
+        "klikktekst": "{landformer_nin_svart_hoy_kvalitet.Naturtype}",
+        "klikktekst2": "{landformer_nin_svart_hoy_kvalitet.Lokalitetskvalitet} {landformer_nin_svart_hoy_kvalitet.Tilstand}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_svart_hoy_kvalitet",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 1,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN svært høy kvalitet",
+        "wmslayer": "landformer_nin_svart_hoy_kvalitet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1017": {
+        "faktaark": "",
+        "id": 1017,
+        "klikktekst": "{landformer_nin_hoy_kvalitet.Naturtype}",
+        "klikktekst2": "{landformer_nin_hoy_kvalitet.Lokalitetskvalitet} {landformer_nin_hoy_kvalitet.Tilstand}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_hoy_kvalitet",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 2,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN høy kvalitet",
+        "wmslayer": "landformer_nin_hoy_kvalitet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1018": {
+        "faktaark": "",
+        "id": 1018,
+        "klikktekst": "{landformer_nin_moderat_kvalitet.Naturtype}",
+        "klikktekst2": "{landformer_nin_moderat_kvalitet.Lokalitetskvalitet} {landformer_nin_moderat_kvalitet.Tilstand}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_moderat_kvalitet",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 3,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN moderat kvalitet",
+        "wmslayer": "landformer_nin_moderat_kvalitet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1019": {
+        "faktaark": "",
+        "id": 1019,
+        "klikktekst": "{landformer_nin_lav_kvalitet.Naturtype}",
+        "klikktekst2": "{landformer_nin_lav_kvalitet.Lokalitetskvalitet} {landformer_nin_lav_kvalitet.Tilstand}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_lav_kvalitet",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 4,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN lav kvalitet",
+        "wmslayer": "landformer_nin_lav_kvalitet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1020": {
+        "faktaark": "",
+        "id": 1020,
+        "klikktekst": "{landformer_nin_svart_lav_kvalitet.Naturtype}",
+        "klikktekst2": "{landformer_nin_svart_lav_kvalitet.Lokalitetskvalitet} {landformer_nin_svart_lav_kvalitet.Tilstand}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_svart_lav_kvalitet",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 5,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN svært lav kvalitet",
+        "wmslayer": "landformer_nin_svart_lav_kvalitet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1021": {
+        "faktaark": "",
+        "id": 1021,
+        "klikktekst": "{landformer_nin_ikke_kvalitetsvurdert.Naturtype}",
+        "klikktekst2": "{landformer_nin_ikke_kvalitetsvurdert.Kartleggingsår}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=landformer_nin_ikke_kvalitetsvurdert",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 6,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Landformer NiN ikke kvalitetsvurdert",
+        "wmslayer": "landformer_nin_ikke_kvalitetsvurdert",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1022": {
+        "faktaark": "",
+        "id": 1022,
+        "klikktekst": "{dekningskart_dodisgrop.KartlagtLandform}",
+        "klikktekst2": "{dekningskart_dodisgrop.Kartleggingsår} {dekningskart_dodisgrop.Dekningskartverdi}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=dekningskart_dodisgrop",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 7,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Dekningskart dødisgrop",
+        "wmslayer": "dekningskart_dodisgrop",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1023": {
+        "faktaark": "",
+        "id": 1023,
+        "klikktekst": "{dekningskart_fossilt_delta.KartlagtLandform}",
+        "klikktekst2": "{dekningskart_fossilt_delta.Kartleggingsår} {dekningskart_fossilt_delta.Dekningskartverdi}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=dekningskart_fossilt_delta",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 8,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Dekningskart fossilt delta",
+        "wmslayer": "dekningskart_fossilt_delta",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:19"
+      },
+      "1024": {
+        "faktaark": "",
+        "id": 1024,
+        "klikktekst": "{dekningskart_jordpyramide.KartlagtLandform}",
+        "klikktekst2": "{dekningskart_jordpyramide.Kartleggingsår} {dekningskart_jordpyramide.Dekningskartverdi}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=dekningskart_jordpyramide",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 9,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Dekningskart jordpyramide",
+        "wmslayer": "dekningskart_jordpyramide",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1025": {
+        "faktaark": "",
+        "id": 1025,
+        "klikktekst": "{dekningskart_leirravine.KartlagtLandform}",
+        "klikktekst2": "{dekningskart_leirravine.Kartleggingsår} {dekningskart_leirravine.Dekningskartverdi}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=dekningskart_leirravine",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 10,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Dekningskart leirravine",
+        "wmslayer": "dekningskart_leirravine",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      },
+      "1026": {
+        "faktaark": "",
+        "id": 1026,
+        "klikktekst": "{dekningskart_leirskredgrop.KartlagtLandform}",
+        "klikktekst2": "{dekningskart_leirskredgrop.Kartleggingsår} {dekningskart_leirskredgrop.Dekningskartverdi}",
+        "klikkurl": "",
+        "legendeurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetLegendGraphic&version=1.1.1&format=image/png&layer=dekningskart_leirskredgrop",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 11,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "10.184326171875002,62.57247321731388",
+        "tittel": "Dekningskart leirskredgrop",
+        "wmslayer": "dekningskart_leirskredgrop",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:14"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart2.miljodirektoratet.no/arcgis/services/landformer_nin/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:14",
+    "feilkode": "mangler wmsurl"
+  },
+  "91": {
+    "aggregatedwmslayer": "LosmasserWMS2",
+    "dataeier": "NGU",
+    "faktaark": "https://register.geonorge.no/data/documents/tegneregler_l%C3%B8smasser_v3_presentasjonsregler-losmasser-fullstendig_.pdf",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/loesmasser/3de4ddf6-d6b8-4398-8222-f5c47791a757",
+    "id": 91,
+    "kildeurl": "https://www.ngu.no/",
+    "logourl": "https://www.ngu.no/sites/all/themes/ngu/images/ngulogo.svg",
+    "produktark": "https://register.geonorge.no/register/versjoner/produktark/norges-geologiske-undersokelse/losmasser-n50-n250",
+    "tags": [
+      "Feltkartlagte data",
+      "DOK-data",
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Geologi"
+    ],
+    "tema": "Geologi",
+    "tittel": "Løsmasse 2",
+    "type": "løsmasse",
+    "underlag": {
+      "1027": {
+        "faktaark": "",
+        "id": 1027,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasse_Norge&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 3,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Løsmasser i Norge N1000",
+        "wmslayer": "Losmasse_Norge",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:10"
+      },
+      "1028": {
+        "faktaark": "",
+        "id": 1028,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasseflate_detaljkart&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 4,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Løsmasseflate N20",
+        "wmslayer": "Losmasse_flate",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1030": {
+        "faktaark": "",
+        "id": 1030,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasse_dekningsomrade&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 1,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Dekningskart oversikt",
+        "wmslayer": "Losmasse_dekningsomrade",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1031": {
+        "faktaark": "",
+        "id": 1031,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasse_dekningsomrade_detaljkart&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 2,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Dekningskart detaljkartlagte løsmasser N20",
+        "wmslayer": "Losmasse_dekningsomrade_detaljkart",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1032": {
+        "faktaark": "",
+        "id": 1032,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmasseflate_detaljkart&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 5,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Løsmasser detaljkartlagt N20",
+        "wmslayer": "Losmasseflate_detaljkart",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1033": {
+        "faktaark": "",
+        "id": 1033,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Losmassemektighet&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 7,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Løsmassetykkelse detalj N20",
+        "wmslayer": "Losmassemektighet",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:10"
+      },
+      "1034": {
+        "faktaark": "",
+        "id": 1034,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Tykt_losmassedekke_N1000_web&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 6,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Løsmassetykkelse oversikt N1000",
+        "wmslayer": "Tykt_losmassedekke_N1000",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1035": {
+        "faktaark": "",
+        "id": 1035,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Dekningsomrader_grunnvannspotensial_infiltrasjonspotensial&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 8,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Dekningskart grunnvannspotensial",
+        "wmslayer": "Dekningsomrader_grunnvannspotensial_infiltrasjonspotensial",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1036": {
+        "faktaark": "",
+        "id": 1036,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Grunnvannspotensiale&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 9,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Grunnvannspotensial",
+        "wmslayer": "Grunnvannspotensiale",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:10"
+      },
+      "1037": {
+        "faktaark": "",
+        "id": 1037,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Skredmateriale_N1000&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 10,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Skredmaterialer N1000",
+        "wmslayer": "Skredmateriale_N1000",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:10"
+      },
+      "1038": {
+        "faktaark": "",
+        "id": 1038,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://geo.ngu.no/mapserver/LosmasserWMS2?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Skredmateriale&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 11,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Skredmateriale N20",
+        "wmslayer": "Skredmateriale",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:10"
+      }
+    },
+    "wmsurl": "https://geo.ngu.no/mapserver/LosmasserWMS2",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:9",
+    "feilkode": "mangler wmsurl"
+  },
+  "92": {
+    "dataeier": "NIBIO",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/sr16-beta-skogressurskart-16x16-meter-betaversjon/bd94b863-4222-43a4-9ae4-9d947cde2dcf?search=SR16%20beta",
+    "id": 92,
+    "kildeurl": "https://www.nibio.no/",
+    "logourl": "https://pbs.twimg.com/profile_images/1049942105773215744/dhPec0Pf_400x400.jpg",
+    "produktark": "https://register.geonorge.no/register/versjoner/produktark/norsk-institutt-for-biookonomi/sr16",
+    "tags": [
+      "Modellerte data",
+      "Skog"
+    ],
+    "tema": "Skog",
+    "tittel": "Skogressurs SR16 (beta)",
+    "type": "naturtype",
+    "underlag": {
+      "1039": {
+        "faktaark": "",
+        "id": 1039,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/sr16_beta?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SRRHOGSTAARbeta&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Hogstår (kun etter 2011)",
+        "wmslayer": "SRRHOGSTAARbeta",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1040": {
+        "faktaark": "",
+        "id": 1040,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/sr16_beta?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=SRRBESTANDSALDER&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Bestandsalder, estimert ved fjernmåling",
+        "wmslayer": "SRRBESTANDSALDER",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      }
+    },
+    "wmsurl": "https://wms.nibio.no/cgi-bin/sr16_beta?VERSION=1.3.0&SERVICE=WMS&REQUEST=GetCapabilities",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:9",
+    "feilkode": "mangler wmsurl"
+  },
+  "93": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/truede-arter-2015-hot-spots/1eccb8ae-c9c8-42ac-b01f-4f24521c42de",
+    "id": 93,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://register.geonorge.no/data/documents/Produktark_truede-arter-hot-spots_v1_truede-arter-hot-spots-2_.pdf",
+    "tags": [
+      "Feltkartlagte data",
+      "Modellerte data",
+      "Arter"
+    ],
+    "tema": "Arter",
+    "tittel": "Truede arter - Kartleggingsmangler",
+    "underlag": {
+      "1047": {
+        "faktaark": "",
+        "id": 1047,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp17633",
+        "maxscaledenominator": 4367832,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Sopp",
+        "wmslayer": "sopp17633",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:17"
+      },
+      "1048": {
+        "faktaark": "",
+        "id": 1048,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp17633",
+        "maxscaledenominator": 2183920,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Moser",
+        "wmslayer": "moser36475",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1049": {
+        "faktaark": "",
+        "id": 1049,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp17633",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Lav",
+        "wmslayer": "lav57878",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1050": {
+        "faktaark": "",
+        "id": 1050,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp17633",
+        "maxscaledenominator": 2183920,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Karplanter",
+        "wmslayer": "karplanter41277",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:17"
+      },
+      "1051": {
+        "faktaark": "",
+        "id": 1051,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=sopp17633",
+        "maxscaledenominator": 2183920,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Insekter og edderkoppdyr",
+        "wmslayer": "insekter_og_edderkoppdyr45525",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/truet_natur/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:17",
+    "feilkode": "mangler wmsurl"
+  },
+  "94": {
+    "dataeier": "Statistisk sentralbyrå",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon/28c28e3a-d88f-4a34-8c60-5efe6d56a44d",
+    "id": 94,
+    "kildeurl": "https://www.ssb.no/",
+    "logourl": "https://www.ssb.no/_/asset/mimir:00000191a31f2120/SSB_logo_black.svg",
+    "produktark": "https://dokument.geonorge.no/produktark/grunnkart-for-arealregnskap//grunnkart-for-bruk-i-arealregnskap-testversjon-15.pdf",
+    "tags": [
+      "Feltkartlagte data",
+      "Naturtype",
+      "DOK-data",
+      "Modellerte data"
+    ],
+    "tema": "Arealressurs",
+    "tittel": "Grunnkart for arealregnskap (testversjon)",
+    "type": "arealtype",
+    "underlag": {
+      "1052": {
+        "faktaark": "",
+        "id": 1052,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/arealregnskap_grunnkart?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=okosystemtype&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Økosystemtype",
+        "wmslayer": "okosystemtype",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1053": {
+        "faktaark": "",
+        "id": 1053,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/arealregnskap_grunnkart?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=arealdekke&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Arealdekke",
+        "wmslayer": "arealdekke",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1054": {
+        "faktaark": "",
+        "id": 1054,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/arealregnskap_grunnkart?language=nor&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=arealbruk&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Arealbruk",
+        "wmslayer": "arealbruk",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      }
+    },
+    "wmsinfoformat": "application/vnd.ogc.gml",
+    "wmsurl": "https://wms.nibio.no/cgi-bin/arealregnskap_grunnkart?service=WMS&request=GetCapabilities",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:9",
+    "feilkode": "mangler wmsurl"
+  },
+  "95": {
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/anadrome-laksefisk-strekninger/8e01b0fb-476b-4b7f-8c16-60fcfb2df508",
+    "id": 95,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "produktark": "https://register.geonorge.no/data/documents/produktark_anadrome-laksefisk-strekninger_v3_anadrome-laksefisk-strekninger_.pdf",
+    "projeksjon": "EPSG:3857",
+    "tags": [
+      "Arter",
+      "Ferskvann"
+    ],
+    "tema": "Ferskvann",
+    "tittel": "Anadrome laksefisker - Strekninger",
+    "type": "laksefjord",
+    "underlag": {
+      "1055": {
+        "faktaark": "{anadrome_strekninger_omr.lakseregURL}",
+        "id": 1055,
+        "klikktekst": "{anadrome_strekninger_omr.elvenavn}",
+        "klikktekst2": "{anadrome_strekninger_omr.nasjonaltLaksevassdrag} {anadrome_strekninger_omr.vassdragsNR}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_strekninger_omr",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 1,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Anadrome strekninger flate",
+        "wmslayer": "anadrome_strekninger_omr",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1056": {
+        "faktaark": "",
+        "id": 1056,
+        "klikktekst": "{anadrome_forvaltningsregioner.regiontype}",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_forvaltningsregioner",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 2,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Forvaltningsregioner",
+        "wmslayer": "anadrome_forvaltningsregioner",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1057": {
+        "faktaark": "",
+        "id": 1057,
+        "klikktekst": "{anadrome_bestander_sjoroye.art}",
+        "klikktekst2": "{anadrome_bestander_sjoroye.lakseregBestandId}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_bestander_sjoroye",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 3,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Sjørøyebestander",
+        "wmslayer": "anadrome_bestander_sjoroye",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1058": {
+        "faktaark": "",
+        "id": 1058,
+        "klikktekst": "{anadrome_bestander_sjoorret.art}",
+        "klikktekst2": "{anadrome_bestander_sjoorret.lakseregBestandId}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_bestander_sjoorret",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 4,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Sjøørretbestander",
+        "wmslayer": "anadrome_bestander_sjoorret",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1059": {
+        "faktaark": "",
+        "id": 1059,
+        "klikktekst": "{anadrome_bestander_laks.art}",
+        "klikktekst2": "{anadrome_bestander_laks.lakseregBestandId}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_bestander_laks",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 5,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Laksebestander",
+        "wmslayer": "anadrome_bestander_laks",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1060": {
+        "faktaark": "{anadrome_strekninger_lin.lakseregURL}",
+        "id": 1060,
+        "klikktekst": "{anadrome_strekninger_lin.elvenavn}",
+        "klikktekst2": "{anadrome_strekninger_lin.nasjonaltLaksevassdrag} {anadrome_strekninger_lin.vassdragsNR}",
+        "klikkurl": "",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 10,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Anadrome strekninger linjer",
+        "wmslayer": "anadrome_strekninger_lin",
+        "legendeurl": "URL mangler",
+        "status": "DOWN",
+        "timeStamp": "2024-10-18 13:29:6"
+      },
+      "1061": {
+        "faktaark": "",
+        "id": 1061,
+        "klikktekst": "{anadrome_utlopspunkt.elvenavn}",
+        "klikktekst2": "{anadrome_utlopspunkt.vassdragsNR}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_utlopspunkt",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 6,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Anadrome utløpspunkter",
+        "wmslayer": "anadrome_utlopspunkt",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1062": {
+        "faktaark": "",
+        "id": 1062,
+        "klikktekst": "{anadrome_vandringshinder_sjoroye.art} {anadrome_vandringshinder_sjoroye.hindertype}",
+        "klikktekst2": "{anadrome_vandringshinder_sjoroye.hinderårsak}  {anadrome_vandringshinder_sjoroye.informasjon}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_vandringshinder_sjoroye",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 7,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Vandringshider sjørøye",
+        "wmslayer": "anadrome_vandringshinder_sjoroye",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1063": {
+        "faktaark": "",
+        "id": 1063,
+        "klikktekst": "{anadrome_vandringshinder_sjoorret.art} {anadrome_vandringshinder_sjoorret.hindertype}",
+        "klikktekst2": "{anadrome_vandringshinder_sjoorret.hinderårsak}  {anadrome_vandringshinder_sjoorret.informasjon}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_vandringshinder_sjoorret",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 8,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Vandringshinder sjøørret",
+        "wmslayer": "anadrome_vandringshinder_sjoorret",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1064": {
+        "faktaark": "",
+        "id": 1064,
+        "klikktekst": "{anadrome_vandringshinder_laks.art} {anadrome_vandringshinder_laks.hindertype}",
+        "klikktekst2": "{anadrome_vandringshinder_laks.hinderårsak}  {anadrome_vandringshinder_laks.informasjon}",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=anadrome_vandringshinder_laks",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": 9,
+        "publiserprod": true,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Vandringshinder laks",
+        "wmslayer": "anadrome_vandringshinder_laks",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/anadrome_laksefisk/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:16",
+    "feilkode": "mangler wmsurl"
+  },
+  "96": {
+    "dataeier": "NIBIO",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/fkb-groennstruktur/86d6201a-4e0b-4f61-a1dc-c94164cfd160",
+    "id": 96,
+    "kildeurl": "https://www.nibio.no/",
+    "logourl": "https://pbs.twimg.com/profile_images/1049942105773215744/dhPec0Pf_400x400.jpg",
+    "produktark": "https://dokument.geonorge.no/produktark/fkb-gr%C3%B8nnstruktur/5.0/fkb-gr%C3%B8nnstruktur-produktark-14052024.pdf",
+    "projeksjon": "EPSG:4258",
+    "tags": [
+      "Naturtype",
+      "DOK-data",
+      "Landskap",
+      "Miljøvariabler og økologiske grunnlagsdata",
+      "Administrative støttekart"
+    ],
+    "tema": "Landskap",
+    "tittel": "FKB-Grønnstruktur",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "1065": {
+        "faktaark": "",
+        "id": 1065,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/gronnstruktur?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=arealtype&format=image/png&STYLE=default",
+        "maxscaledenominator": 5000000,
+        "maxzoom": 19,
+        "minscaledenominator": 620,
+        "minzoom": 8,
+        "position": 1,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": false,
+        "testkoordinater": "",
+        "tittel": "Arealtype",
+        "wmslayer": "arealtype",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      },
+      "1066": {
+        "faktaark": "",
+        "id": 1066,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://wms.nibio.no/cgi-bin/gronnstruktur?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=sjikthoyder&format=image/png&STYLE=default",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "Sjikthøyder",
+        "wmslayer": "sjikthoyder",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:9"
+      }
+    },
+    "wmsinfoformat": "application/vnd.esri.wms_raw_xml",
+    "wmsurl": "https://wms.nibio.no/cgi-bin/gronnstruktur?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3.0",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:9",
+    "feilkode": "mangler wmsurl"
+  },
+  "97": {
+    "aggregatedwmslayer": "lokaliteter_basisovervaking",
+    "dataeier": "Miljødirektoratet",
+    "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/98dd016f-b905-463b-a633-6be2a33fcec2",
+    "id": 97,
+    "kildeurl": "https://www.miljodirektoratet.no/",
+    "logourl": "https://kommunikasjon.ntb.no/data/images/00805/434850e6-c8ad-4c63-8562-75e2700f3dc5.png",
+    "tags": [
+      "Administrative støttekart"
+    ],
+    "tema": "Administrative støttekart",
+    "tittel": "Vannlokaliteter basisovervåkning",
+    "type": "Administrative støttekart",
+    "underlag": {
+      "1067": {
+        "faktaark": "",
+        "id": 1067,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/vannmiljo/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=grunnvannsovervaking",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "grunnvannsovervaking",
+        "wmslayer": "grunnvannsovervaking",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      },
+      "1068": {
+        "faktaark": "",
+        "id": 1068,
+        "klikktekst": "",
+        "klikktekst2": "",
+        "klikkurl": "",
+        "legendeurl": "https://kart.miljodirektoratet.no/arcgis/services/vannmiljo/MapServer/WmsServer?request=GetLegendGraphic&version=1.3.0&format=image/png&layer=forsuringsovervaking",
+        "maxscaledenominator": null,
+        "maxzoom": 20,
+        "minscaledenominator": null,
+        "minzoom": 8,
+        "position": null,
+        "publiserprod": false,
+        "publisertest": true,
+        "queryable": true,
+        "suggested": true,
+        "testkoordinater": "",
+        "tittel": "forsuringsovervåkning",
+        "wmslayer": "forsuringsovervaking",
+        "status": "200 OK",
+        "timeStamp": "2024-10-18 13:29:16"
+      }
+    },
+    "wmsurl": "https://kart.miljodirektoratet.no/arcgis/services/vannmiljo/MapServer/WMSServer?service=wms&request=getcapabilities&version=1.3.0",
+    "wmsversion": "1.3.0",
+    "status": "200 OK",
+    "timeStamp": "2024-10-18 13:29:16",
     "feilkode": "mangler wmsurl"
   }
 }
