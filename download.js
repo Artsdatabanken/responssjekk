@@ -1,5 +1,5 @@
 let load_test_dataset = false
-let kartlag_json = 'https://forvaltningsportal.artsdatabanken.no/kartlag.json'
+let kartlag_json = 'https://okologiskegrunnkart.artsdatabanken.no/kartlag.json'
 var os = require("os");
 var hostname = os.hostname();
 // Host machines that are member of dev, just add yours (go to cmd and write 'hostname' and you will get the correct string)
